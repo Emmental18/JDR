@@ -1,22 +1,24 @@
-# Isora Volescu
+# Fiche de personnage Anima
 
-**Nom:** Volescu  **Prénom:** Isora	**Titre: \
+**Nom:** Jarre  **Prénom:** Jean-Michel	**Titre: \
 **Classe:** Virtuose martial \
-**Niveau:** 3 XP actuels: 155 \
-XP pour niveau suivant: 225
-Âge: Sexe:	Orientation sexuelle: \
+**Niveau:** 1 XP actuels: 0 \
+XP pour niveau suivant: 100 \
+Points de Formation(Restants):
+
+Âge: Genre:	Orientation sexuelle: \
 Race: Ethnie: Natura :	Gnose: \
-Langue maternelle: Achéron	Autres: \	
+Langue maternelle: Latin	Autres: \	
 Religion d'origine:	Pratiquée: \
 Cheveux, yeux, peau: \
-Points de Formation(Restants): \
-Taille, Poids: \
-Apparence: Taille: 16
+Taille, Poids:
+
+Apparence: Taille: 
 
 
 Méthode de tirage des caractéristiques: 36 points à répartir (-1 à cause de la Sheele) +16 niveau 1 \
 Tirage de base des caractéristiques: AGI: 4 CON: 4 DEX: 5 FOR: 4 INT: 4 PER: 4 POU: 6 VOL: 4  \
-**AGI:** 6+2(bottes)  **CON:** 9  **DEX:** 6  **FOR:** 8  **INT:** 4  **PER:** 4  **POU:** 12  **VOL:** 4
+**AGI:** 6  **CON:** 9  **DEX:** 6  **FOR:** 8  **INT:** 4  **PER:** 4  **POU:** 12  **VOL:** 4
 
 
 Fatigue: 9 \
@@ -25,15 +27,10 @@ Actions Actives: 2 \
 Régénération: 2	Au repos:	Sans repos:	Spécial:
 
 
-**Avantages et désavantages généraux:** \
-Pleine Accumulation 2 \
-Techniques déliées 1 \
-Familier 2 \
-Maître Martial 1 \
-Réaction lente -2 \
-Vulnérable à la douleur -1 \
-Grave allergie (Fer) -1 \
-(Niveau 1) Nature magique 1
+**Avantages et désavantages :**
+- Apte (Musique) 1
+- Phobie (Chiens)-1
+
 
 #### Présence: 45
 **RPhy, RMal, RPoi:** 45(Pre)+10(CON)+20(Corps de vide) = 75 \
@@ -323,65 +320,51 @@ Habileté Manuelle: (Base)+5(Dex)+ =
 
 Nom: Arc court	 Qualité: +10
 
- Attaque:	Parade:	Base de dégâts: Mod. Force:	Dégâts:	Spécial:
- Vitesse: +0	Solidité:	Fracassement:	Présence:	Mode1:	Mode2:
- Portée efficace 40(Base) + 20(FOR) = 60 m → Portée maximale 120m (-30 à l'Attaque)
+ Attaque:	Parade:	Base de dégâts: Mod. Force:	Dégâts:	Spécial: \
+ Vitesse: +0	Solidité:	Fracassement:	Présence:	Mode1:	Mode2: \
+ Portée efficace 40(Base) + 20(FOR) = 60 m → Portée maximale 120m (-30 à l'Attaque) \
 Flèche : 40
- Flèche +15 en métal bleuté : 14  avec en kiss cool destruction de zeon contre rmys 140
- Flèche légère : 20 +20m portée maximale
+
 
 ### Armures :
 
-Nom: Cuir Bouilli	 Qualité: +10
+Nom: Cuir Bouilli	 Qualité: +0
 
- Solidité:	Présence:	Type:	Port Requis:	Localisation:
- Ips: 4 sauf Énergie 0	
+ Solidité:	Présence:	Type:	Port Requis:	Localisation: \
+ Ips: 2 sauf Énergie 0	
 
 TRA:	-CON:	-PER:	-CHA:	-ELE:	-FRO:	-ENE:
 
 ### Autres :
- 3 carquois ( 2×20 Flèches , 1×20 Flèches légères) 
- Stylet +15 en métal bleuté 
- Bottes AGI+2
- couteau 
- couverture + bâche étanche pour dormir à la belle étoile 
- savon, miroir 
- quelques craies 
- gourde 
- citronelle / herbe à brûler pour repousser les insectes → 1 mois
- rations 1 mois
- le tout dans un sac à dos
- ah, et des bottes étanches
- si on doit patauger dans des marais
- (le couteau est un cadeau de mon grand-père Bjorn)
- paquet de graisse pour s'occupper du cuir/corde d'arc
- (réservé au cordonnier de Vendrill : nacelle à Killgar)
+ 
+
+### Ressources
 
 Or:	Argent:	Cuivre: 
- 165
 
- ### Élan :
+
+### Élan :
 
 | Entité | Synchronisation | Bonus |
 | --- | --- | --- |
-| Mikael | 5 | | 
+| Mikael |  | | 
 | Zemial |  | | 
-| Uriel | 4 | | 
-| Jedah | 1 | | 
-| Gabriel | 3 | | 
-| Noah | 2 | | 
-| Raphael | 2 | | 
+| Uriel |  | | 
+| Jedah |  | | 
+| Gabriel |  | | 
+| Noah |  | | 
+| Raphael |  | | 
 | Erebus |  | | 
-| Azrael | 4 | | 
+| Azrael |  | | 
 | Abbadon |  | | 
-| Barakiel | 6 | | 
+| Barakiel |  | | 
 | Eriol |  | | 
 | Edamiel |  | | 
 | Mesguis |  | | 
 
 
 
-### Points de Destin : 2-1
+### Points de Destin : 
 
 ***
 
