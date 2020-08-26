@@ -1,9 +1,13 @@
 # Isora Volescu
 
+![Isora](../_images/archer_carre.png)
+
 **Nom:** Volescu  **Prénom:** Isora	**Titre: \
 **Classe:** Virtuose martial \
-**Niveau:** 3 XP actuels: 155 \
-XP pour niveau suivant: 225
+**Niveau:** 5 XP actuels: 550 \
+XP pour niveau suivant: 750
+
+
 Âge: Sexe:	Orientation sexuelle: \
 Race: Ethnie: Natura :	Gnose: \
 Langue maternelle: Achéron	Autres: \	
@@ -35,22 +39,22 @@ Vulnérable à la douleur -1 \
 Grave allergie (Fer) -1 \
 (Niveau 1) Nature magique 1
 
-#### Présence: 45
-**RPhy, RMal, RPoi:** 45(Pre)+10(CON)+20(Corps de vide) = 75 \
-**RMys:** 45(Pre)+20(POU) +20(Corps de vide)= 85 \
-**RPsy:** 45(Pre)-5(VOL)+20(Corps de vide) =60
+#### Présence: 50
+**RPhy, RMal, RPoi:** 50(Pre)+10(CON)+20(Corps de vide) = 80 \
+**RMys:** 50(Pre)+20(POU) +20(Corps de vide)= 90 \
+**RPsy:** 50(Pre)-5(VOL)+20(Corps de vide) = 65
 
-**Initiative :** 20(Base)-(Armure)+10(AGI)+5(DEX)+(Arme)+5*4(Classe)-50(Avantage) = +5
+**Initiative :** 20(Base)-(Armure)+10(AGI)+5(DEX)+(Arme)+5*6(Classe)-50(Avantage) = + 10
 
-**Points de Vie :** 120(CON)+5*4(Classe)+(Multiplicateurs: PFs)+(Avantage) = 140 = -78= 57
+**Points de Vie :** 120(CON)+5*5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 145 = -78= 57
 
 ***
 ##### CHAMPS PRINCIPAUX :
 ***
-## Champ Martial: (540 PFs)
+## Champ Martial: (590 PFs) +10
 
-**Compétences** (190 Pfs): \
- Attaque: 95(Base)+5(Dex)+5*4(Classe)= 120 (130 arc +10) \
+**Compétences** (240 Pfs): \
+ Attaque: 120(Base)+5(Dex)+5*5(Classe)= 150 (160 arc +10) \
  Esquive: (Base)+(Agi)+*(Classe)= 10 \
  Parade: (Base)+(Dex)+*(Classe)= 5 \
  Port d'Armure: (Base)+(For)= 10  \
@@ -59,7 +63,7 @@ Grave allergie (Fer) -1 \
 **Capacités spéciales/Modules d'Armes:** ( PFs) \
 - Arc court (0pf)
 
-**Ki et accumulations:**(260 Pfs) \
+**Ki et accumulations:** (260 Pfs) \
 Accumulations 		Points de Ki
 
 | |  Base | Achetés | Base | Achetés | 
@@ -73,11 +77,11 @@ Accumulations 		Points de Ki
 |Total |  | 25 | (47) | 127 | 
 
  Ki : 57(Base) + 80(Achetés) = 137 
- Reste 34
+ Reste 1
  
  
  
-Flèches : 40-10
+Flèches : 40-14
 
 
 ### Techniques: (100 DI)
@@ -117,11 +121,11 @@ Plus tard :
  DI:	Ki:
 
 
-**Développement intérieur total:** 50*4(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+90(90 PFs)= 330	Utilisé: 300 \
+**Développement intérieur total:** 50*5(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+90(90 PFs)= 380	Utilisé: 300 \
  Rang d'apprentissage:  \
 Pouvoirs de puissance intérieure : (70+130 DI) \
-**Utilisation du Ki** (40): O
-- Contrôle du Ki (30): O
+**Utilisation du Ki** (40): [X]
+- Contrôle du Ki (30): [X]
     - Détection du Ki (20):
         - Appréciation du Ki (10):
 - Forcer techniques (20):
@@ -175,18 +179,18 @@ Pouvoirs de puissance intérieure : (70+130 DI) \
 - Surhumanité (30):
     - Zen (50):
 
-**Utilisation du Némésis** (70): O       Portée des auras : 25m
+**Utilisation du Némésis** (70): [X]       Portée des auras : 25m
 - Armure de vide (20):
     - Noht (30):
 - Annulation du Ki (20):
     - Annulation majeure du Ki (30):
-- Annulation de la magie (20): O 2 Ki/ round (5 si 1 une personne) 24 acc → -60 Zéon 
+- Annulation de la magie (20): [X] 2 Ki/ round (5 si 1 une personne) 24 acc → -60 Zéon 
     - Annulation majeure de la magie (30): 5 Ki/ round (10 si 1)
 - Annulation des matrices (20): 2 Ki/ round (5 si 1 une personne)
     - Annulation majeure des matrices (30): 5 Ki/ round (10 si 1)
 - Annulation des liens (20):
-- Extrusion de vide (30): O
-- Corps de vide (10): O
+- Extrusion de vide (30): [X]
+- Corps de vide (10): [X]
     - Sans besoin (10):
     - Mouvement de vide (20):
     - Forme de vide (30):
@@ -201,34 +205,34 @@ Pouvoirs de puissance intérieure : (70+130 DI) \
 ## Champ Mystique: (190 PFs)
 
 **AMR:** 10 (POU)	 \
- Régénération zéonique: 15(AMR)*(1+5 (Multiplicateurs))= 90	Restant : -30 (Sheele) -5(Poche infinie ×10)= 55/j  \
- Zéon: 165(POU)+50*4(Classe)+25(15 PFs)= 370 \
+ Régénération zéonique: 15(AMR)*(1+5 (Multiplicateurs))= 90	Restant : -35 (Sheele) -5(Poche infinie ×10)= 50/j  \
+ Zéon: 165(POU)+50*5(Classe)+25(15 PFs)= 420 \
  Reste : 325-210 = 200 \
  Projection magique: (Base)+(Dex)=	Déséquilibre: \
 
 **Sheele :** Liviel \
- PV 90 \
+ PV 100 \
  -49
 
 For 4 Dex 6 Agi 7 Con 3 Int 7 Pou 8 Vol 6 Per 8 \
 Niveaux de voie : Essence 20 (Nettoyage, Poche infinie) \
 Champs secondaires : 
-- Vigilance 40+4*10+40= 120
-- Observation 20+4*10+40= 100
+- Vigilance 40+5*10+40= 130
+- Observation 20+5*10+40= 110
 - Animaux 40
-- Évaluation magique 80+4*10+40= 150
+- Évaluation magique 80+5*10+40= 160
 - Herboristerie 80
 - Medécine 20
-- Persuasion 20+4*10+40 = 100
-- Style 20+4*10+40 = 100
+- Persuasion 20+5*10+40 = 110
+- Style 20+5*10+40 = 110
 - Poisons 80
 
 Pouvoirs :
 - Forme naturelle
-- Projection accrue
-- Défenseur → Projection défensive 150
+- Projection accrue ×2
+- Défenseur → Projection défensive 180
 - Bouclier de l'âme (150 Zéons, dure Volonté rounds, Présence×10 PV, Proj+50)
-    PV : 450
+    PV : 500
 - Compétences améliorées
 - Sentiments liés (peut voir, entendre et parler via Liviel)
 
@@ -265,7 +269,7 @@ Pouvoirs :
 
 ***
 
-#### CHAMPS SECONDAIRES: (170 PFs)
+#### CHAMPS SECONDAIRES: (170 PFs)+40
   
 
 [2]**Champ Athlétique:**(60 Pfs) \
