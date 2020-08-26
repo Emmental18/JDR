@@ -1,6 +1,6 @@
 # Fiche de personnage Anima
 
-**Nom:** Jarre  **Prénom:** Jean-Michel	**Titre: \
+**Nom:** Jarre  **Prénom:** Jean-Michel 	**Titre:**  \
 **Classe:** Virtuose martial \
 **Niveau:** 1 XP actuels: 0 \
 XP pour niveau suivant: 100 \
@@ -18,7 +18,7 @@ Apparence: Taille:
 
 Méthode de tirage des caractéristiques: 36 points à répartir (-1 à cause de la Sheele) +16 niveau 1 \
 Tirage de base des caractéristiques: AGI: 4 CON: 4 DEX: 5 FOR: 4 INT: 4 PER: 4 POU: 6 VOL: 4  \
-**AGI:** 6  **CON:** 9  **DEX:** 6  **FOR:** 8  **INT:** 4  **PER:** 4  **POU:** 12  **VOL:** 4
+**AGI:** 6  **CON:** 9  **DEX:** 6  **FOR:** 8  **INT:** 4  **PER:** 4  **POU:** 10  **VOL:** 4
 
 
 Fatigue: 9 \
@@ -32,31 +32,32 @@ Régénération: 2	Au repos:	Sans repos:	Spécial:
 - Phobie (Chiens)-1
 
 
-#### Présence: 45
-**RPhy, RMal, RPoi:** 45(Pre)+10(CON)+20(Corps de vide) = 75 \
-**RMys:** 45(Pre)+20(POU) +20(Corps de vide)= 85 \
-**RPsy:** 45(Pre)-5(VOL)+20(Corps de vide) =60
+#### Présence : 30
+**RPhy, RMal, RPoi:** (Pre)+(CON) =  \
+**RMys:** (Pre)+(POU) =  \
+**RPsy:** (Pre)+(VOL) =
 
-**Initiative :** 20(Base)-(Armure)+10(AGI)+5(DEX)+(Arme)+5*4(Classe)-50(Avantage) = +5
+**Initiative :** 20(Base)-(Armure)+(AGI)+(DEX)+10(Arme)+5×1(Classe)+ = 
 
-**Points de Vie :** 120(CON)+5*4(Classe)+(Multiplicateurs: PFs)+(Avantage) = 140 = -78= 57
+**Points de Vie :** (CON)+5×1(Classe)+(Multiplicateurs: PFs)+(Avantage) =  \
+Restants :
 
 ***
-##### CHAMPS PRINCIPAUX :
+##### CHAMPS PRINCIPAUX : ( PFs)
 ***
-## Champ Martial: (540 PFs)
+## Champ Martial : ( PFs)
 
-**Compétences** (190 Pfs): \
- Attaque: 95(Base)+5(Dex)+5*4(Classe)= 120 (130 arc +10) \
- Esquive: (Base)+(Agi)+*(Classe)= 10 \
- Parade: (Base)+(Dex)+*(Classe)= 5 \
- Port d'Armure: (Base)+(For)= 10  \
+**Compétences** ( Pfs): \
+ Attaque: (Base)+(Dex)+×(Classe)=  \
+ Esquive: (Base)+(Agi)+×(Classe)=  \
+ Parade: (Base)+(Dex)+×(Classe)=  \
+ Port d'Armure: (Base)+(For)=   \
 
 
-**Capacités spéciales/Modules d'Armes:** ( PFs) \
+**Capacités spéciales/Modules d'Armes :** ( PFs) \
 - Arc court (0pf)
 
-**Ki et accumulations:**(260 Pfs) \
+**Ki et accumulations :** ( Pfs) \
 Accumulations 		Points de Ki
 
 | |  Base | Achetés | Base | Achetés | 
@@ -69,70 +70,45 @@ Accumulations 		Points de Ki
 | POU | 2 | 11 | 14 | 80 |  
 |Total |  | 25 | (47) | 127 | 
 
- Ki : 57(Base) + 80(Achetés) = 137 
- Reste 34
- 
- 
- 
-Flèches : 40-10
+Ki restant : 
+
+### Limites : ( DI)
+
+- **Nom :** Coût : \
+    Effet :
+
+### Techniques : ( DI)
+
+- **Nom :** Niveau : \
+    Effet : \
+    DI : Ki :
+
+### Arts Martiaux : ( PFs)
+
+- **Nom :** Niveau : \
+    Avantages : \
+    DI octroyé :  \
+    Module d'armes associé : \
+    Bonus à l'attaque : Bonus à la défense : \
+    Dégâts :
+
+### Ars Magnus : ( PFs) ( DI)
+
+- **Nom :** Niveau : \
+    Effet : \
+    PF : DI :
 
 
-### Techniques: (100 DI)
 
-**Nom:** Flèches Éthérées	 Niveau: 1 \
- Un peu comme l'arme de Saber dans Fate/Zero : de l'air condensé, invisible à repérer \
- Effets: Attaque Camouflée (240), Liée à un élément (Air), Maintenue, Combinable \
- DI: 20	Ki: 12(3) POU
+**Développement intérieur total:** ×1(Classe)+(ArtsMartiaux)+(MaîtreMartial)+( PFs)= \
+Utilisé: 300 \
+Rang d'apprentissage:  \
+Pouvoirs de puissance intérieure : ( DI) 
 
-**Nom:** Pluie de flèches Niveau: 1 \
-Dégâts 2×Présence + POU = 110 ENE \
- Effets: Attaque de zone (25m, choix des cibles), Liée à un élément (Air), Combinable \
- DI: 20	Ki: 9 POU
-
-**Nom:** Hypnose Niveau: 2 \
- Effets: État surnaturel (RPhy 160, Fascination), Liée à un élément (Obscurité), Combinable, Pas de dégâts \
- DI: 40	Ki: 26 POU 2 VOL
-
-**Nom:** Arc Enflammé	 Niveau: 1 \
-Effets: Attaque (+50), Maintenue, Liée à un élément (Feu), Combinable \
- DI: 20	Ki: 12(4) DEX 
-
-
-Plus tard :
-
-**Nom:**	 Niveau: \
- Effets: Initiative (+), Maintenue, Liée à un élément (Air), Prédétermination \
- DI:	Ki:
-
-**Nom:**	 Niveau: \
- Effets: Récupérer action, Transport instantané (50m), Liée à un élément (Air) \
- DI: 20 	Ki: 6 AGI 6 VOL +2 POU
-
-
-**Nom:**	 Niveau: \
- Effets: \
- DI:	Ki:
-
-
-**Développement intérieur total:** 50*4(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+90(90 PFs)= 330	Utilisé: 300 \
- Rang d'apprentissage:  \
-Pouvoirs de puissance intérieure : (70+130 DI) \
-**Utilisation du Ki** (40): O
-- Contrôle du Ki (30): O
+**Utilisation du Ki** ( DI) : 
+- Contrôle du Ki (30): 
     - Détection du Ki (20):
         - Appréciation du Ki (10):
-- Forcer techniques (20):
-- Aura de combat (40):
-- Maîtrise physique (10):
-    - Changement physique (30): (10Ki, 1/min)
-        - Changement supérieur (20): (20Ki, 2/min)
-    - Multiplication des corps (30):
-        - Multiplication des corps majeure (30):
-            - Multiplication des corps arcane (40):
-        - Magnitude (30):
-            - Magnitude arcane (40):
-    - Contrôle de l'âge (20):
-- Imitation de techniques (50):
 - Annulation du Poids (10):
     - Lévitation (20):
         - Déplacement d'objets (10):
@@ -148,42 +124,54 @@ Pouvoirs de puissance intérieure : (70+130 DI) \
         - Portée accrue (10):
         - Vitesse accrue (10):
     - Destruction par le Ki (20):
-- Absorption d'énergie (30):
-- Bouclier Physique (10):
+    - Absorption d'énergie (30):
+    - Bouclier Physique (10):
 - Transmission du Ki (10):
     - Guérison par le Ki (10): (2PV/Ki, max la moitié des PV perdus)
         - Guérison supérieure (10): (5PV/Ki)
-    - Stabilisation (10):
+        - Stabilisation (10):
 - Sacrifice vital (10):
 - Utilisation de l'Énergie Nécessaire (10):
     - Dissimulation du Ki (10):
         - Aura de Dissimulation (10):
         - Fausse Mort (10):
     - Élimination des Besoins (10):
-    - Immunité élémentaire : Feu (20) :
-    - Immunité élémentaire : Froid (20) :
-    - Immunité élémentaire : Électricité (20) :
-    - Élimination des Malus (20):
-        - Récupération (20):
-            - Récupération d'autrui (10):
-- Augmentation des Caractéristiques (20):
-    - Accroissement supérieur (20):
+        - Immunité élémentaire : Feu (20) :
+        - Immunité élémentaire : Froid (20) :
+        - Immunité élémentaire : Électricité (20) :
+        - Élimination des Malus (20):
+    - Récupération (20):
+        - Récupération d'autrui (10):
+    - Augmentation des Caractéristiques (20):
+        - Accroissement supérieur (20):
 - Techniques de combat improvisées (50):
+- Forcer techniques (20):
+- Aura de combat (40):
+- Maîtrise physique (10):
+    - Changement physique (30): (10Ki, 1/min)
+        - Changement supérieur (20): (20Ki, 2/min)
+    - Multiplication des corps (30):
+        - Multiplication des corps majeure (30):
+            - Multiplication des corps arcane (40):
+        - Magnitude (30):
+            - Magnitude arcane (40):
+    - Contrôle de l'âge (20):
+- Imitation de techniques (50):
 - Surhumanité (30):
     - Zen (50):
 
-**Utilisation du Némésis** (70): O       Portée des auras : 25m
+**Utilisation du Némésis** ( DI) :        Portée des auras : 
 - Armure de vide (20):
     - Noht (30):
 - Annulation du Ki (20):
     - Annulation majeure du Ki (30):
-- Annulation de la magie (20): O 2 Ki/ round (5 si 1 une personne) 24 acc → -60 Zéon 
+- Annulation de la magie (20):  2 Ki/ round (5 si 1 une personne) 
     - Annulation majeure de la magie (30): 5 Ki/ round (10 si 1)
 - Annulation des matrices (20): 2 Ki/ round (5 si 1 une personne)
     - Annulation majeure des matrices (30): 5 Ki/ round (10 si 1)
 - Annulation des liens (20):
-- Extrusion de vide (30): O
-- Corps de vide (10): O
+- Extrusion de vide (30): 
+- Corps de vide (10): 
     - Sans besoin (10):
     - Mouvement de vide (20):
     - Forme de vide (30):
@@ -194,71 +182,88 @@ Pouvoirs de puissance intérieure : (70+130 DI) \
 - Surhumanité (20):
     - Zen (40):
 
+### Sceaux : ( DI)
+
+| Élément | Mineur | Majeur |
+| --- | --- | --- |
+| Terre | | |
+| Métal | | |
+| Air | | |
+| Feu | | |
+| Eau | | |
+
+**Créatures connues**
+- Nom : Sceaux :
+
+**Pactes réalisés**
+- Nom :	 Sceaux :
+
+
 ***
 ## Champ Mystique: (190 PFs)
 
-**AMR:** 10 (POU)	 \
- Régénération zéonique: 15(AMR)*(1+5 (Multiplicateurs))= 90	Restant : -30 (Sheele) -5(Poche infinie ×10)= 55/j  \
- Zéon: 165(POU)+50*4(Classe)+25(15 PFs)= 370 \
- Reste : 325-210 = 200 \
- Projection magique: (Base)+(Dex)=	Déséquilibre: \
+**Zéon** (POU)+(Classe)+( PFs)=	\
+Restant
 
-**Sheele :** Liviel \
- PV 90 \
- -49
+**AMR** (POU)*(1+ (Multiplicateurs))=	\
+Régénération zéonique:( (POU)×(1+(Multiplicateurs AMR)+(Multiplicateurs de Régénération)))×(Avantage)= \
+Restant : /j
 
-For 4 Dex 6 Agi 7 Con 3 Int 7 Pou 8 Vol 6 Per 8 \
-Niveaux de voie : Essence 20 (Nettoyage, Poche infinie) \
-Champs secondaires : 
-- Vigilance 40+4*10+40= 120
-- Observation 20+4*10+40= 100
-- Animaux 40
-- Évaluation magique 80+4*10+40= 150
-- Herboristerie 80
-- Medécine 20
-- Persuasion 20+4*10+40 = 100
-- Style 20+4*10+40 = 100
-- Poisons 80
+**Projection magique :** (Base)+(Dex)=	Déséquilibre:
 
-Pouvoirs :
-- Forme naturelle
-- Projection accrue
-- Défenseur → Projection défensive 150
-- Bouclier de l'âme (150 Zéons, dure Volonté rounds, Présence×10 PV, Proj+50)
-    PV : 450
-- Compétences améliorées
-- Sentiments liés (peut voir, entendre et parler via Liviel)
+Niveaux de magies totaux: (Base)+( PFs)+(Avantage)	Restants:
+
+Avantages métamagiques : ( Niveaux de voie)
+
+| Voie | | | |
+| --- | --- | --- | ---- |
+| Lumière | 10 (Temps) | Obscurité | |
+| Création | | Destruction | |
+| Eau | | Feu | |
+| Air | | Terre | |
+| Essence | | Illusion | |
+| Nécromancie | | | |
+
+**Sorts d'accès libre:**
+
+**Sorts indépendants:**
+
+Convoquer: (Base)+(POU)+(Classe)=	\
+Dominer: (Base)+(VOL)+(Classe)=	\
+Lier: (Base)+(POU)+(Classe)=	\
+Révoquer: (Base)+(POU)+(Classe)=
+
+Spécialisation: \
+Créatures connues: \
+Créatures liées:\
+Invocations connues: 
+Pactes obtenus:\ 
+Incarnation :
 
 
-| | Hibou | Chat | Nya leusi | Ilona
-| --- | --- | --- | --- | --- |
-| Initiative | 30 | 60 | 100 | 70 |
-| PV | 70 | 40 | 110 | 875 |
-| Attaque | 30 | 20 | 135 | 80 |
-| Défense | Esq. 5 | Esq. 40  | Esq. 110  | Enc. IP 3 |
-| Dégâts | 10 PER | 10 PER | 50 TRA | 60 CON  |
-| Acrobaties |	-  | 30 | 40  | - |
-| Athétisme |	-  | 25 | 50 | 200 |
-| Escalade | -  | 25 |  -  |  - |
-| Natation |	- |  - |  -  | 15 |
-| Saut | - |  25  | -  | 140 |
-| Pr. de force |	- |  - |  -  | 50 |
-| Observation |	50(20)	 | 20  | 100(70) | 	- |
-| Pistage | 65(35) | 	25  | 100(70) | 	- |
-| Vigilance |	70(40) | 	40  | 100(70)	 | 50 |
-| Intimidation |	-  | - |  10  | - |
-| Style | -  | - |  - |  40 |
-| Camouflage |	- |  15  | 80  | - |
-| Discrétion |	50  | 20 |  155  | -  |
-| Sens aiguisé | 	Vue&ouïe | 	- | 	odorat | 	- |
-| Spécial | Vol 10 | Voir le surnaturel | Voir le surnaturel | Lien spirituel avec le cavalier |
-| Rphy, Rpoi, Rmal | 15 | 10 | 45 | 50 |
-| Rmys | 20 | 20 | 40 | 45 |
-| Rpsy | 20 | 10 | 40 | 50 |
+| Invocation | Coût | Difficulté | Effets |
+| --- | --- | --- | --- |
+| Dio | 20 | 150+ | Kono DIO da ! |
 
+ 
 ***
 
 ## Champ Psychique: (0 PFs)
+
+PPPs: (Classe)+ =	Libres :	
+
+Talent psychique : (Vol)+( PPPs)+(Divers) =
+
+Projection psychique : (Base)+(Dex) =	Déséquilibre:
+
+Patrons psychiques :
+
+Attaches psychiques:
+
+Disciplines ouvertes:
+
+Pouvoirs:
+
 
 ***
 
@@ -271,7 +276,8 @@ Athlétisme: 5(Base)+10(Agi)+15(RC) =25 \
 Équitation: 20(Base)+10(Agi)+1*10 = 40 \
 Escalade: (Base)+10(Agi)+ = \
 Natation: 5(Base)+10(Agi)+ = 15 \
-Saut: (Base)+10(For)+ =
+Saut: (Base)+10(For)+ = \
+*Pilotage*: (Base)+(Agi)+ =
 
 [2] **Champ Vital:** (10 Pfs) \
 Impassibilité: 5(Base)-5(Vol)+4*10 = 40 \
@@ -284,13 +290,23 @@ Pistage:  10(Base)-5(Per)+15(RC)+4×10 = 60 \
 Vigilance: (Base)-5(Per)+10 = 
 
 [3] **Champ Intellectuel:** ( Pfs) \
-Animaux: (Base)-5(Int)+10(RC) = \
-Évaluation Magique: (Base)+20(Pou)+ = \
-Herboristerie: (Base)-5(Int)+10(RC) = \
+*Animaux*: (Base)-5(Int)+10(RC) = \
+*Estimation*: (Base)+(Int)+ = \
+*Évaluation Magique*: (Base)+20(Pou)+ = \
+*Herboristerie*: (Base)-5(Int)+10(RC) = \
+*Histoire*: (Base)+(Int)+ = \
+*Loi*: (Base)+(Int)+ = \
+*Médecine*: (Base)+(Int)+ = \
 Mémorisation: (Base)-5(Int)+ = \
+*Navigation*: (Base)+(Int)+ = \
+*Occultisme*: (Base)+(Int)+ = \
+*Science*: (Base)+(Int)+ = \
+*Tactique*: (Base)+(Int)+ =
+
 
 [2] **Champ Social:** (30 Pfs) \
 Commandement: 5(Base)+20(Pou)+ = 25 \
+*Commerce*: (Base)+(Int)+ = \
 Étiquette: (Base)-5(Int)+ = \
 Intimidation: (Base)-5(Vol)+ = \
 Persuasion: (Base)-5(Int)+10(RC)+= \
@@ -303,13 +319,22 @@ Déguisement: (Base)+5(Dex)+ = \
 Discrétion: 10(Base)+4×10(Agi)+4×10 = 90 \
 Larcin: (Base)+5(Dex)+ = \
 Pièges: (Base)+5(Dex)+15(RC) = \
-Poisons: (Base)-5(Int)+ =
+*Poisons*: (Base)-5(Int)+ =
 
 [2] **Champ Créatif:** (10 Pfs) \
 Art: (Base)+20(Pou)+ = \
-Danse: (Base)+10(Agi)+ = \
-Forge: 5(Base)+5(Dex)+3×10  = 40 (Flèches 80, autres 0) \
-Habileté Manuelle: (Base)+5(Dex)+ =
+*Danse*: (Base)+10(Agi)+ = \
+*Forge*: 5(Base)+5(Dex)+3×10  = 40 (Flèches 80, autres 0) \
+Habileté Manuelle: (Base)+5(Dex)+ = \
+*Musique*: (Base)+(Pou)+ = \
+*Fabrication de marionnettes*: (Base)+(Pou)+ = \
+*Calligraphie rituelle*: (Base)+(Dex)+ = \
+*Alchimie* \
+*Animisme* \
+*Runes* \
+*Orfèvrerie* \
+*Confection* \
+*Tatouage*
 
 
 ***
@@ -342,10 +367,11 @@ TRA:	-CON:	-PER:	-CHA:	-ELE:	-FRO:	-ENE:
 
 Or:	Argent:	Cuivre: 
 
+***
 
 ### Élan :
 
-| Entité | Synchronisation | Bonus |
+| Entité | Synchronisation |  |
 | --- | --- | --- |
 | Mikael |  | | 
 | Zemial |  | | 
@@ -362,53 +388,25 @@ Or:	Argent:	Cuivre:
 | Edamiel |  | | 
 | Mesguis |  | | 
 
+### Autres :
+
+**Réputation totale :**
+- Audace:
+- Lâcheté:
+- Honorabilité:
+- Infamie:
+- Habileté:
+
+**Santé mentale :**
+- Seuil de folie:	
+- Psychose ou traumatisme:
+
+**Pacte du Dragon :**
+ Nom du Dragon:	Sacrifice du Pacte:
 
 
-### Points de Destin : 
+**Points de Destin :** 
 
 ***
 
-DIVERS:
-
-Najim : Bastarache Drechler
- Kalva : Lucia
- JB : Ika Arces
- Yehon : Killgar
-Vendrill
- Fête du printemps
-Illa Vesbaris =Intendante de la garnison d'z de Vendrill
- Commandant Brega
-
-Ion von Karl : marchand spécialisé dans l'importation de denrées exotiques de l'Itzi
- Adya Ionescu :
-Kirgan : siège de la guilde des vivriers, grenier du royaume
-
-Cité de Tepek
-
-Attaque d'hommes hirsutes le premier jour 
-Arrivée à l'auberge fortifiée  
- Rencontre avec Lorn Askarian qui admire les épées 
-Attaque nocturne surprise 
-Ville de Kirgan. Remparts de pierre. Siège de la guilde des vivriers.  
-  Chef des forcées armées : général Bogdan Poka (Kopa ?) 
-Hammeliga 
- village fortifié. Garnison militaire uniquement 
- tour hexagonale (80m) au milieu  
- Capitaine lrich Maresku (2nd du général Kassil) 
-Cité de Tepek 
- beaucoup de cultures de maïs, trouées dans la jungle 
- guttes, chaumières 
- 
- 
-Embuscade par des coureurs des bois (dards empoisonnés !), serviteurs de :
-Xamicuitl, fils de "l'Ombre dont les mortels n'ont pas le droit de prononcer le nom", le maître suprême des jungles de l'Itzi
-première descendance du Dragon d'Ombre Nezcarramos, premier serviteur de Svalkistalazar 
-
-
-
-
-
-
-
-
-Domaine de l'Exilé
+## DIVERS : 
