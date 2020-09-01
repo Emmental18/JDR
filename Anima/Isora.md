@@ -2,7 +2,7 @@
 
 ![Isora](../_images/archer_carre.png)
 
-**Nom:** Volescu  **Prénom:** Isora	**Titre: \
+**Nom:** Volescu  **Prénom:** Isora	**Titre:** \
 **Classe:** Virtuose martial \
 **Niveau:** 5 XP actuels: 550 \
 XP pour niveau suivant: 750
@@ -51,7 +51,7 @@ Grave allergie (Fer) -1 \
 ***
 ##### CHAMPS PRINCIPAUX :
 ***
-## Champ Martial: (590 PFs) +10
+## Champ Martial: (600 PFs) 
 
 **Compétences** (240 Pfs): \
  Attaque: 120(Base)+5(Dex)+5*5(Classe)= 150 (160 arc +10) \
@@ -76,7 +76,7 @@ Accumulations 		Points de Ki
 | POU | 2 | 11 | 14 | 80 |  
 |Total |  | 25 | (47) | 127 | 
 
- Ki : 57(Base) + 80(Achetés) = 137 
+ Ki : 47(Base) + 80(Achetés) = 127 
  Reste 1
  
  
@@ -121,13 +121,13 @@ Plus tard :
  DI:	Ki:
 
 
-**Développement intérieur total:** 50*5(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+90(90 PFs)= 380	Utilisé: 300 \
+**Développement intérieur total:** 50*5(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+110(110 PFs)= 390	Utilisé: 390 \
  Rang d'apprentissage:  \
-Pouvoirs de puissance intérieure : (70+130 DI) \
+Pouvoirs de puissance intérieure : (140+120 DI) \
 **Utilisation du Ki** (40): [X]
 - Contrôle du Ki (30): [X]
-    - Détection du Ki (20):
-        - Appréciation du Ki (10):
+    - Détection du Ki (20): [X]    390(DI)+10(Vig)÷2 = 200 
+        - Appréciation du Ki (10): [X]
 - Forcer techniques (20):
 - Aura de combat (40):
 - Maîtrise physique (10):
@@ -155,13 +155,13 @@ Pouvoirs de puissance intérieure : (70+130 DI) \
         - Portée accrue (10):
         - Vitesse accrue (10):
     - Destruction par le Ki (20):
-- Absorption d'énergie (30):
+- Absorption d'énergie (30): [X]
 - Bouclier Physique (10):
 - Transmission du Ki (10):
     - Guérison par le Ki (10): (2PV/Ki, max la moitié des PV perdus)
         - Guérison supérieure (10): (5PV/Ki)
     - Stabilisation (10):
-- Sacrifice vital (10):
+- Sacrifice vital (10): [X]
 - Utilisation de l'Énergie Nécessaire (10):
     - Dissimulation du Ki (10):
         - Aura de Dissimulation (10):
@@ -192,7 +192,7 @@ Pouvoirs de puissance intérieure : (70+130 DI) \
 - Extrusion de vide (30): [X]
 - Corps de vide (10): [X]
     - Sans besoin (10):
-    - Mouvement de vide (20):
+    - Mouvement de vide (20): [X]
     - Forme de vide (30):
         - Essence de vide (20):
         - Un avec le néant (40):
@@ -217,14 +217,14 @@ Pouvoirs de puissance intérieure : (70+130 DI) \
 For 4 Dex 6 Agi 7 Con 3 Int 7 Pou 8 Vol 6 Per 8 \
 Niveaux de voie : Essence 20 (Nettoyage, Poche infinie) \
 Champs secondaires : 
-- Vigilance 40+5*10+40= 130
-- Observation 20+5*10+40= 110
+- Vigilance 40+6*10+40= 140
+- Observation 20+6*10+40= 120
 - Animaux 40
-- Évaluation magique 80+5*10+40= 160
+- Évaluation magique 80+6*10+40= 170
 - Herboristerie 80
 - Medécine 20
-- Persuasion 20+5*10+40 = 110
-- Style 20+5*10+40 = 110
+- Persuasion 20+6*10+40 = 120
+- Style 20+6*10+40 = 120
 - Poisons 80
 
 Pouvoirs :
@@ -237,31 +237,31 @@ Pouvoirs :
 - Sentiments liés (peut voir, entendre et parler via Liviel)
 
 
-| | Hibou | Chat | Nya leusi | Ilona
-| --- | --- | --- | --- | --- |
-| Initiative | 30 | 60 | 100 | 70 |
-| PV | 70 | 40 | 110 | 875 |
-| Attaque | 30 | 20 | 135 | 80 |
-| Défense | Esq. 5 | Esq. 40  | Esq. 110  | Enc. IP 3 |
-| Dégâts | 10 PER | 10 PER | 50 TRA | 60 CON  |
-| Acrobaties |	-  | 30 | 40  | - |
-| Athétisme |	-  | 25 | 50 | 200 |
-| Escalade | -  | 25 |  -  |  - |
-| Natation |	- |  - |  -  | 15 |
-| Saut | - |  25  | -  | 140 |
-| Pr. de force |	- |  - |  -  | 50 |
-| Observation |	50(20)	 | 20  | 100(70) | 	- |
-| Pistage | 65(35) | 	25  | 100(70) | 	- |
-| Vigilance |	70(40) | 	40  | 100(70)	 | 50 |
-| Intimidation |	-  | - |  10  | - |
-| Style | -  | - |  - |  40 |
-| Camouflage |	- |  15  | 80  | - |
-| Discrétion |	50  | 20 |  155  | -  |
-| Sens aiguisé | 	Vue&ouïe | 	- | 	odorat | 	- |
-| Spécial | Vol 10 | Voir le surnaturel | Voir le surnaturel | Lien spirituel avec le cavalier |
-| Rphy, Rpoi, Rmal | 15 | 10 | 45 | 50 |
-| Rmys | 20 | 20 | 40 | 45 |
-| Rpsy | 20 | 10 | 40 | 50 |
+| | Hibou | Chat | Nya leusi | Ilona | Fourmi ouvrière | Fourmi guerrière |
+| --- | --- | --- | --- | --- | --- | --- |
+| Initiative | 30 | 60 | 100 | 70 | 55 | 85 |
+| PV | 70 | 40 | 110 | 875 | 60 | 125 IP2 |
+| Attaque | 30 | 20 | 135 | 80 | 70 | 120 |
+| Défense | Esq. 5 | Esq. 40  | Esq. 110  | Enc. IP 3 | Esq. 70 | Esq. 125 |
+| Dégâts | 10 PER | 10 PER | 50 TRA | 60 CON  | 40 TRA | 90 TRA  |
+| Acrobaties |	-  | 30 | 40  | - | - | - |
+| Athétisme |	-  | 25 | 50 | 200 | 35 | 45 |
+| Escalade | -  | 25 |  -  |  - | 70 | 45 |
+| Natation | - |  - |  -  | 15 | - | - |
+| Saut | - |  25  | -  | 140 | 75 | 45 |
+| Pr. de force | - |  - |  -  | 50 | - | - |
+| Observation |	50(20) | 20  | 100(70) | 	- | 25(55) | 15(45) |
+| Pistage | 65(35) | 25  | 100(70) | - | - | - |
+| Vigilance |	70(40) | 40  | 100(70) | 50 | 30(60) | 30(60) |
+| Intimidation |	-  | - |  10  | - | - | - |
+| Style | -  | - |  - |  40 | - | - |
+| Camouflage |	- |  15  | 80  | - | - | - |
+| Discrétion |	50  | 20 |  155  | -  | - | - |
+| Sens aiguisé | 	Vue&ouïe | 	- | odorat | - | vision circulaire | vision circulaire |
+| Spécial | Vol 10 | Voir le surnaturel | Voir le surnaturel | Lien spirituel avec le cavalier | Dard RPoi 80 | Rpoi 100, Acide Rphy80 25m |
+| Rphy, Rpoi, Rmal | 15 | 10 | 45 | 50 | 25 | 25 |
+| Rmys | 20 | 20 | 40 | 45 | 20 | 20 |
+| Rpsy | 20 | 10 | 40 | 50 | 10 | 10 |
 
 ***
 
@@ -269,26 +269,26 @@ Pouvoirs :
 
 ***
 
-#### CHAMPS SECONDAIRES: (170 PFs)+40
+#### CHAMPS SECONDAIRES: (180 PFs)+30
   
 
 [2]**Champ Athlétique:**(60 Pfs) \
 Acrobaties: (Base)+10(Agi)+ = \
-Athlétisme: 5(Base)+10(Agi)+15(RC) =25 \
-Équitation: 20(Base)+10(Agi)+1*10 = 40 \
+Athlétisme: 5(Base)+10(Agi)+15(RC) = 25 \
+Équitation: 20(Base)+10(Agi)+2*10 = 50 \
 Escalade: (Base)+10(Agi)+ = \
 Natation: 5(Base)+10(Agi)+ = 15 \
 Saut: (Base)+10(For)+ =
 
 [2] **Champ Vital:** (10 Pfs) \
-Impassibilité: 5(Base)-5(Vol)+4*10 = 40 \
+Impassibilité: 5(Base)-5(Vol)+5*10 = 50 \
 Prouesses de Force: (Base)+10(For)+ = \
 Résistance à la douleur: (Base)-5(Vol)+ = \
 
-[2] **Champ Sensoriel:** (20 Pfs) \
+[2] **Champ Sensoriel:** (30 Pfs) \
 Observation: (Base)-5(Per)+ = \
-Pistage:  10(Base)-5(Per)+15(RC)+4×10 = 60 \
-Vigilance: (Base)-5(Per)+10 = 
+Pistage:  10(Base)-5(Per)+15(RC)+5×10 = 70 \
+Vigilance: 5(Base)-5(Per)+10 = 10
 
 [3] **Champ Intellectuel:** ( Pfs) \
 Animaux: (Base)-5(Int)+10(RC) = \
@@ -297,17 +297,17 @@ Herboristerie: (Base)-5(Int)+10(RC) = \
 Mémorisation: (Base)-5(Int)+ = \
 
 [2] **Champ Social:** (30 Pfs) \
-Commandement: 5(Base)+20(Pou)+ = 25 \
+Commandement: 5(Base)+3×20(Pou)+ = 65 \
 Étiquette: (Base)-5(Int)+ = \
 Intimidation: (Base)-5(Vol)+ = \
 Persuasion: (Base)-5(Int)+10(RC)+= \
 Style: 10(Base)+4×20(Pou)+10(RC) = 100
 
 [2] **Champ clandestin:** (40 Pfs) \
-Camouflage: 10(Base)-5(Per)+15(RC)+4×10 = 60 \
+Camouflage: 10(Base)-5(Per)+15(RC)+5×10 = 70 \
 Crochetage: (Base)+5(Dex)+ = \
 Déguisement: (Base)+5(Dex)+ = \
-Discrétion: 10(Base)+4×10(Agi)+4×10 = 90 \
+Discrétion: 10(Base)+5×10(Agi)+5×10 = 110 \
 Larcin: (Base)+5(Dex)+ = \
 Pièges: (Base)+5(Dex)+15(RC) = \
 Poisons: (Base)-5(Int)+ =
@@ -327,39 +327,39 @@ Habileté Manuelle: (Base)+5(Dex)+ =
 
 Nom: Arc court	 Qualité: +10
 
- Attaque:	Parade:	Base de dégâts: Mod. Force:	Dégâts:	Spécial:
- Vitesse: +0	Solidité:	Fracassement:	Présence:	Mode1:	Mode2:
- Portée efficace 40(Base) + 20(FOR) = 60 m → Portée maximale 120m (-30 à l'Attaque)
-Flèche : 40
- Flèche +15 en métal bleuté : 14  avec en kiss cool destruction de zeon contre rmys 140
+ Attaque:	Parade:	Base de dégâts: Mod. Force:	Dégâts:	Spécial: \
+ Vitesse: +0	Solidité:	Fracassement:	Présence:	Mode1:	Mode2: \
+ Portée efficace 40(Base) + 20(FOR) = 60 m → Portée maximale 120m (-30 à l'Attaque) \
+Flèche : 40 \
+ Flèche +15 en métal bleuté : 14  avec en kiss cool destruction de zeon contre rmys 140 \
  Flèche légère : 20 +20m portée maximale
 
 ### Armures :
 
 Nom: Cuir Bouilli	 Qualité: +10
 
- Solidité:	Présence:	Type:	Port Requis:	Localisation:
+ Solidité:	Présence:	Type:	Port Requis:	Localisation: \
  Ips: 4 sauf Énergie 0	
 
 TRA:	-CON:	-PER:	-CHA:	-ELE:	-FRO:	-ENE:
 
 ### Autres :
- 3 carquois ( 2×20 Flèches , 1×20 Flèches légères) 
- Stylet +15 en métal bleuté 
- Bottes AGI+2
- couteau 
- couverture + bâche étanche pour dormir à la belle étoile 
- savon, miroir 
- quelques craies 
- gourde 
- citronelle / herbe à brûler pour repousser les insectes → 1 mois
- rations 1 mois
- le tout dans un sac à dos
- ah, et des bottes étanches
- si on doit patauger dans des marais
- (le couteau est un cadeau de mon grand-père Bjorn)
- paquet de graisse pour s'occupper du cuir/corde d'arc
- (réservé au cordonnier de Vendrill : nacelle à Killgar)
+ 3 carquois ( 2×20 Flèches , 1×20 Flèches légères) \
+ Stylet +15 en métal bleuté  \
+ Bottes AGI+2 \
+ couteau  \
+ couverture + bâche étanche pour dormir à la belle étoile  \
+ savon, miroir  \
+ quelques craies  \
+ gourde  \
+ citronelle / herbe à brûler pour repousser les insectes → 1 mois \
+ rations 1 mois \
+ le tout dans un sac à dos \
+ ah, et des bottes étanches \
+ si on doit patauger dans des marais \
+ (le couteau est un cadeau de mon grand-père Bjorn) \
+ paquet de graisse pour s'occupper du cuir/corde d'arc \
+ (réservé au cordonnier de Vendrill : nacelle à Killgar) \
 
 Or:	Argent:	Cuivre: 
  165
