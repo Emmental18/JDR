@@ -8,9 +8,9 @@
 XP pour niveau suivant: 750
 
 
-Âge: Sexe:	Orientation sexuelle: \
-Race: Ethnie: Natura :	Gnose: \
-Langue maternelle: Achéron	Autres: \	
+Âge: Sexe: F	Orientation sexuelle: Bastarache \
+Race: Humaine  Ethnie: Basan   Natura : 0  Gnose: \
+Langue maternelle: Achéron	Autres:  \	
 Religion d'origine:	Pratiquée: \
 Cheveux, yeux, peau: \
 Points de Formation(Restants): \
