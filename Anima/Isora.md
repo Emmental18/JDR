@@ -4,7 +4,7 @@
 
 **Nom:** Volescu  **Prénom:** Isora	**Titre:** \
 **Classe:** Virtuose martial \
-**Niveau:** 5 XP actuels: 550 \
+**Niveau:** 6 XP actuels: 580 \
 XP pour niveau suivant: 750
 
 
@@ -20,11 +20,11 @@ Apparence: Taille: 16
 
 Méthode de tirage des caractéristiques: 36 points à répartir (-1 à cause de la Sheele) +16 niveau 1 \
 Tirage de base des caractéristiques: AGI: 4 CON: 4 DEX: 5 FOR: 4 INT: 4 PER: 4 POU: 6 VOL: 4  \
-**AGI:** 6+2(bottes)  **CON:** 9  **DEX:** 6  **FOR:** 8  **INT:** 4  **PER:** 4  **POU:** 12  **VOL:** 4
+**AGI:** 6+2(bottes)  **CON:** 9  **DEX:** 6  **FOR:** 8  **INT:** 4  **PER:** 4  **POU:** 13  **VOL:** 4
 
 
-Fatigue: 9 \
-Mouvement: 8	M/round: 22 \
+Fatigue: 9-4 \
+Mouvement: 12	M/round: 50 \
 Actions Actives: 2 \
 Régénération: 2	Au repos:	Sans repos:	Spécial:
 
@@ -39,22 +39,23 @@ Vulnérable à la douleur -1 \
 Grave allergie (Fer) -1 \
 (Niveau 1) Nature magique 1
 
-#### Présence: 50
-**RPhy, RMal, RPoi:** 50(Pre)+10(CON)+20(Corps de vide) = 80 \
-**RMys:** 50(Pre)+20(POU) +20(Corps de vide)= 90 \
-**RPsy:** 50(Pre)-5(VOL)+20(Corps de vide) = 65
+#### Présence: 55
+**RPhy, RMal, RPoi:** 55(Pre)+10(CON)+20(Corps de vide) = 85 \
+**RMys:** 55(Pre)+20(POU) +20(Corps de vide)= 95 \
+**RPsy:** 55(Pre)-5(VOL)+20(Corps de vide) = 70
 
-**Initiative :** 20(Base)-(Armure)+10(AGI)+5(DEX)+(Arme)+5*6(Classe)-50(Avantage) = + 10
+**Initiative :** 20(Base)-(Armure)+10(AGI)+5(DEX)+(Arme)+6*5(Classe)-50(Avantage) = + 15
 
-**Points de Vie :** 120(CON)+5*5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 145 = -78= 57
-
+**Points de Vie :** 120(CON)+6*5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 150 \ 
+Restants : 75-135
+Sacrifiés : 70
 ***
 ##### CHAMPS PRINCIPAUX :
 ***
-## Champ Martial: (600 PFs) 
+## Champ Martial: (660 PFs) 
 
-**Compétences** (240 Pfs): \
- Attaque: 120(Base)+5(Dex)+5*5(Classe)= 150 (160 arc +10) \
+**Compétences** (290 Pfs): \
+ Attaque: 145(Base)+5(Dex)+6*5(Classe)= 180 (190 arc +10) \
  Esquive: (Base)+(Agi)+*(Classe)= 10 \
  Parade: (Base)+(Dex)+*(Classe)= 5 \
  Port d'Armure: (Base)+(For)= 10  \
@@ -73,15 +74,15 @@ Accumulations 		Points de Ki
 | DEX | 1 | 7 | 6 |  | 
 | CON | 1 |  | 9 |  | 
 | VOL | 1 |  | 4 |  | 
-| POU | 2 | 11 | 14 | 80 |  
-|Total |  | 25 | (47) | 127 | 
+| POU | 3 | 11 | 14 | 80 |  
+|Total |  | 26 | (47) | 127 | 
 
  Ki : 47(Base) + 80(Achetés) = 127 
- Reste 1
+ Reste 10
+ 13/round
  
  
- 
-Flèches : 40-14
+Flèches : 70-4
 
 
 ### Techniques: (100 DI)
@@ -92,7 +93,7 @@ Flèches : 40-14
  DI: 20	Ki: 12(3) POU
 
 **Nom:** Pluie de flèches Niveau: 1 \
-Dégâts 2×Présence + POU = 110 ENE \
+Dégâts 2×Présence + POU = 120 ENE \
  Effets: Attaque de zone (25m, choix des cibles), Liée à un élément (Air), Combinable \
  DI: 20	Ki: 9 POU
 
@@ -103,6 +104,10 @@ Dégâts 2×Présence + POU = 110 ENE \
 **Nom:** Arc Enflammé	 Niveau: 1 \
 Effets: Attaque (+50), Maintenue, Liée à un élément (Feu), Combinable \
  DI: 20	Ki: 12(4) DEX 
+
+**Nom:** Flèche Solaire, La Croix du Sud	 Niveau: \
+ Effets: Attaque (+200), Liée à un élément (Feu), Combinable  \
+ DI: 60 	Ki:
 
 
 Plus tard :
@@ -115,15 +120,15 @@ Plus tard :
  Effets: Récupérer action, Transport instantané (50m), Liée à un élément (Air) \
  DI: 20 	Ki: 6 AGI 6 VOL +2 POU
 
-
 **Nom:**	 Niveau: \
  Effets: \
  DI:	Ki:
 
 
-**Développement intérieur total:** 50*5(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+110(110 PFs)= 390	Utilisé: 390 \
+
+**Développement intérieur total:** 6*50(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+110(110 PFs)= 450	Utilisé: 390 \
  Rang d'apprentissage:  \
-Pouvoirs de puissance intérieure : (140+120 DI) \
+Pouvoirs de puissance intérieure : (140+150 DI) \
 **Utilisation du Ki** (40): [X]
 - Contrôle du Ki (30): [X]
     - Détection du Ki (20): [X]    390(DI)+10(Vig)÷2 = 200 
@@ -145,7 +150,7 @@ Pouvoirs de puissance intérieure : (140+120 DI) \
         - Déplacement d'objets (10):
             - Déplacement des masses (20): (1Ki/50kg/rd)
         - Vol (20): (1Ki/Mvmt, 1/min)
-- Extrusion du Ki (10):
+- Extrusion du Ki (10): [X]
     - Armure d'Énergie (10):
        - Armure d'Énergie Majeure (10):
             - Armure d'Énergie Arcane (10):
@@ -155,13 +160,13 @@ Pouvoirs de puissance intérieure : (140+120 DI) \
         - Portée accrue (10):
         - Vitesse accrue (10):
     - Destruction par le Ki (20):
-- Absorption d'énergie (30): [X]
+    - Absorption d'énergie (30): [X] 1 ki → 5 dégâts
 - Bouclier Physique (10):
 - Transmission du Ki (10):
     - Guérison par le Ki (10): (2PV/Ki, max la moitié des PV perdus)
         - Guérison supérieure (10): (5PV/Ki)
     - Stabilisation (10):
-- Sacrifice vital (10): [X]
+- Sacrifice vital (10): [X] 2PV sacrifiés → 1 Ki
 - Utilisation de l'Énergie Nécessaire (10):
     - Dissimulation du Ki (10):
         - Aura de Dissimulation (10):
@@ -205,36 +210,37 @@ Pouvoirs de puissance intérieure : (140+120 DI) \
 ## Champ Mystique: (190 PFs)
 
 **AMR:** 10 (POU)	 \
- Régénération zéonique: 15(AMR)*(1+5 (Multiplicateurs))= 90	Restant : -35 (Sheele) -5(Poche infinie ×10)= 50/j  \
- Zéon: 165(POU)+50*5(Classe)+25(15 PFs)= 420 \
- Reste : 325-210 = 200 \
+ Régénération zéonique: 15(AMR)*(1+5 (Multiplicateurs))= 90	Restant : -40 (Sheele) -5(Poche infinie ×10)= 45/j  \
+ Zéon: 175(POU)+6*50(Classe)+25(15 PFs)= 500 \
+ Reste :500 \
  Projection magique: (Base)+(Dex)=	Déséquilibre: \
 
 **Sheele :** Liviel \
- PV 100 \
- -49
+ PV Présence×4 = 220 (Régénération 5 PV/round) \ 
+ -76
 
 For 4 Dex 6 Agi 7 Con 3 Int 7 Pou 8 Vol 6 Per 8 \
 Niveaux de voie : Essence 20 (Nettoyage, Poche infinie) \
 Champs secondaires : 
-- Vigilance 40+6*10+40= 140
-- Observation 20+6*10+40= 120
+- Vigilance 40+7*10+40= 150
+- Observation 20+7*10+40= 130
 - Animaux 40
-- Évaluation magique 80+6*10+40= 170
+- Évaluation magique 80+7*10+40= 180
 - Herboristerie 80
 - Medécine 20
-- Persuasion 20+6*10+40 = 120
-- Style 20+6*10+40 = 120
+- Persuasion 20+7*10+40 = 130
+- Style 20+7*10+40 = 130
 - Poisons 80
 
 Pouvoirs :
-- Forme naturelle
+- Forme naturelle (20 Zéons par changement)
 - Projection accrue ×2
-- Défenseur → Projection défensive 180
+- Défenseur → Projection défensive 190
 - Bouclier de l'âme (150 Zéons, dure Volonté rounds, Présence×10 PV, Proj+50)
-    PV : 500
+    PV : 500 -110
 - Compétences améliorées
 - Sentiments liés (peut voir, entendre et parler via Liviel)
+- Endurance améliorée
 
 
 | | Hibou | Chat | Nya leusi | Ilona | Fourmi ouvrière | Fourmi guerrière |
@@ -269,7 +275,7 @@ Pouvoirs :
 
 ***
 
-#### CHAMPS SECONDAIRES: (180 PFs)+30
+#### CHAMPS SECONDAIRES: (210 PFs)
   
 
 [2]**Champ Athlétique:**(60 Pfs) \
@@ -303,18 +309,18 @@ Intimidation: (Base)-5(Vol)+ = \
 Persuasion: (Base)-5(Int)+10(RC)+= \
 Style: 10(Base)+4×20(Pou)+10(RC) = 100
 
-[2] **Champ clandestin:** (40 Pfs) \
+[2] **Champ clandestin:** (60 Pfs) \
 Camouflage: 10(Base)-5(Per)+15(RC)+5×10 = 70 \
 Crochetage: (Base)+5(Dex)+ = \
 Déguisement: (Base)+5(Dex)+ = \
 Discrétion: 10(Base)+5×10(Agi)+5×10 = 110 \
 Larcin: (Base)+5(Dex)+ = \
-Pièges: (Base)+5(Dex)+15(RC) = \
+Pièges: 10(Base)+5(Dex)+15(RC) = 30 \
 Poisons: (Base)-5(Int)+ =
 
-[2] **Champ Créatif:** (10 Pfs) \
+[2] **Champ Créatif:** (20 Pfs) \
 Art: (Base)+20(Pou)+ = \
-Danse: (Base)+10(Agi)+ = \
+Danse: 5(Base)+10(Agi)+ = 15 \
 Forge: 5(Base)+5(Dex)+3×10  = 40 (Flèches 80, autres 0) \
 Habileté Manuelle: (Base)+5(Dex)+ =
 
@@ -357,7 +363,7 @@ TRA:	-CON:	-PER:	-CHA:	-ELE:	-FRO:	-ENE:
  le tout dans un sac à dos \
  ah, et des bottes étanches \
  si on doit patauger dans des marais \
- (le couteau est un cadeau de mon grand-père Bjorn) \
+ ~~(le couteau est un cadeau de mon grand-père Bjorn)~~  (offert en offrande sur le bûcher de Lucia) \
  paquet de graisse pour s'occupper du cuir/corde d'arc \
  (réservé au cordonnier de Vendrill : nacelle à Killgar) \
 
@@ -368,24 +374,24 @@ Or:	Argent:	Cuivre:
 
 | Entité | Synchronisation | Bonus |
 | --- | --- | --- |
-| Mikael | 5 | | 
+| Mikael | 7 | | 
 | Zemial |  | | 
-| Uriel | 4 | | 
+| Uriel | 7 | | 
 | Jedah | 1 | | 
-| Gabriel | 3 | | 
-| Noah | 2 | | 
-| Raphael | 2 | | 
-| Erebus |  | | 
-| Azrael | 4 | | 
+| Gabriel | 4 | | 
+| Noah | 7 | | 
+| Raphael | 1 | | 
+| Erebus | 1 | | 
+| Azrael | 2 | | 
 | Abbadon |  | | 
-| Barakiel | 6 | | 
+| Barakiel | 9 | | 
 | Eriol |  | | 
 | Edamiel |  | | 
 | Mesguis |  | | 
 
 
 
-### Points de Destin : 2-1
+### Points de Destin : 0    
 
 ***
 
@@ -433,3 +439,98 @@ première descendance du Dragon d'Ombre Nezcarramos, premier serviteur de Svalki
 
 
 Domaine de l'Exilé
+
+Hammeliga : 
+
+17/06 : Voyage vers Hammeliga. Diner avec un groupe de sorciers connaissances/admirateurs de Sigma. Rencontre avec un duk'zarist qui dit que j'ai du potentiel magique et propose de... m'aider à le libérer (?) dans le futur.
+On récupère la nacelle pour Killgar 
+
+23/09 : 
+Départ vers le sud-est, vers la grande cité perdue dans la jungle. Arrivée à un village brûlé en ruines. Pyramide (3 étages, mais des souterrains en plus) dédiée à la Messagère.
+À l'intérieur, passage dans la Veille où un rituel sombre se trame
+
+01/10 :
+Affrontement contre le groméchant (sorcier naga en train de canaliser les âmes des morts), son invocation protectrice (gros truc reptilien à encaissement) et son turak de compagnie (et sa hache de bataille).
+Le rituel est interrompu avant son terme ; un portail s'ouvre et une grande griffe draconique récupère l'artefact (dent de dragon ?) qui servait à brûler les âmes des morts. Explosion mystique, cassage de genoux du mage.
+
+07/10 :
+
+
+12/10 :
+4 jours de marche dans le marais depuis le temple de la Messagère. Attaque de la pyramide, protégée par plein de mines de feu, des jayans corrompus et des turaks.
+
+
+14/10 :
+Sortie des Jayans corrompus. Encornage (très, Attaque 528) douloureux. Point de destin mais cicatrice à vie sous la gorge.
+
+21/10 : (absent)
+Dispute entre les tribus au sujet de quel dieu tutélaire vénérer
+- Bichu vénère le dieu-soleil Ceyacoatl. Grand prête
+- Akulma, vénère le serpent de l'eau (dieu ). Chamane Itzel
+- Unsek. LEader Ixpil
+Ameyal, tribu des Eruzoro, vénère Patchamama déesse mère, fertilité
+Guerrier Sage Siaocoatl, tribu des Bichou, vénère le Soleil
+Shamane Itzelle, tribu des Aculma, vénère le Serpent de l'eau, vie la pêche et du fleuve, Utai
+Xpil, tribu des Inseck, vénère le dieux Maïs, de la nourriture, Sentéoclxioatl
+
+26/10 :
+Nezcarramos se fait désormais appeler Citlacoatl (nom d'un démon responsable des éclipses de soleil)
+
+
+Plan de table
+
+[Le châtiment divin]
+Tour 1
+J'en appelle à vous dieux protecteurs de l'Itzi, 
+Voyez votre terre ravagée par l'ennemi
+(je vous préviens
+la suite ne sera pas alexandrins)
+Tour 2 (l'incantation prend des accents désespérés)
+L'impur et l'infidèle 
+Abattront vos autels !
+Écoutez mon appel ;
+Montrez par votre zèle
+Qu'ils sont aussi mortels !
+Tour 3 :
+Que le courroux des cieux
+Allumé par mes voeux 
+Fasse pleuvoir sur eux
+UN DÉLUGE DE FEU
+(dédicace à Corneille, Horace, Acte IV Scène 5)
+(tire une flèche droit en l'air)
+Que le regard de Bichu vous consume !
+(Le zénith s'éclaircit, le soleil grossit, semble transpercer les cieux. Un énorme rayon en sort, réduisant en cendres toutes ce qu'il juge impur)
+...
+Que la mâchoire d'Utai vous dévore !
+(un immense serpent surgit depuis l'horizon. on ne voit pas encore la fin de son corps que sa tête démesurée se dresse au-dessus de la mêlée, cachant le soleil. Il ouvre grand la gueule et s'abat sur le sol en la refermant. Les dents ne se touchent pas toutes, et certaines personnes sont épargnées)
+...
+Que l'abondance de Sentéoclxiocatl vous étreigne !
+(du sol jaillisent des tiges, et un champ de maïs se met à pousser, dru. les tiges sont très rapprochées, et les épis de maïs qui commencent à pousser dessus sont les plus gros que vous avez jamais vu. Le problème, c'est qu'il y en a tellement que vous l'on ne peut plus bouger. On étouffe presque. Et puis vous entendez les bruits de personnes qui craquent broyées par la végétation)
+...
+Que la bonté de Pachamama vous caresse !
+(dans les cieux apparaît une immense femme. Elle lève la paume puis referme sa main et pointe le doigt vers vous. Le doigt descend. Il commence à rougoyer, ce qui inquiètereait vos personnages s'ils comprenaient qu'il s'agit de la couleur que prend un doigt de plusieurs kilomètres quand son extrémité effectue une rentrée atmosphérique... C'est la déesse Terre, et la Terre est grande. Le doigt se pose délicatement sur vous, vous sentez une douce caresse pendant que le bruit d'un astéroïde heurtant le sol assourdit vos tympans)
+...
+Base de dégâts 135
+DI +50 Attaque (+200) KI 30 DEX + 2 POU 
+DI +40 Attaque de zone 100m choix des cibles Ki 13 POU
+DI +40 Attaques supplémentaires (+3, Bonus de fatigue partagé, Combo) Ki 22 DEX
+DI +5  Réduction d'armure (IP -2) Ki 4 FOR
+DI -20 Prédétermination
+DI -25 Sacrifice de vie complet
+DI -30 Malus à toutes les actions (-150)
+Ki : POU 42  DEX 24  FOR 3  VOL 2  CON 2 (total 73, 3 rounds)
+
+
+30 DI pour un autre truc qui pète
+Lié au Feu/obscurité 
+Prédétermination 
+Sacrifice de PV Complet
+
+DI +5 Choc Physique 
+
+
+DI 50 KI 30 DEX (POU +2)
+ DI 40 KI 13 POU 
+ DI -60
+
+ +3 Atta supp combo bonus de fatigue complet DI 40 Ki 22 DEX 
