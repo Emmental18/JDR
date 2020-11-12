@@ -6,14 +6,16 @@ Loup-Garou V20
 **Concept :** Bouffon
 
 ## Renommée
+p.143-144 \
 **Gloire :** 0,3 \
 **Honneur :** 3,1 \
 **Sagesse :** 0,3 \
-**Rang :**  1 \
-**Expérience** (Totale/Restante) : 4/0
+**Rang :**  1 (p.251) \
+**Expérience** (Totale/Restante) : 4/0 (p.244)
  
 #
 # Attributs
+p.125
 | Physiques | | Sociaux | | Mentaux | |
 | --- | --- | --- | --- | --- | --- |
 | Force | 5 | Charisme | 2 | Perception | 4 |
@@ -21,6 +23,7 @@ Loup-Garou V20
 | Vigueur | 3 | Apparence | 2 | Astuce | 4 |
 
 # Capacités
+p.127-131-133
 | Talents ||  | Compétences || | Connaissances ||  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Athéltisme | (Course d'endurance)| 3 | Animaux ||   | Droit ||   |
@@ -41,41 +44,44 @@ Loup-Garou V20
 * Pas de transformation partielle -1
 * Vengeance -2 (Moloch)
 
-| Historiques | | 
+| Historiques (p.136) | |
 | --- | --- | 
-| Rituels | 4 | 
+| Rituels | 4 | page 202 |
 | Vies ancestrales | 4 | 
 | Esprit de la meute | 4 | 
 
 **Rites connus** \
-Rite d'invocation 2 \
-Rite de purification 1 \
-Rite de blessure 1 \
+!8D6e[=10]c[>=6] # Rite d'invocation 2 (p.212 \
+!6D6c[>=7] # Rite de purification 1 (p.205) \
+!6D6c[>=6] # Rite de blessure 1 (p.217) \
 
 
 ## Dons :
-* Sentir la proie
-* Trouble de l'œil laiteux
-* Abattage
+(de race p.153 d'auspice p161 tribaux p.173) \
+* Sentir la proie (p.159)
+* Trouble de l'œil laiteux (p.161)
+* Abattage (Mise au sol p.171)
 
 
-### Rage : 1/5
-### Gnose : 5/5
-### Volonté 9/10
+### Rage (p.146) : 1/5
+### Gnose (p.147) : 5/5
+### Volonté (p.148) : 9/10
 
 ## Santé 
-Contondants [/] Aggravés [X] Létaux [*] -- cf page 
+Contondants [/] Aggravés [X] Létaux [*] -- cf page 253
 
-| Niveau | Malus | |
-| --- | --- | --- |
-| Contusions | |  | 
-| Blessure légère | -1 |  | 
-| Blessure moyenne | -1 |  | 
-| Blessure grave | -2 |  | 
-| Handicap | -2 |  | 
-| Infirmité | -5 |  | 
-| Invalidité |  |  | 
+| Niveau | Malus | | |
+| --- | --- | --- | --- |
+| Contusions | | |  | 
+| Blessure légère | -1 | |  | 
+| Blessure moyenne | -1 | | Vitesse de course divisée par 2 | 
+| Blessure grave | -2 | | Ne peut plus se déplacer et attaquer dans le même tour | 
+| Handicap | -2 | | Déplacement limité (tituber à ~3m/tour) | 
+| Infirmité | -5 | | Ramper ~1m/tour | 
+| Invalidité |  | |  Ne peut pas se déplacer, peut-être inconscient |
+| Mort | | | | 
 
+p.285
 | | Homidé | Glabro | Crinos | Hispo | Lupus |
 | --- | --- | --- | --- | --- | ---  |
 | Diff. Transformation | 6 | 7 | 6 | 7 | 6 |
@@ -88,6 +94,12 @@ Contondants [/] Aggravés [X] Létaux [*] -- cf page
 | Autres | || DÉLIRE | Morsure +1 dégâts | | 
 
 ## Corps-à-corps
+!1D10+9 # Initiative (p.266) DEX+AST +1D10 \
+Actions supplémentaires p.288 \
+Esquive : DEX + Athlétisme \
+Bloquer : DEX + Bagarre \
+Parer : DEX + Mêlée \
+Dégâts (p.290) VIG + Armure diff 6 (contondants/aggravés) 8 (létaux)
 | Arme | Difficulté | Dégâts | |
 | --- | --- | --- | --- |
 | Morsure | 5 | FOR +1 | Aggravés |
