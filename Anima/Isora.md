@@ -131,7 +131,7 @@ Plus tard :
 Pouvoirs de puissance intérieure : (140+150 DI) \
 **Utilisation du Ki** (40): [X]
 - Contrôle du Ki (30): [X]
-    - Détection du Ki (20): [X]    390(DI)+10(Vig)÷2 = 200 
+    - Détection du Ki (20): [X]    450(DI)+10(Vig)÷2 = 230 
         - Appréciation du Ki (10): [X]
 - Forcer techniques (20):
 - Aura de combat (40):
@@ -184,12 +184,12 @@ Pouvoirs de puissance intérieure : (140+150 DI) \
 - Surhumanité (30):
     - Zen (50):
 
-**Utilisation du Némésis** (70): [X]       Portée des auras : 25m
+**Utilisation du Némésis** (70): [X]       Portée des auras : 50m
 - Armure de vide (20):
     - Noht (30):
 - Annulation du Ki (20):
     - Annulation majeure du Ki (30):
-- Annulation de la magie (20): [X] 2 Ki/ round (5 si 1 une personne) 24 acc → -60 Zéon 
+- Annulation de la magie (20): [X] 2 Ki/ round (5 si 1 une personne) 26 acc → -60 Zéon 
     - Annulation majeure de la magie (30): 5 Ki/ round (10 si 1)
 - Annulation des matrices (20): 2 Ki/ round (5 si 1 une personne)
     - Annulation majeure des matrices (30): 5 Ki/ round (10 si 1)
@@ -220,7 +220,7 @@ Pouvoirs de puissance intérieure : (140+150 DI) \
  -76
 
 For 4 Dex 6 Agi 7 Con 3 Int 7 Pou 8 Vol 6 Per 8 \
-Niveaux de voie : Essence 20 (Nettoyage, Poche infinie) \
+Niveaux de voie : Essence 20 (Nettoyage, Créer musique, Poche infinie, Surhumanité) \
 Champs secondaires : 
 - Vigilance 40+7*10+40= 150
 - Observation 20+7*10+40= 130
@@ -534,3 +534,13 @@ DI 50 KI 30 DEX (POU +2)
  DI -60
 
  +3 Atta supp combo bonus de fatigue complet DI 40 Ki 22 DEX 
+
+
+Update des stats
+/r $att=1d100!>90+190 # update changement de niveau
+/r $apprec_ki=1d100!>90+230
+/r $init=$DE+15 # tu vas pleurer Bastarache
+/r $obs=1d100!>90+130 # update changement de niveau
+/r $shield=1d100!>90+240 # update changement de niveau
+/r $style=1d100!>90+100
+/r $vig=1d100!>90+150 # update changement de niveau
