@@ -47,6 +47,7 @@ L'**Arsimboldo**, corvette des Oréades :
 - **Diego de Azur** (a esquinté l'œil du capitaine et s'est fait chourer sa cape par Bob)
 
 Cube argenté, formé de 26 petits cubes gravés de symboles (style Rubik's Cube). Au centre de chaque face, pas de symbole mais un cristal kaléidoscope (disque transparent renvoyant une image déformée de ce qu'il y a de l'autre côté).
+![Cube](../_images/cube.jpg)
 
 
 La **Sestrina**, navire marchand (propriété de Gustavo Vincento). Capitaine (âgé, jusqu'au boutiste) **Juan Carlo**.
