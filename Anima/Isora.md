@@ -4,8 +4,8 @@
 
 **Nom:** Volescu  **Prénom:** Isora	**Titre:** \
 **Classe:** Virtuose martial \
-**Niveau:** 6 XP actuels: 580 \
-XP pour niveau suivant: 750
+**Niveau:** 6 XP actuels: 870 \
+XP pour niveau suivant: 975
 
 
 Âge: Sexe: F	Orientation sexuelle: Bastarache \
@@ -24,7 +24,7 @@ Tirage de base des caractéristiques: AGI: 4 CON: 4 DEX: 5 FOR: 4 INT: 4 PER: 4 
 
 
 Fatigue: 9-4 \
-Mouvement: 12	M/round: 50 \
+Mouvement: 13	M/round: 80 \
 Actions Actives: 2 \
 Régénération: 2	Au repos:	Sans repos:	Spécial:
 
@@ -78,7 +78,8 @@ Accumulations 		Points de Ki
 |Total |  | 26 | (47) | 127 | 
 
  Ki : 47(Base) + 80(Achetés) = 127 
- Reste 10
+ Reste 
+ -1-3
  13/round
  
  
@@ -93,7 +94,7 @@ Flèches : 70-4
  DI: 20	Ki: 12(3) POU
 
 **Nom:** Pluie de flèches Niveau: 1 \
-Dégâts 2×Présence + POU = 120 ENE \
+Dégâts 2×Présence + POU = 135 ENE \
  Effets: Attaque de zone (25m, choix des cibles), Liée à un élément (Air), Combinable \
  DI: 20	Ki: 9 POU
 
@@ -209,8 +210,8 @@ Pouvoirs de puissance intérieure : (140+150 DI) \
 ***
 ## Champ Mystique: (190 PFs)
 
-**AMR:** 10 (POU)	 \
- Régénération zéonique: 15(AMR)*(1+5 (Multiplicateurs))= 90	Restant : -40 (Sheele) -5(Poche infinie ×10)= 45/j  \
+**AMR:** 15 (POU)	 \
+ Régénération zéonique: 15(AMR)*(1+5 (Multiplicateurs))= 90	Restant : -45 (Sheele) -5(Poche infinie ×10) -5(Surhumanité en Attaque)= 35/j  \
  Zéon: 175(POU)+6*50(Classe)+25(15 PFs)= 500 \
  Reste :500 \
  Projection magique: (Base)+(Dex)=	Déséquilibre: \
@@ -225,7 +226,7 @@ Champs secondaires :
 - Vigilance 40+7*10+40= 150
 - Observation 20+7*10+40= 130
 - Animaux 40
-- Évaluation magique 80+7*10+40= 180
+- Évaluation magique 80+7*10+40= 190
 - Herboristerie 80
 - Medécine 20
 - Persuasion 20+7*10+40 = 130
@@ -237,7 +238,7 @@ Pouvoirs :
 - Projection accrue ×2
 - Défenseur → Projection défensive 190
 - Bouclier de l'âme (150 Zéons, dure Volonté rounds, Présence×10 PV, Proj+50)
-    PV : 500 -110
+    PV : 550 -110
 - Compétences améliorées
 - Sentiments liés (peut voir, entendre et parler via Liviel)
 - Endurance améliorée
@@ -332,6 +333,16 @@ Habileté Manuelle: (Base)+5(Dex)+ =
 ### Armes:	
 
 Nom: Arc court	 Qualité: +10
+
+ Attaque:	Parade:	Base de dégâts: Mod. Force:	Dégâts:	Spécial: \
+ Vitesse: +0	Solidité:	Fracassement:	Présence:	Mode1:	Mode2: \
+ Portée efficace 40(Base) + 20(FOR) = 60 m → Portée maximale 120m (-30 à l'Attaque) \
+Flèche : 40 \
+ Flèche +15 en métal bleuté : 14  avec en kiss cool destruction de zeon contre rmys 140 \
+ Flèche légère : 20 +20m portée maximale
+
+
+Nom: Silfur (PE p)	 Qualité: +10
 
  Attaque:	Parade:	Base de dégâts: Mod. Force:	Dégâts:	Spécial: \
  Vitesse: +0	Solidité:	Fracassement:	Présence:	Mode1:	Mode2: \
@@ -463,6 +474,9 @@ Le rituel est interrompu avant son terme ; un portail s'ouvre et une grande grif
 14/10 :
 Sortie des Jayans corrompus. Encornage (très, Attaque 528) douloureux. Point de destin mais cicatrice à vie sous la gorge.
 
+Après t'être fait encorner par le monstre, pendant ce bref moment ou ton âme à été hors de ton corps tu t'es retrouvé face à deux  êtres célestes, deux femmes d'une grande beauté et à la Présence écrasante. La première, rousse à la peau pâle et aux yeux d'émeraude, vêtue d'une armure lourde de métal clair ornée de symboles dorés. La seconde, une beauté aux cheveux de Jais et à la peau pâle, te fixe avec ses yeux pâles, elle porte une longue robe de soirée blanche brodée de fils d'argent. Celle en armure s'adresse à toi: << Nous vous avons observés tes compagnons et toi et nous approuvons vos actes! Mais ton âme, elle, nous a ému, et nous souhaitons te donner la chance de retourner finir ce que vous avez commencé.
+(Edamiel et Mikael)
+
 21/10 : (absent)
 Dispute entre les tribus au sujet de quel dieu tutélaire vénérer
 - Bichu vénère le dieu-soleil Ceyacoatl. Grand prête
@@ -475,9 +489,22 @@ Xpil, tribu des Inseck, vénère le dieux Maïs, de la nourriture, Sentéoclxioa
 
 26/10 :
 Nezcarramos se fait désormais appeler Citlacoatl (nom d'un démon responsable des éclipses de soleil)
+Repas pour calmer les gens
+Isora s'occuppe du plan de table avec une mise en scène tip top :)
+
+04/11 :
+Descente dans les sous-sols péter la gueule eux bestioles qui montent et péter la gueule à l'Exilée...
+
+12/11 : 
+Combat !
+Bastarache va prendre le thé
+Killgar SMASH
+L'étang aux langoustines est compté dans les dégâts collatéraux :(
+
+18/11 :
+Silfur absorbe l'énergie magique des profondeurs (+20 AMR, +2 Acc POU/VOL)
 
 
-Plan de table
 
 [Le châtiment divin]
 Tour 1
@@ -520,6 +547,15 @@ DI -25 Sacrifice de vie complet
 DI -30 Malus à toutes les actions (-150)
 Ki : POU 42  DEX 24  FOR 3  VOL 2  CON 2 (total 73, 3 rounds)
 
+Base de dégâts 135 ENE
+- Attaque (+200) 
+- Attaque de zone 100m choix des cibles
+- Attaques supplémentaires (+3, Bonus de fatigue partagé, Combo) 
+-  Réduction d'armure (IP -2) 
+- Prédétermination
+- Sacrifice de vie complet
+- Malus à toutes les actions (-150)
+Ki : POU 42  DEX 24  FOR 3  VOL 2  CON 2 (total 73, 3 rounds)
 
 30 DI pour un autre truc qui pète
 Lié au Feu/obscurité 
@@ -530,10 +566,10 @@ DI +5 Choc Physique
 
 
 DI 50 KI 30 DEX (POU +2)
- DI 40 KI 13 POU 
- DI -60
+DI 40 KI 13 POU 
+DI -60
 
- +3 Atta supp combo bonus de fatigue complet DI 40 Ki 22 DEX 
++3 Atta supp combo bonus de fatigue complet DI 40 Ki 22 DEX 
 
 
 Update des stats
@@ -544,3 +580,4 @@ Update des stats
 /r $shield=1d100!>90+240 # update changement de niveau
 /r $style=1d100!>90+100
 /r $vig=1d100!>90+150 # update changement de niveau
+/r $dis=1d100!>90+110 # update changement de niveau
