@@ -7,8 +7,8 @@
 - En vrai, c'est mon bateau
 - Machinerie capricieuse mais inarrêtable 
 
-| Approches ||
-|---| --- |
+| Approches | |
+| --- | --- |
 | Astucieux | +2 |
 | Flamboyant | +2 |
 | ~~Puissant~~ Brutal | +3 |
@@ -26,8 +26,8 @@ Une fois par adversaire, +2 en ASTUCIEUX pour une attaque
 
 ### Stress & Conséquence
 [] [] []
-- [2]
-- [4]
+- [2] 
+- [4] Circuits fondus
 - [6]
 
 # Parties 
@@ -54,4 +54,28 @@ La **Sestrina**, navire marchand (propriété de Gustavo Vincento). Capitaine (�
 
 On laisse l'équipage de la Sestrina avec notre navire dissimulé sur **Nessos IV** (planète discrète et froide)
 
+Affrontement dans l'espace borg avec **4LV4D0R** qui nous retrouvera un jour.
+
 Arrivée à la **Porta de Oro**.
+
+Juan Miguel Masseno, dit « Le Titan »
+Le colossal capitaine du Goliath (Baleinier reconverti en abordeur, Plus rapide qu'il ne le laisse croire)
+Prompt à la colère
+(sorcier du vide : Il voit dans l'ether et dans le futur)
+
+
+The Noldor, outnumbered and taken at unawares, were yet swiftly victorious; for the light of Aman was not yet 
+dimmed in their eyes, and they were strong and swift, and deadly in anger, and their swords were long and terrible. 
+The Ores fled before them, and they were driven forth from Mithrim with great slaughter, and hunted over the Mountains of Shadow into the great plain of Ard-galen
+
+
+Un des points notés sur la carte :
+- la tête d'épingle : zone de la tempête particulièrement violente, un seul passage étroit au milieu d'un maelstrom
+- Hic est draconem
+
+
+(pensées de Juliette)
+Les véritables intentions de Valéry sont cachées ? Point de vue sur les Borgs ?
+
+Dimanche 29/11
+Docteur Tiphaine Farray
