@@ -44,27 +44,27 @@ Grave allergie (Fer) -1 \
 **RMys:** 55(Pre)+20(POU) +20(Corps de vide)= 95 \
 **RPsy:** 55(Pre)-5(VOL)+20(Corps de vide) = 70
 
-**Initiative :** 20(Base)-(Armure)+10(AGI)+5(DEX)+(Arme)+6*5(Classe)-50(Avantage) = + 15
+**Initiative :** 20(Base)-(Armure)+10(AGI)+5(DEX)+(Arme)+7*5(Classe)-50(Avantage) = + 20
 
-**Points de Vie :** 120(CON)+6*5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 150 \ 
+**Points de Vie :** 120(CON)+5*5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 155 \ 
 Restants : 75-135
 Sacrifiés : 70
 ***
 ##### CHAMPS PRINCIPAUX :
 ***
-## Champ Martial: (660 PFs) 
+## Champ Martial: (720 PFs) 
 
-**Compétences** (290 Pfs): \
- Attaque: 145(Base)+5(Dex)+6*5(Classe)= 180 (190 arc +10) \
+**Compétences** (300 Pfs): \
+ Attaque: 150(Base)+5(Dex)+7*5(Classe)= 190 (200 arc +10) \
  Esquive: (Base)+(Agi)+*(Classe)= 10 \
  Parade: (Base)+(Dex)+*(Classe)= 5 \
  Port d'Armure: (Base)+(For)= 10  \
 
 
-**Capacités spéciales/Modules d'Armes:** ( PFs) \
+**Capacités spéciales/Modules d'Armes:** (0 PFs) \
 - Arc court (0pf)
 
-**Ki et accumulations:** (260 Pfs) \
+**Ki et accumulations:** (300 Pfs) \
 Accumulations 		Points de Ki
 
 | |  Base | Achetés | Base | Achetés | 
@@ -75,9 +75,9 @@ Accumulations 		Points de Ki
 | CON | 1 |  | 9 |  | 
 | VOL | 1 |  | 4 |  | 
 | POU | 3 | 11 | 14 | 80 |  
-|Total |  | 26 | (47) | 127 | 
+|Total |  | 26 | (47) | 167 | 
 
- Ki : 47(Base) + 80(Achetés) = 127 
+ Ki : 47(Base) + 120(Achetés) = 167 
  Reste 
  -1-3
  13/round
@@ -86,7 +86,7 @@ Accumulations 		Points de Ki
 Flèches : 70-4
 
 
-### Techniques: (100 DI)
+### Techniques: (160 DI)
 
 **Nom:** Flèches Éthérées	 Niveau: 1 \
  Un peu comme l'arme de Saber dans Fate/Zero : de l'air condensé, invisible à repérer \
@@ -106,33 +106,49 @@ Dégâts 2×Présence + POU = 135 ENE \
 Effets: Attaque (+50), Maintenue, Liée à un élément (Feu), Combinable \
  DI: 20	Ki: 12(4) DEX 
 
-**Nom:** Flèche Solaire, La Croix du Sud	 Niveau: \
- Effets: Attaque (+200), Liée à un élément (Feu), Combinable  \
- DI: 60 	Ki:
+**Nom:** Le châtiment divin	 Niveau: 3 \
+Dégâts 2×Présence + POU = 135 ENE \
+ Effets: Attaque (+200), Attaque de zone (100m, choix des cibles), Attaques supplémentaires (+3, Bonus de fatigue partagé, Combo), Réduction d'armure (IP -2), Prédétermination, Sacrifice de vie complet, Malus à toutes les actions (-150)   \
+ DI: 60    Ki : POU 42  DEX 24  FOR 3  VOL 2  CON 2 (total 73, 3 rounds)
+
+Tour 1
+J'en appelle à vous dieux protecteurs de l'Itzi, 
+Voyez votre terre ravagée par l'ennemi
+(je vous préviens
+la suite ne sera pas alexandrins)
+Tour 2 (l'incantation prend des accents désespérés)
+L'impur et l'infidèle 
+Abattront vos autels !
+Écoutez mon appel ;
+Montrez par votre zèle
+Qu'ils sont aussi mortels !
+Tour 3 :
+Que le courroux des cieux
+Allumé par mes voeux 
+Fasse pleuvoir sur eux
+UN DÉLUGE DE FEU
+(dédicace à Corneille, Horace, Acte IV Scène 5)
+(tire une flèche droit en l'air)
+Que le regard de Bichu vous consume !
+(Le zénith s'éclaircit, le soleil grossit, semble transpercer les cieux. Un énorme rayon en sort, réduisant en cendres toutes ce qu'il juge impur)
+...
+Que la mâchoire d'Utai vous dévore !
+(un immense serpent surgit depuis l'horizon. on ne voit pas encore la fin de son corps que sa tête démesurée se dresse au-dessus de la mêlée, cachant le soleil. Il ouvre grand la gueule et s'abat sur le sol en la refermant. Les dents ne se touchent pas toutes, et certaines personnes sont épargnées)
+...
+Que l'abondance de Sentéoclxiocatl vous étreigne !
+(du sol jaillisent des tiges, et un champ de maïs se met à pousser, dru. les tiges sont très rapprochées, et les épis de maïs qui commencent à pousser dessus sont les plus gros que vous avez jamais vu. Le problème, c'est qu'il y en a tellement que vous l'on ne peut plus bouger. On étouffe presque. Et puis vous entendez les bruits de personnes qui craquent broyées par la végétation)
+...
+Que la bonté de Pachamama vous caresse !
+(dans les cieux apparaît une immense femme. Elle lève la paume puis referme sa main et pointe le doigt vers vous. Le doigt descend. Il commence à rougoyer, ce qui inquiètereait vos personnages s'ils comprenaient qu'il s'agit de la couleur que prend un doigt de plusieurs kilomètres quand son extrémité effectue une rentrée atmosphérique... C'est la déesse Terre, et la Terre est grande. Le doigt se pose délicatement sur vous, vous sentez une douce caresse pendant que le bruit d'un astéroïde heurtant le sol assourdit vos tympans)
+...
 
 
-Plus tard :
-
-**Nom:**	 Niveau: \
- Effets: Initiative (+), Maintenue, Liée à un élément (Air), Prédétermination \
- DI:	Ki:
-
-**Nom:**	 Niveau: \
- Effets: Récupérer action, Transport instantané (50m), Liée à un élément (Air) \
- DI: 20 	Ki: 6 AGI 6 VOL +2 POU
-
-**Nom:**	 Niveau: \
- Effets: \
- DI:	Ki:
-
-
-
-**Développement intérieur total:** 6*50(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+110(110 PFs)= 450	Utilisé: 390 \
+**Développement intérieur total:** 7*50(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+120(120 PFs)= 510	Utilisé: 520 \
  Rang d'apprentissage:  \
-Pouvoirs de puissance intérieure : (140+150 DI) \
+Pouvoirs de puissance intérieure : (150+210 DI) \
 **Utilisation du Ki** (40): [X]
 - Contrôle du Ki (30): [X]
-    - Détection du Ki (20): [X]    450(DI)+10(Vig)÷2 = 230 
+    - Détection du Ki (20): [X]    520(DI)+10(Vig)÷2 = 265
         - Appréciation du Ki (10): [X]
 - Forcer techniques (20):
 - Aura de combat (40):
@@ -204,16 +220,16 @@ Pouvoirs de puissance intérieure : (140+150 DI) \
         - Un avec le néant (40):
 - Aura de vide (30):
 - Non-Détection (10):
-- Surhumanité (20):
-    - Zen (40):
+- Surhumanité (20): [X]
+    - Zen (40): [X] -10 DI endetté (Pouvoir difficulté 11, sinon -1 en Fatigue)
 
 ***
 ## Champ Mystique: (190 PFs)
 
 **AMR:** 15 (POU)	 \
- Régénération zéonique: 15(AMR)*(1+5 (Multiplicateurs))= 90	Restant : -45 (Sheele) -5(Poche infinie ×10) -5(Surhumanité en Attaque)= 35/j  \
- Zéon: 175(POU)+6*50(Classe)+25(15 PFs)= 500 \
- Reste :500 \
+ Régénération zéonique: 15(AMR)*(1+5 (Multiplicateurs))= 90	Restant : -50 (Sheele) -5(Poche infinie ×10) = 35/j  \
+ Zéon: 175(POU)+7*50(Classe)+25(15 PFs)= 550 \
+ Reste :550 \
  Projection magique: (Base)+(Dex)=	Déséquilibre: \
 
 **Sheele :** Liviel \
@@ -223,25 +239,26 @@ Pouvoirs de puissance intérieure : (140+150 DI) \
 For 4 Dex 6 Agi 7 Con 3 Int 7 Pou 8 Vol 6 Per 8 \
 Niveaux de voie : Essence 20 (Nettoyage, Créer musique, Poche infinie, Surhumanité) \
 Champs secondaires : 
-- Vigilance 40+7*10+40= 150
-- Observation 20+7*10+40= 130
+- Vigilance 40+8*10+40= 160
+- Observation 20+8*10+40= 140
 - Animaux 40
-- Évaluation magique 80+7*10+40= 190
+- Évaluation magique 80+8*10+40= 200
 - Herboristerie 80
 - Medécine 20
-- Persuasion 20+7*10+40 = 130
-- Style 20+7*10+40 = 130
+- Persuasion 20+8*10+40 = 200
+- Style 20+8*10+40 = 140
 - Poisons 80
 
 Pouvoirs :
 - Forme naturelle (20 Zéons par changement)
 - Projection accrue ×2
-- Défenseur → Projection défensive 190
+- Défenseur → Projection défensive 200
 - Bouclier de l'âme (150 Zéons, dure Volonté rounds, Présence×10 PV, Proj+50)
-    PV : 550 -110
+    PV : 600 
 - Compétences améliorées
 - Sentiments liés (peut voir, entendre et parler via Liviel)
 - Endurance améliorée
+- Lien de vie
 
 
 | | Hibou | Chat | Nya leusi | Ilona | Fourmi ouvrière | Fourmi guerrière |
@@ -276,42 +293,42 @@ Pouvoirs :
 
 ***
 
-#### CHAMPS SECONDAIRES: (210 PFs)
-  
+#### CHAMPS SECONDAIRES: (290 PFs)
 
-[2]**Champ Athlétique:**(60 Pfs) \
-Acrobaties: (Base)+10(Agi)+ = \
-Athlétisme: 5(Base)+10(Agi)+15(RC) = 25 \
-Équitation: 20(Base)+10(Agi)+2*10 = 50 \
+
+[2]**Champ Athlétique:**(120 Pfs) \
+Acrobaties: (Base)+10(Agi)+2×10 = 0 \
+Athlétisme: 5(Base)+10(Agi)+15(RC)+ = 25 \
+Équitation: 50(Base)+5×10(Agi)+4*10 = 140 \
 Escalade: (Base)+10(Agi)+ = \
 Natation: 5(Base)+10(Agi)+ = 15 \
 Saut: (Base)+10(For)+ =
 
 [2] **Champ Vital:** (10 Pfs) \
-Impassibilité: 5(Base)-5(Vol)+5*10 = 50 \
+Impassibilité: 5(Base)-5(Vol)+7*10 = 60 \
 Prouesses de Force: (Base)+10(For)+ = \
 Résistance à la douleur: (Base)-5(Vol)+ = \
 
 [2] **Champ Sensoriel:** (30 Pfs) \
 Observation: (Base)-5(Per)+ = \
-Pistage:  10(Base)-5(Per)+15(RC)+5×10 = 70 \
+Pistage:  10(Base)-5(Per)+15(RC)+7×10 = 70 \
 Vigilance: 5(Base)-5(Per)+10 = 10
 
 [3] **Champ Intellectuel:** ( Pfs) \
-Animaux: (Base)-5(Int)+10(RC) = \
+Animaux: (Base)-5(Int)+10(RC)+7×10 = \
 Évaluation Magique: (Base)+20(Pou)+ = \
 Herboristerie: (Base)-5(Int)+10(RC) = \
 Mémorisation: (Base)-5(Int)+ = \
 
-[2] **Champ Social:** (30 Pfs) \
-Commandement: 5(Base)+3×20(Pou)+ = 65 \
+[2] **Champ Social:** (40 Pfs) \
+Commandement: 10(Base)+4×25(Pou)+ = 110 \
 Étiquette: (Base)-5(Int)+ = \
 Intimidation: (Base)-5(Vol)+ = \
 Persuasion: (Base)-5(Int)+10(RC)+= \
-Style: 10(Base)+4×20(Pou)+10(RC) = 100
+Style: 10(Base)+4×25(Pou)+10(RC) = 110
 
 [2] **Champ clandestin:** (60 Pfs) \
-Camouflage: 10(Base)-5(Per)+15(RC)+5×10 = 70 \
+Camouflage: 10(Base)-5(Per)+15(RC)+7×10 = 70 \
 Crochetage: (Base)+5(Dex)+ = \
 Déguisement: (Base)+5(Dex)+ = \
 Discrétion: 10(Base)+5×10(Agi)+5×10 = 110 \
@@ -319,9 +336,9 @@ Larcin: (Base)+5(Dex)+ = \
 Pièges: 10(Base)+5(Dex)+15(RC) = 30 \
 Poisons: (Base)-5(Int)+ =
 
-[2] **Champ Créatif:** (20 Pfs) \
-Art: (Base)+20(Pou)+ = \
-Danse: 5(Base)+10(Agi)+ = 15 \
+[2] **Champ Créatif:** (30 Pfs) \
+Art: 5(Base)+2×25(Pou)+ = 55 \
+Danse: 5(Base)+10(Agi)+7×10 = 85 \
 Forge: 5(Base)+5(Dex)+3×10  = 40 (Flèches 80, autres 0) \
 Habileté Manuelle: (Base)+5(Dex)+ =
 
@@ -368,7 +385,7 @@ TRA:	-CON:	-PER:	-CHA:	-ELE:	-FRO:	-ENE:
  couverture + bâche étanche pour dormir à la belle étoile  \
  savon, miroir  \
  quelques craies  \
- gourde  \
+ gourde  \ 
  citronelle / herbe à brûler pour repousser les insectes → 1 mois \
  rations 1 mois \
  le tout dans un sac à dos \
@@ -453,7 +470,7 @@ Domaine de l'Exilé
 
 Hammeliga : 
 
-17/06 : Voyage vers Hammeliga. Diner avec un groupe de sorciers connaissances/admirateurs de Sigma. Rencontre avec un duk'zarist qui dit que j'ai du potentiel magique et propose de... m'aider à le libérer (?) dans le futur.
+17/06 : Voyage vers Hammeliga. Diner avec un groupe de sorciers connaissances/admirateurs de Sigma. Rencontre avec un duk'zarist qui dit que j'ai du potentiel magique et propose de... m'aider à le libérer (?) dans le futur. 
 On récupère la nacelle pour Killgar 
 
 23/09 : 
@@ -506,70 +523,6 @@ Silfur absorbe l'énergie magique des profondeurs (+20 AMR, +2 Acc POU/VOL)
 
 
 
-[Le châtiment divin]
-Tour 1
-J'en appelle à vous dieux protecteurs de l'Itzi, 
-Voyez votre terre ravagée par l'ennemi
-(je vous préviens
-la suite ne sera pas alexandrins)
-Tour 2 (l'incantation prend des accents désespérés)
-L'impur et l'infidèle 
-Abattront vos autels !
-Écoutez mon appel ;
-Montrez par votre zèle
-Qu'ils sont aussi mortels !
-Tour 3 :
-Que le courroux des cieux
-Allumé par mes voeux 
-Fasse pleuvoir sur eux
-UN DÉLUGE DE FEU
-(dédicace à Corneille, Horace, Acte IV Scène 5)
-(tire une flèche droit en l'air)
-Que le regard de Bichu vous consume !
-(Le zénith s'éclaircit, le soleil grossit, semble transpercer les cieux. Un énorme rayon en sort, réduisant en cendres toutes ce qu'il juge impur)
-...
-Que la mâchoire d'Utai vous dévore !
-(un immense serpent surgit depuis l'horizon. on ne voit pas encore la fin de son corps que sa tête démesurée se dresse au-dessus de la mêlée, cachant le soleil. Il ouvre grand la gueule et s'abat sur le sol en la refermant. Les dents ne se touchent pas toutes, et certaines personnes sont épargnées)
-...
-Que l'abondance de Sentéoclxiocatl vous étreigne !
-(du sol jaillisent des tiges, et un champ de maïs se met à pousser, dru. les tiges sont très rapprochées, et les épis de maïs qui commencent à pousser dessus sont les plus gros que vous avez jamais vu. Le problème, c'est qu'il y en a tellement que vous l'on ne peut plus bouger. On étouffe presque. Et puis vous entendez les bruits de personnes qui craquent broyées par la végétation)
-...
-Que la bonté de Pachamama vous caresse !
-(dans les cieux apparaît une immense femme. Elle lève la paume puis referme sa main et pointe le doigt vers vous. Le doigt descend. Il commence à rougoyer, ce qui inquiètereait vos personnages s'ils comprenaient qu'il s'agit de la couleur que prend un doigt de plusieurs kilomètres quand son extrémité effectue une rentrée atmosphérique... C'est la déesse Terre, et la Terre est grande. Le doigt se pose délicatement sur vous, vous sentez une douce caresse pendant que le bruit d'un astéroïde heurtant le sol assourdit vos tympans)
-...
-Base de dégâts 135
-DI +50 Attaque (+200) KI 30 DEX + 2 POU 
-DI +40 Attaque de zone 100m choix des cibles Ki 13 POU
-DI +40 Attaques supplémentaires (+3, Bonus de fatigue partagé, Combo) Ki 22 DEX
-DI +5  Réduction d'armure (IP -2) Ki 4 FOR
-DI -20 Prédétermination
-DI -25 Sacrifice de vie complet
-DI -30 Malus à toutes les actions (-150)
-Ki : POU 42  DEX 24  FOR 3  VOL 2  CON 2 (total 73, 3 rounds)
-
-Base de dégâts 135 ENE
-- Attaque (+200) 
-- Attaque de zone 100m choix des cibles
-- Attaques supplémentaires (+3, Bonus de fatigue partagé, Combo) 
--  Réduction d'armure (IP -2) 
-- Prédétermination
-- Sacrifice de vie complet
-- Malus à toutes les actions (-150)
-Ki : POU 42  DEX 24  FOR 3  VOL 2  CON 2 (total 73, 3 rounds)
-
-30 DI pour un autre truc qui pète
-Lié au Feu/obscurité 
-Prédétermination 
-Sacrifice de PV Complet
-
-DI +5 Choc Physique 
-
-
-DI 50 KI 30 DEX (POU +2)
-DI 40 KI 13 POU 
-DI -60
-
-+3 Atta supp combo bonus de fatigue complet DI 40 Ki 22 DEX 
 
 
 Update des stats
@@ -581,3 +534,7 @@ Update des stats
 /r $style=1d100!>90+100
 /r $vig=1d100!>90+150 # update changement de niveau
 /r $dis=1d100!>90+110 # update changement de niveau
+
+
+Timeskip :
+Tensions à Elciana : le véritable pouvoir est dans les mains des d'k 
