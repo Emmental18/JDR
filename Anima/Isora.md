@@ -4,8 +4,8 @@
 
 **Nom:** Volescu  **Prénom:** Isora	**Titre:** \
 **Classe:** Virtuose martial \
-**Niveau:** 6 XP actuels: 870 \
-XP pour niveau suivant: 975
+**Niveau:** 7 XP actuels: 975 \
+XP pour niveau suivant: 1225
 
 
 Âge: Sexe: F	Orientation sexuelle: Bastarache \
@@ -39,16 +39,16 @@ Vulnérable à la douleur -1 \
 Grave allergie (Fer) -1 \
 (Niveau 1) Nature magique 1
 
-#### Présence: 55
-**RPhy, RMal, RPoi:** 55(Pre)+10(CON)+20(Corps de vide) = 85 \
-**RMys:** 55(Pre)+20(POU) +20(Corps de vide)= 95 \
-**RPsy:** 55(Pre)-5(VOL)+20(Corps de vide) = 70
+#### Présence: 60
+**RPhy, RMal, RPoi:** 60(Pre)+10(CON)+20(Corps de vide) = 90 \
+**RMys:** 60(Pre)+20(POU) +20(Corps de vide)= 100 \
+**RPsy:** 60(Pre)-5(VOL)+20(Corps de vide) = 75
 
 **Initiative :** 20(Base)-(Armure)+10(AGI)+5(DEX)+(Arme)+7*5(Classe)-50(Avantage) = + 20
 
 **Points de Vie :** 120(CON)+5*5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 155 \ 
-Restants : 75-135
-Sacrifiés : 70
+Restants : 155
+Sacrifiés : 0
 ***
 ##### CHAMPS PRINCIPAUX :
 ***
@@ -233,8 +233,8 @@ Pouvoirs de puissance intérieure : (150+210 DI) \
  Projection magique: (Base)+(Dex)=	Déséquilibre: \
 
 **Sheele :** Liviel \
- PV Présence×4 = 220 (Régénération 5 PV/round) \ 
- -76
+ PV Présence×4 = 240 (Régénération 5 PV/round) \ 
+ Restants : 240
 
 For 4 Dex 6 Agi 7 Con 3 Int 7 Pou 8 Vol 6 Per 8 \
 Niveaux de voie : Essence 20 (Nettoyage, Créer musique, Poche infinie, Surhumanité) \
