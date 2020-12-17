@@ -44,9 +44,9 @@ Grave allergie (Fer) -1 \
 **RMys:** 60(Pre)+20(POU) +20(Corps de vide)= 100 \
 **RPsy:** 60(Pre)-5(VOL)+20(Corps de vide) = 75
 
-**Initiative :** 20(Base)-(Armure)+10(AGI)+5(DEX)+(Arme)+7*5(Classe)-50(Avantage) = + 20
+**Initiative :** 20(Base)-(Armure)+10(AGI)+5(DEX)+(Arme)+7×5(Classe)-50(Avantage) = + 20
 
-**Points de Vie :** 120(CON)+5*5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 155 \ 
+**Points de Vie :** 120(CON)+7×5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 155 \ 
 Restants : 155
 Sacrifiés : 0
 ***
@@ -55,9 +55,9 @@ Sacrifiés : 0
 ## Champ Martial: (720 PFs) 
 
 **Compétences** (300 Pfs): \
- Attaque: 150(Base)+5(Dex)+7*5(Classe)= 190 (200 arc +10) \
- Esquive: (Base)+(Agi)+*(Classe)= 10 \
- Parade: (Base)+(Dex)+*(Classe)= 5 \
+ Attaque: 150(Base)+5(Dex)+7×5(Classe)= 190 (200 arc +10) \
+ Esquive: (Base)+(Agi)+(Classe)= 10 \
+ Parade: (Base)+(Dex)+(Classe)= 5 \
  Port d'Armure: (Base)+(For)= 10  \
 
 
@@ -74,17 +74,11 @@ Accumulations 		Points de Ki
 | DEX | 1 | 7 | 6 |  | 
 | CON | 1 |  | 9 |  | 
 | VOL | 1 |  | 4 |  | 
-| POU | 3 | 11 | 14 | 80 |  
-|Total |  | 26 | (47) | 167 | 
+| POU | 3 | 11 | 16 | 80 |  
+|Total |  | 26 | (49) | 167 | 
 
- Ki : 47(Base) + 120(Achetés) = 167 
- Reste 
- -1-3
- 13/round
- 
- 
-Flèches : 70-4
-
+ Ki : 49(Base) + 120(Achetés) = 169 \
+ Restant
 
 ### Techniques: (160 DI)
 
@@ -143,7 +137,7 @@ Que la bonté de Pachamama vous caresse !
 ...
 
 
-**Développement intérieur total:** 7*50(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+120(120 PFs)= 510	Utilisé: 520 \
+**Développement intérieur total:** 7×50(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+120(120 PFs)= 510	Utilisé: 520 \
  Rang d'apprentissage:  \
 Pouvoirs de puissance intérieure : (150+210 DI) \
 **Utilisation du Ki** (40): [X]
@@ -227,8 +221,8 @@ Pouvoirs de puissance intérieure : (150+210 DI) \
 ## Champ Mystique: (190 PFs)
 
 **AMR:** 15 (POU)	 \
- Régénération zéonique: 15(AMR)*(1+5 (Multiplicateurs))= 90	Restant : -50 (Sheele) -5(Poche infinie ×10) = 35/j  \
- Zéon: 175(POU)+7*50(Classe)+25(15 PFs)= 550 \
+ Régénération zéonique: 15(AMR)×(1+5 (Multiplicateurs))= 90	Restant : -50 (Sheele) -5(Poche infinie ×10) = 35/j  \
+ Zéon: 175(POU)+7×50(Classe)+25(15 PFs)= 550 \
  Reste :550 \
  Projection magique: (Base)+(Dex)=	Déséquilibre: \
 
@@ -239,14 +233,14 @@ Pouvoirs de puissance intérieure : (150+210 DI) \
 For 4 Dex 6 Agi 7 Con 3 Int 7 Pou 8 Vol 6 Per 8 \
 Niveaux de voie : Essence 20 (Nettoyage, Créer musique, Poche infinie, Surhumanité) \
 Champs secondaires : 
-- Vigilance 40+8*10+40= 160
-- Observation 20+8*10+40= 140
+- Vigilance 40+8×10+40= 160
+- Observation 20+8×10+40= 140
 - Animaux 40
-- Évaluation magique 80+8*10+40= 200
+- Évaluation magique 80+8×10+40= 200
 - Herboristerie 80
 - Medécine 20
-- Persuasion 20+8*10+40 = 200
-- Style 20+8*10+40 = 140
+- Persuasion 20+8×10+40 = 200
+- Style 20+8×10+40 = 140
 - Poisons 80
 
 Pouvoirs :
@@ -305,7 +299,7 @@ Natation: 5(Base)+10(Agi)+ = 15 \
 Saut: (Base)+10(For)+ =
 
 [2] **Champ Vital:** (10 Pfs) \
-Impassibilité: 5(Base)-5(Vol)+7*10 = 60 \
+Impassibilité: 5(Base)-5(Vol)+7×10 = 60 \
 Prouesses de Force: (Base)+10(For)+ = \
 Résistance à la douleur: (Base)-5(Vol)+ = \
 
