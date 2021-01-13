@@ -1,6 +1,6 @@
 # Isora Volescu
 
-![Isora](../_images/archer_carre.png)
+![Isora](../_images/isora_carre.png)
 
 **Nom:** Volescu  **Prénom:** Isora	**Titre:** \
 **Classe:** Virtuose martial \
