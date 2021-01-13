@@ -7,12 +7,13 @@ Loup-Garou V20
 
 ## Renommée
 p.143-144 \
-**Gloire :** 0,3 \
-**Honneur :** 3,1 \
-**Sagesse :** 0,3 \
+**Gloire :** 0,9 \
+**Honneur :** 3,8 \
+**Sagesse :** 1,1 \
 **Rang :**  1 (p.251) \
 **Expérience** (Totale/Restante) : 9/2 (p.244)
  
+
 #
 # Attributs
 p.125
@@ -32,8 +33,8 @@ p.127-131-133
 | Commandement ||  | Artisanat ||   | Érudition ||   |
 | Empathie ||  | Conduite ||   | Informatique ||   |
 | Expérience de la rue ||  | Étiquette ||   | Investigation ||   |
-| Expression ||  | Furtivité || 1  | Médecine || *1*  |
-| Intimidation ||  | Larcin || 2  | Occultisme || 2  |
+| Expression ||  | Furtivité || 2  | Médecine || *1*  |
+| Intimidation ||  | Larcin || 1  | Occultisme || 2  |
 | Intuition primitive | (Pressentiments) | 4 | Mêlée ||   | Rituels | (Rituels mystiques)|  4 |
 | Subterfuge || 1 | Représentation ||  1 | Sciences ||   |
 | Vigilance | (Éclaireur) | 3 | Survie || 2 | Technologie ||   |
@@ -65,9 +66,9 @@ p.127-131-133
 * Abattage (Mise au sol p.171)
 
 
-### Rage (p.146) : 3/5
+### Rage (p.146) : 5/5
 ### Gnose (p.147) : 5/5
-### Volonté (p.148) : 6/10
+### Volonté (p.148) : 10/10
 
 ## Santé 
 Contondants [/] Aggravés [X] Létaux [*] -- cf page 253
@@ -165,7 +166,7 @@ Adrien Vauclair et Guy de Mennecy (famille pas loin de Fontainebleau)
 
 La Frange : bar des 3,5 Louves (Agnès = 0,5 louve) sur l'île Saint-Louis
 
-Tout a commencé six mois plus tôt, quelque part dans les steppes d'Asie Centrale. Galba Tisse-Ombre, le grand-père de Murmure a été tué et l'artefact qu'il protégeait (le Dragon de Jade) dérobé. Pas de piste nette, mais dans le Goulet planait la trace d'une présence maléfique : Moloch. 
+Tout a commencé six mois plus tôt, quelque part dans les steppes d'Asie Centrale. Galba Tisse-Ombre, le grand-père de Murmure a été tué (assaut sur le cairn de Shishapangma) et l'artefact qu'il protégeait (le Dragon de Jade) dérobé. Pas de piste nette, mais dans le Goulet planait la trace d'une présence maléfique : Moloch. 
 
 Savant seulement qu'un dénommé Adrien Vauclair avait affronté cet esprit il y quelques siècles, Murmure s'est mis en route pour la France afin d'en savoir plus sur Moloch. À son arrivée à Paris, j'ai d'abord été accueilli par des Parents d'un membre de ma tribu qui ont un restau tibétain dans le 5ème arrondissement ( Aku, Jiara et leurs deux enfant) avant d'être aiguillé vers la Frange, « le bar des 3,5 louves » (Agnès compte comme 1/2 louve^^).
 
@@ -198,6 +199,10 @@ Note : Abysses = un des royaumes de l'Umbra, lieu sombre et maléfiques (dont nu
 Soignés par Zip (qui a été envoyée pour nous suivre par Marie-Agnès de Vercour), nous arrivons à trouver un chemin de Lune (guidés par Murmure) et à quitter l'Umbra
 
 Expérience : 4+1
+Gloire +3 
+Honneur +1 
+Sagesse +3
+
 
 ## Dimanche 15/11
 Ancienne meute : Vauclair, Mennecy et Oscar de Porchefontaine + une Arpenteuse (Suénazul)
@@ -213,6 +218,8 @@ Morts de la peste noire ? John puis Zip ne se sentent pas bien. À un moment Har
 Nous sommes dans le Royaume des atrocités (probablement qu'on a trouvé la tanière de Moloch)
 
 Expérience : 3+1
+Gloire +1
+Sagesse +1
 
 ![Umbra](../_images/olivier-sanfilippo-map-umbra-final-15022017-lowdef.jpg)
 
@@ -228,6 +235,8 @@ Expédition nocturne et discrète (tout le monde sauf John et Alistair). Harnie 
 Combat acharné. Harnie se fait lacérer (et prend mal aux fesses au passage quand un Crinos passe en frénésie). Zip et Murmure jouent à l'écureuil contre un tireur Glabro dans un arbre. Agnès se fait serrer (et broyer) par une grande femme. Murmure passe brièvement KO quand il se prend un chargeur dans la gueule, heureusement les renforts arrivent. Alistair découpe la fille qui était en train de broyer John (celui-ci a tenté de négocier sans grand succès) mais succombe à la frénésie et la dévore. La meute adverse finit par s'enfuir.
 
 Ils étaient en train de creuser un tunnel pour s'introduire dans la maison. John propose de passer dans l'Umbra pour en savoir plus.
+
+Gloire +2
 
 ## Dimanche 6/12
 Murmure sent la présence de gros garous qui s'enfuient de la maison. Au final on rentre panser nos plaies.
@@ -256,8 +265,32 @@ Chasse avec le Vieux Sang : c'est Louise qui fait la traque chez aux (Murmure ch
 
 Rituel : Drikk et Alistair se la pètent en Crinos, Agnès récupère le loup et se transforme aussi
 
-La [Caladre](https://fr.wikipedia.org/wiki/Caladrius) est un suivant de la Licorne (totem des Enfants de Gaïa). C'est un totem de sagesse, de guérison et de vigueur.
+La [Caladre](https://fr.wikipedia.org/wiki/Caladrius) (sorte de grand héron d'ivoire, avec une queue de serpent) est un suivant de la Licorne (totem des Enfants de Gaïa). C'est un totem de sagesse, de guérison et de vigueur (c'était aussi le totem des Questeurs de Lumière, la meute de Guy de Mennecy). Demande de lutter contre les épidémies.
 
 Nom de la meute : **Les Veilleurs** (snif, ma proposition de *Sonneurs* en référence à notre première aventure n'a pas eu le succès que j'espérais)
 
 Nous sommes le  9 février
+
+Former une meute : Sagesse +2  Honneur +4  Gloire +1
+Avoir été choisis par Caladre : Sagesse +3 Honneur +1
+
+
+## Dimanche 13/12
+Mia s'en prend à Harnie qui a jeté des canettes... 
+
+Le lendemain, la Caladre nous convoque dans l'Umbra. Elle demande à Murmure de se rendre sur le Royaume du champ de bataille et de retrouver la bataille qui a eu lieu au sanctuaire. Ceci afin d'en savoir plus sur les suivants du porteur du peste
+
+Murmure guide la meute dans l'Umbra. Des garous nous alpagent dans la Plaine de l'Apocalypse afin d'essayer de nous faire rejoindre leur camp pour la bataille de la fin du monde (désolé, pas le temps là maintenant). Le « chemin » continue et ressemble un peu à la muraille de Chine.
+
+Arrivée au cairn de Shishapangma. Hurlevement et Rêve-étoile (un frère et une sœur) sont visibles à l'entrée du monument, près du gong. Deux balles les abattent
+
+Un groupe de 7-8 personnes s'approche du sanctuaire. Plusieurs tireurs embusqués. Tous ont des tenues commando de haut niveau. Et des garous. Un « sorcier » ?
+
+Le Dragon de Jade a peut-être été mis en sécurité dans le « Superno » ? Mais observé par des yeux maléfiques (l'Avilisseur).
+
+Pour voyager loin : pont de lune. Le plus puissant cairn pour faire ça : La Roue de Ptah à Casablanca
+
+
+
+
+
