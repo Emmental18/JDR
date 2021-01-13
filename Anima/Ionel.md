@@ -42,10 +42,10 @@ Régénération: 2	Au repos:	Sans repos:	Spécial:
 
 
 #### Présence : 35
-**RPhy :** 35Pre)+10(CON)+20(D'z) = 65 \
-**RMal, RPoi:** 35(Pre)+10(CON)+15(D'z) = 60  \
-**RMys:** 35(Pre)+15(POU)+15(D'z)+10(Don) = 75 \
-**RPsy:** 35(Pre)-5(VOL)+15(D'z) = 45
+**RPhy :** 35Pre)+10(CON)+20(D'z)+30(Sort) = 95 \
+**RMal, RPoi:** 35(Pre)+10(CON)+15(D'z)+30(Sort) = 90  \
+**RMys:** 35(Pre)+15(POU)+15(D'z)+10(Don)+30(Sort) = 105 \
+**RPsy:** 35(Pre)-5(VOL)+15(D'z)+30(Sort) = 75
 
 **Initiative :** 20(Base)-50(Avantage)-(Armure)+10(AGI)+5(DEX)+20(Arme)+5×2(Classe)+ = 20 
 
@@ -89,6 +89,7 @@ Cet arbre de techniques n'est accessible qu'aux descendants directs d'Ileana ou 
 - **Nom : L'esprit gardien** Niveau : 1 \
     Effet : Parade (+75), Maintenue, Combinable, Lié à un élément (Lumière) \
     DI : 25   Ki : DEX 9(4) POU 9 
+
 
 - **Nom : Le bouclier d'Ileana** Niveau : 1 \
     Effet : Bouclier d'énergie (400PV, Régénération 250), Maintenue, Combinable, Lié à un élément (Lumière) \
@@ -179,7 +180,7 @@ Restant
 
 **AMR** 10(POU)*(1+(Multiplicateurs))= 10	\
 Régénération zéonique:( 10(POU)×(1+(Multiplicateurs AMR)+4(Multiplicateurs de Régénération)))×3(Avantage)= 150/j \
-Restant : /j
+Restant : 55/j
 
 **Projection magique :** (Base)+5(Dex)= 5	Déséquilibre: +35 Offensive, -25 Défensive
 
@@ -207,18 +208,18 @@ Avantages métamagiques : (0 Niveaux de voie)
 **Sorts indépendants :**
 
 **Sorts maintenables [maintenus] :**
-- Poche infinie (×40) 10/j
-- Résistance à la douleur (+150) 15/j
+- Poche infinie [x] (×40) 10/j
+- Résistance à la douleur [x] (+150) 15/j
 - Malédiction (RMys 160) 25/j
-- Détecter les mensonges (RMys/RPsy 160) 20/j
+- Détecter les mensonges [x] (RMys/RPsy 160) 20/j
 - Mensonge (RMys 120) 15/j
 - Arrêter le temps (25m, RMys 140) 60/j
 - Régénération (16) 25/j
-- Augmenter les résistances (+30) 30/j
+- Augmenter les résistances [x] (+30) 30/j
 - Créer homoncule (25) 25/j
 - Voir dans l'obscurité (surnaturelle, 140 Présence) 15/j
 - Occultation de magie (+250) 25/j
-- Dissimulation (100 en Camouflage, Discrétion et dissimulation du Ki) 20/j
+- Dissimulation [x] (100 en Camouflage, Discrétion et dissimulation du Ki) 20/j
 
 ***
 
@@ -276,30 +277,15 @@ Habileté Manuelle: (Base)+5(Dex)+ = \
 *Musique*: 80(Base)+2×15(Pou)+ = 110 
 
 
-
-
 ***
 
 ## ÉQUIPEMENT
 
 ### Armes:	
-
-Nom: Arc court	 Qualité: +10
-
- Attaque:	Parade:	Base de dégâts: Mod. Force:	Dégâts:	Spécial: \
- Vitesse: +0	Solidité:	Fracassement:	Présence:	Mode1:	Mode2: \
- Portée efficace 40(Base) + 20(FOR) = 60 m → Portée maximale 120m (-30 à l'Attaque) \
-Flèche : 40
-
+Nom: Zebah	 
 
 ### Armures :
 
-Nom: Cuir Bouilli	 Qualité: +0
-
- Solidité:	Présence:	Type:	Port Requis:	Localisation: \
- Ips: 2 sauf Énergie 0	
-
-TRA:	-CON:	-PER:	-CHA:	-ELE:	-FRO:	-ENE:
 
 ### Autres :
  
@@ -312,7 +298,7 @@ Or:	Argent:	Cuivre:
 
 ### Élan :
 
-| Entité | Synchronisation |  |
+| Entité | Synchronisation | Pouvoirs  |
 | --- | --- | --- |
 | Mikael |  | | 
 | Zemial |  | | 
@@ -329,25 +315,12 @@ Or:	Argent:	Cuivre:
 | Edamiel |  | | 
 | Mesguis |  | | 
 
-### Autres :
 
-**Réputation totale :**
-- Audace:
-- Lâcheté:
-- Honorabilité:
-- Infamie:
-- Habileté:
-
-**Santé mentale :**
-- Seuil de folie:	
-- Psychose ou traumatisme:
-
-**Pacte du Dragon :**
- Nom du Dragon:	Sacrifice du Pacte:
-
-
-**Points de Destin :** 
+**Points de Destin : 1** 
 
 ***
 
-## DIVERS : 
+# Campagne
+
+## Session 1 : Mercredi 13 janvier
+7 juillet : Fête du souvenir (en l'honneur de Lucia). On mange de la langoustine
