@@ -20,15 +20,15 @@
 - **Ça capitaine, je vous garantis que ça va marcher** \
 BRUTAL, réussite avec style, explosion dramatique
 - **Mécanique muscléee** \
-Peut utiliser BRUTAL au lieu de PRUDENT pour utiliser des machines lourdes
-- **Botte secrète nanite**
+Peut utiliser BRUTAL au lieu de PRUDENT pour utiliser des machines lourdes \
+- **Botte secrète nanite** \
 Une fois par adversaire, +2 en ASTUCIEUX pour une attaque
 
 ### Stress & Conséquence
-[] [] []
-- [2] 
-- [4] Circuits fondus
-- [6]
+[x] [x] [x]
+- [2] Brûlé au visage
+- [4] 
+- [6] 
 
 # Parties 
 
@@ -64,11 +64,6 @@ Prompt à la colère
 (sorcier du vide : Il voit dans l'ether et dans le futur)
 
 
-The Noldor, outnumbered and taken at unawares, were yet swiftly victorious; for the light of Aman was not yet 
-dimmed in their eyes, and they were strong and swift, and deadly in anger, and their swords were long and terrible. 
-The Ores fled before them, and they were driven forth from Mithrim with great slaughter, and hunted over the Mountains of Shadow into the great plain of Ard-galen
-
-
 Un des points notés sur la carte :
 - la tête d'épingle : zone de la tempête particulièrement violente, un seul passage étroit au milieu d'un maelstrom
 - Hic est draconem
@@ -77,5 +72,23 @@ Un des points notés sur la carte :
 (pensées de Juliette)
 Les véritables intentions de Valéry sont cachées ? Point de vue sur les Borgs ?
 
-Dimanche 29/11
+## Dimanche 29/11
 Docteur Tiphaine Farray
+
+## Dimanche 13/12
+C'est reparti vers l'infin et au-delà
+
+Dans le Maelstrom, on tombe sur un affrontement entre l'Arsimboldo et le Goliath. L'Entrée Fracassante décide d'être fidèle à son nom et rentre dans la bataille. Abordage avec le Goliath, le Titan mène une contre-attaque brutale sur notre pont avant d'être vaincu par Aston. L'Arsimboldo fait quelques tirs puissants depuis la tempête avant de finir par abandonner le terrain.
+
+Arrivée dans la zone où rôde l'immense serpent de l'ether. Ça chauffe un peu mais on arrive à passer en évitant un combat direct.
+
+
+## Dimanche 20/12
+
+Cœur IA Alpha, mais bridé actuellement (débridable par Logos ou un humain, genre mon bras)
+(4L V4D0R est probablement une IA alpha)
+Mon bras est une IA avec un cerveau bêta
+était dans une boîte avec des entrées/sorties limitées (juste clavier, chiffres). Servait à faire des prévisions météo (origine de la prospérité de la Porte d'Or ?) depuis 94 cycles standards
+
+Ce que Valéry veut, c'est être accepté à sa juste valeur, et pas juste reconnu comme un borg.
+
