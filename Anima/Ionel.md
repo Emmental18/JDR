@@ -1,6 +1,8 @@
-# Fiche de personnage Anima
+# Ionel Volescu
 
-**Nom:** Jarre  **Prénom:** Jean-Michel 	**Titre:**  \
+![Ionel](../_images/ionel_token.png)
+
+**Nom:** Ionel  **Prénom:** Volescu 	**Titre:**  \
 **Classe:** Virtuose martial \
 **Niveau:** 2 XP actuels: 0 \
 XP pour niveau suivant: 100 \
@@ -175,8 +177,8 @@ Pouvoirs de puissance intérieure : (80 DI)
 **Zéon** 135(POU)+(Classe)+( PFs)= +(Artefact)	\
 Restant
 
-**AMR** 10(POU)*(1+1(Multiplicateurs))= 20	\
-Régénération zéonique:( 10(POU)×(1+1(Multiplicateurs AMR)+2(Multiplicateurs de Régénération)))×3(Avantage)= 120/j \
+**AMR** 10(POU)*(1+(Multiplicateurs))= 10	\
+Régénération zéonique:( 10(POU)×(1+(Multiplicateurs AMR)+4(Multiplicateurs de Régénération)))×3(Avantage)= 150/j \
 Restant : /j
 
 **Projection magique :** (Base)+5(Dex)= 5	Déséquilibre: +35 Offensive, -25 Défensive
@@ -194,7 +196,7 @@ Avantages métamagiques : (0 Niveaux de voie)
 | Illusion | 62 (Musique)  |
 | Nécromancie | | | |
 
-**Sorts d'accès libre:**
+**Sorts d'accès libre :**
 - Nettoyage
 - Poche infinie
 - Compréhension des langues
@@ -202,8 +204,21 @@ Avantages métamagiques : (0 Niveaux de voie)
 - Malédiction
 - Visualiser la carte
 
-**Sorts indépendants:**
+**Sorts indépendants :**
 
+**Sorts maintenables [maintenus] :**
+- Poche infinie (×40) 10/j
+- Résistance à la douleur (+150) 15/j
+- Malédiction (RMys 160) 25/j
+- Détecter les mensonges (RMys/RPsy 160) 20/j
+- Mensonge (RMys 120) 15/j
+- Arrêter le temps (25m, RMys 140) 60/j
+- Régénération (16) 25/j
+- Augmenter les résistances (+30) 30/j
+- Créer homoncule (25) 25/j
+- Voir dans l'obscurité (surnaturelle, 140 Présence) 15/j
+- Occultation de magie (+250) 25/j
+- Dissimulation (100 en Camouflage, Discrétion et dissimulation du Ki) 20/j
 
 ***
 
@@ -211,57 +226,54 @@ Avantages métamagiques : (0 Niveaux de voie)
 
 ***
 
-#### CHAMPS SECONDAIRES: (90+70 PFs)
+#### CHAMPS SECONDAIRES: (160 PFs)
   
 
-[2]**Champ Athlétique:**(0 Pfs) \
+[2]**Champ Athlétique:**( Pfs) \
 Acrobaties: (Base)+10(Agi)+ = \
 Athlétisme: (Base)+10(Agi)+ = \
-Équitation: (Base)+10(Agi)+ =  \
+Équitation: (Base)+3×10(Agi)+2×10 = 20  \
 Escalade: (Base)+10(Agi)+ = \
 Natation: (Base)+10(Agi)+ =  \
 Saut: (Base)-5(For)+ = \
 
-[2] **Champ Vital:** (20 Pfs) \
-Impassibilité: 5(Base)-5(Vol)+4*10 = 40 \
+[2] **Champ Vital:** (10 Pfs) \
+Impassibilité: 5(Base)-5(Vol)+10(RC)+2×10 =  \
 Prouesses de Force: (Base)-5(For)+ = \
 Résistance à la douleur: 5(Base)-5(Vol)+(Sort) = \
 
 [2] **Champ Sensoriel:** (20 Pfs) \
-Observation: (Base)+0(Per)+ = \
-Pistage:  10(Base)+0(Per)+15(RC)+4×10 = 60 \
-Vigilance: (Base)+0(Per)+10 = 
+Observation: (Base)+0(Per)+10(RC)+2×10 = \
+Pistage:  (Base)+0(Per)+=  \
+Vigilance: (Base)+0(Per)+2×10 = 
 
-[3] **Champ Intellectuel:** ( Pfs) \
-*Animaux*: (Base)+25(Int)+10(RC) = \
-*Estimation*: (Base)+(Int)+ = \
-*Évaluation Magique*: (Base)+15(Pou)+ = \
-*Herboristerie*: (Base)+25(Int)+10(RC) = \
-*Histoire*: (Base)+(Int)+ = \
-*Médecine*: (Base)+(Int)+ = \
-Mémorisation: (Base)+25(Int)+ = \
-*Occultisme*: (Base)+(Int)+ = \
+[3] **Champ Intellectuel:** (30 Pfs) \
+*Évaluation Magique*: 5(Base)+15(Pou)+20(RC)+2×10 = 40 \
+*Herboristerie*: (Base)+25(Int)+ = \
+*Histoire*: 5(Base)+2×25(Int)+10(RC)+ = 65 \
+Mémorisation: (Base)+25(Int)+15(RC) = 10 \
+*Occultisme*: (Base)+25(Int)+15(RC) = \
 
-[2] **Champ Social:** (30 Pfs) \
-Commandement: 5(Base)+15(Pou)+ = 25 \
-Étiquette: (Base)+25(Int)+ = \
+[2] **Champ Social:** (20 Pfs) \
+Commandement: (Base)+15(Pou)+ =  \
+Étiquette: (Base)+25(Int)+10(RC) = \
 Intimidation: (Base)-5(Vol)+ = \
-Persuasion: (Base)+25(Int)+10(RC)+= \
-Style: 10(Base)+15(Pou)+10(RC) = 100
+Persuasion: (Base)+25(Int)+= \
+Style: 10(Base)+15(Pou) = 
 
-[2] **Champ clandestin:** (0 Pfs) \
+[2] **Champ clandestin:** ( Pfs) \
 Camouflage: (Base)+0(Per)+ =  \
 Crochetage: (Base)+5(Dex)+ = \
 Déguisement: (Base)+5(Dex)+ = \
 Discrétion: 10(Base)+10(Agi)+=  \
-Larcin: (Base)+5(Dex)+ = \
-Pièges: (Base)+5(Dex)+15(RC) = \
+Larcin: (Base)+5(Dex)+10(RC)+ = \
+Pièges: (Base)+5(Dex)+ = \
 
-[2] **Champ Créatif:** (10 Pfs) \
+[2] **Champ Créatif:** (80 Pfs) \
 Art: (Base)+15(Pou)+ = \
 *Danse*: (Base)+10(Agi)+ = \
 Habileté Manuelle: (Base)+5(Dex)+ = \
-*Musique*: (Base)+3×15(Pou)+ = 
+*Musique*: 80(Base)+2×15(Pou)+ = 110 
 
 
 
