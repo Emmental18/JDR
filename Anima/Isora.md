@@ -464,7 +464,7 @@ Domaine de l'Exilé
 
 Hammeliga : 
 
-17/06 : Voyage vers Hammeliga. Diner avec un groupe de sorciers connaissances/admirateurs de Sigma. Rencontre avec un duk'zarist qui dit que j'ai du potentiel magique et propose de... m'aider à le libérer (?) dans le futur. 
+17/06 : Voyage vers Hammeliga. Diner avec un groupe de sorciers connaissances/admirateurs de Sigma. Rencontre avec un duk'zarist (Dunkar Zaratos  3ème fils de la Maison Zaratos) qui dit que j'ai du potentiel magique et propose de... m'aider à le libérer (?) dans le futur. 
 On récupère la nacelle pour Killgar 
 
 23/09 : 
@@ -520,15 +520,25 @@ Silfur absorbe l'énergie magique des profondeurs (+20 AMR, +2 Acc POU/VOL)
 
 
 Update des stats
-/r $att=1d100!>90+190 # update changement de niveau
-/r $apprec_ki=1d100!>90+230
-/r $init=$DE+15 # tu vas pleurer Bastarache
-/r $obs=1d100!>90+130 # update changement de niveau
-/r $shield=1d100!>90+240 # update changement de niveau
+/r $att=1d100!>90+200 # update changement de niveau
+/r $apprec_ki=1d100!>90+265 # update changement de niveau
+/r $init=$DE+20 # tu vas pleurer Bastarache
+/r $obs=1d100!>90+140 # update changement de niveau
+/r $shield=1d100!>90+250 # update changement de niveau
 /r $style=1d100!>90+100
-/r $vig=1d100!>90+150 # update changement de niveau
+/r $vig=1d100!>90+160 # update changement de niveau
 /r $dis=1d100!>90+110 # update changement de niveau
 
 
 Timeskip :
 Tensions à Elciana : le véritable pouvoir est dans les mains des d'k 
+
+Zebah +10 cac
+
+
+Mercredi 6 janvier
+Contactés par Ika à Vendrill, qui a retrouvé la piste de ses origines.
+
+Dans les montagnes de l'ombre (au nord-est, on y va en volant à dos de sheele rejeton ophidien), il y a les restes d'un vaisseau écrasé.
+
+Dedans, des morts (anciens !), uniformes rouges et or (dessins symbolisant... une sorte de grade, de métier ?). Le vaisseau réagit à la présence d'Ika, son artefact a l'air de se réveiller lui aussi. Une source d'énergie dans les tréfonds du vaisseau s'approche de nous. Un grand golem de 2m50 de haut, avec deux paires d'ailes et deux grandes queues effilées, arborant un point scitillant au milieu de son torse.
