@@ -1,12 +1,12 @@
 # Nephele ur Samaneh du Ponant 
 Lectrice vespérale d'Oxxo Xoox (a suivi des cours à l'Académie vespérale)
 
-![Nephele](../_images/Nephele.png)
+![Nephele](../_images/Nephele250.png)
 
-Ambivalente bibliothécaire cartésienne, dithyrambique érudite fournissant galimatias, hélas inoffensive, jaugeant kifs lacédémoniens malvenus, Néphele ose pindariser partir, quoique rescisoire si tout-à-coup un véloce wisigoth xénophobe... yaka zigzaguer.
+> Ambivalente bibliothécaire cartésienne, dithyrambique érudite fournissant galimatias, hélas inoffensive, jaugeant kifs lacédémoniens malvenus, Néphele ose pindariser partir, quoique rescisoire si tout-à-coup un véloce wisigoth xénophobe... yaka zigzaguer.
 
-**Classe:** Magicien \
-**Niveau:* 1 \
+**Classe:** Magicien  
+**Niveau:* 1  
 **XP :** 0 (Modificateur +10%)
 Lettré. Langues parlées :
 - Khemsaari : Empire du Khemsaar, tous les PJs (Commun), créole Sergh-Therakien
@@ -18,20 +18,20 @@ Mutations :
 - (16 Canines prononcées)
 - 20 cornes
 
-**PV :**  2/2 [d4-1] \
-**Réaction des PNJ :** +1 \
-**Loyauté :** 8 \
-**Nombre de suivants :** 0/5 \
-**Réaction des PNJ :** +1 \
+**PV :**  2/2 [d4-1]  
+**Réaction des PNJ :** +1  
+**Loyauté :** 8  
+**Nombre de suivants :** 0/5  
+**Réaction des PNJ :** +1  
 
 FOR 10 ; INT 17 ; SAG 9 ; DEX 7 ; CON 7 ; CHA 13
 
-Mêlée +0
-Ouverture de portes : 2 sur 6
-Sauvegarde contre la magie +0
-CA 	-1 → 9+1 = 10 
-Projectiles -1
-Initiative	-1
+Mêlée +0  
+Ouverture de portes : 2 sur 6  
+Sauvegarde contre la magie +0  
+CA 	-1 → 9+1 = 10  
+Projectiles -1  
+Initiative	-1  
 
 
 # Livre de sorts 
@@ -44,30 +44,39 @@ Sorts par jour
 **Obturation souveraine, le sort de Bobinette brutale de Baptiste le bégueule**
 
 ## Lecture de la magie
-**Œil du Métatron, Porte vers la réalité inneffable, Regard véritable que Néphele porta sur Ourgash** \
-Durée : 1 tour \
-Portée : Le lanceur 
+**Œil du Métatron, Porte vers la réalité inneffable, Regard véritable que Néphele porta sur Ourgash**  
+Durée : 1 tour  
+Portée : Le lanceur  
 
-Grâce à lecture de la magie, le lanceur peut déchiffrer des runes et inscriptions magiques comme suit : \
-Parchemin : Permet de comprendre l’inscription magique d’un parchemin contenant un sort arcanique. Le lanceur peut activer le parchemin quand il le souhaite à l’avenir. \
-Livre de sorts : Permet de déchiffrer le livre de sorts d’un autre lanceur de sorts arcaniques. \
-Inscriptions magiques : Permet de comprendre les runes et mots magiques inscrits sur un objet ou une surface. \
-Lectures multiples : Une fois une inscription lue au moyen de lecture de la magie, le lanceur est ensuite capable de la déchiffrer sans avoir à nouveau recours au sort.
+Grâce à lecture de la magie, le lanceur peut déchiffrer des runes et inscriptions magiques comme suit :  
+Parchemin : Permet de comprendre l’inscription magique d’un parchemin contenant un sort arcanique. Le lanceur peut activer le parchemin quand il le souhaite à l’avenir.  
+Livre de sorts : Permet de déchiffrer le livre de sorts d’un autre lanceur de sorts arcaniques.  
+Inscriptions magiques : Permet de comprendre les runes et mots magiques inscrits sur un objet ou une surface.  
+Lectures multiples : Une fois une inscription lue au moyen de lecture de la magie, le lanceur est ensuite capable de la déchiffrer sans avoir à nouveau recours au sort.  
 
 # Équipement
 
 Po 79 
 
-5    sac à dos 
-3×2	 petit sac
-1× 	 6 torches 
-2 	 2 outres 1L de vin 
-5 	 /7 jours de rations 
-1    1 outre d'eau 
-27   30m de corde + grappin 
-10×10  dagues  Mêlée, distance (1,5-3/4-6/7-9) 
-     silex & allume feu 
-2×2   flasque d'huile
+| Total | Quantité | Poids (Po) | Objet |
+| --- | --- |  --- | --- |
+| 5 | 1 | 5 | Sac à dos |
+| 6 | 2 | 3 | Petit sac|
+| 1 | 1 | 1 | 6 torches |
+| 2 | 1 | 2 | Outre de vin (1L) |
+| 5 | 1 | 5 | 7 jours de rations |
+| 1 | 1 | 1 | Outre d'eau (1L) |
+| 2 | 2 | 1 | 15m de corde |
+| 25 | 1 | 25 | Grappin |
+| 10 | 10 | 10 | Dague |
+|  | 1 |   | Silex et allume-feu |
+| 4 | 2 | 2 | Flasque d'huile |
+
+Rations 7/7  
+Torches 6/6  
+
+**Dague :** Mêlée, distance (1,5-3/4-6/7-9) 
+
 
 
 # Groupe
@@ -112,3 +121,8 @@ C'est le Cergil, qui donne son nom aux montagnes.
 
 
 ### Session 1 (10/02/2022)
+
+1er étage : 100m de large, 10m de haut
+Tiers central monte de 20-25m mais ce deuxième étage est en partie détruit
+Fait de pierre orange
+Toutes les ouvertures sont grandes ouvertes 
