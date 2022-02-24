@@ -1,29 +1,29 @@
 # Fiche de personnage Anima
 
-**Nom:** Jarre  **Prénom:** Jean-Michel 	**Titre:**  \
-**Classe:** Virtuose martial \
-**Niveau:** 1 XP actuels: 0 \
-XP pour niveau suivant: 100 \
+**Nom:** Jarre  **Prénom:** Jean-Michel 	**Titre:**   
+**Classe:** Virtuose martial  
+**Niveau:** 1 XP actuels: 0  
+XP pour niveau suivant: 100  
 Points de Formation(Restants):
 
-Âge: Genre:	Orientation sexuelle: \
-Race: Ethnie: Natura :	Gnose: \
-Langue maternelle: Latin	Autres: \	
-Religion d'origine:	Pratiquée: \
-Cheveux, yeux, peau: \
+Âge: Genre:	Orientation sexuelle:  
+Race: Ethnie: Natura :	Gnose:  
+Langue maternelle: Latin	Autres:  	
+Religion d'origine:	Pratiquée:  
+Cheveux, yeux, peau:  
 Taille, Poids:
 
 Apparence: Taille: 
 
 
-Méthode de tirage des caractéristiques: 36 points à répartir (-1 à cause de la Sheele) +16 niveau 1 \
-Tirage de base des caractéristiques: AGI: 4 CON: 4 DEX: 5 FOR: 4 INT: 4 PER: 4 POU: 6 VOL: 4  \
+Méthode de tirage des caractéristiques: 36 points à répartir (-1 à cause de la Sheele) +16 niveau 1  
+Tirage de base des caractéristiques: AGI: 4 CON: 4 DEX: 5 FOR: 4 INT: 4 PER: 4 POU: 6 VOL: 4   
 **AGI:** 6  **CON:** 9  **DEX:** 6  **FOR:** 8  **INT:** 4  **PER:** 4  **POU:** 10  **VOL:** 4
 
 
-Fatigue: 9 \
-Mouvement: 8	M/round: 22 \
-Actions Actives: 2 \
+Fatigue: 9  
+Mouvement: 8	M/round: 22  
+Actions Actives: 2  
 Régénération: 2	Au repos:	Sans repos:	Spécial:
 
 
@@ -33,13 +33,13 @@ Régénération: 2	Au repos:	Sans repos:	Spécial:
 
 
 #### Présence : 30
-**RPhy, RMal, RPoi:** (Pre)+(CON) =  \
-**RMys:** (Pre)+(POU) =  \
+**RPhy, RMal, RPoi:** (Pre)+(CON) =   
+**RMys:** (Pre)+(POU) =   
 **RPsy:** (Pre)+(VOL) =
 
 **Initiative :** 20(Base)-(Armure)+(AGI)+(DEX)+10(Arme)+5×1(Classe)+ = 
 
-**Points de Vie :** (CON)+5×1(Classe)+(Multiplicateurs: PFs)+(Avantage) =  \
+**Points de Vie :** (CON)+5×1(Classe)+(Multiplicateurs: PFs)+(Avantage) =   
 Restants :
 
 ***
@@ -47,17 +47,17 @@ Restants :
 ***
 ## Champ Martial : ( PFs)
 
-**Compétences** ( Pfs): \
- Attaque: (Base)+(Dex)+×(Classe)=  \
- Esquive: (Base)+(Agi)+×(Classe)=  \
- Parade: (Base)+(Dex)+×(Classe)=  \
- Port d'Armure: (Base)+(For)=   \
+**Compétences** ( Pfs):  
+ Attaque: (Base)+(Dex)+×(Classe)=   
+ Esquive: (Base)+(Agi)+×(Classe)=   
+ Parade: (Base)+(Dex)+×(Classe)=   
+ Port d'Armure: (Base)+(For)=    
 
 
-**Capacités spéciales/Modules d'Armes :** ( PFs) \
+**Capacités spéciales/Modules d'Armes :** ( PFs)  
 - Arc court (0pf)
 
-**Ki et accumulations :** ( Pfs) \
+**Ki et accumulations :** ( Pfs)  
 Accumulations 		Points de Ki
 
 | |  Base | Achetés | Base | Achetés | 
@@ -74,35 +74,35 @@ Ki restant :
 
 ### Limites : ( DI)
 
-- **Nom :** Coût : \
+- **Nom :** Coût :  
     Effet :
 
 ### Techniques : ( DI)
 
-- **Nom :** Niveau : \
-    Effet : \
+- **Nom :** Niveau :  
+    Effet :  
     DI : Ki :
 
 ### Arts Martiaux : ( PFs)
 
-- **Nom :** Niveau : \
-    Avantages : \
-    DI octroyé :  \
-    Module d'armes associé : \
-    Bonus à l'attaque : Bonus à la défense : \
+- **Nom :** Niveau :  
+    Avantages :  
+    DI octroyé :   
+    Module d'armes associé :  
+    Bonus à l'attaque : Bonus à la défense :  
     Dégâts :
 
 ### Ars Magnus : ( PFs) ( DI)
 
-- **Nom :** Niveau : \
-    Effet : \
+- **Nom :** Niveau :  
+    Effet :  
     PF : DI :
 
 
 
-**Développement intérieur total:** ×1(Classe)+(ArtsMartiaux)+(MaîtreMartial)+( PFs)= \
-Utilisé: 300 \
-Rang d'apprentissage:  \
+**Développement intérieur total:** ×1(Classe)+(ArtsMartiaux)+(MaîtreMartial)+( PFs)=  
+Utilisé: 300  
+Rang d'apprentissage:   
 Pouvoirs de puissance intérieure : ( DI) 
 
 **Utilisation du Ki** ( DI) : 
@@ -202,11 +202,11 @@ Pouvoirs de puissance intérieure : ( DI)
 ***
 ## Champ Mystique: (190 PFs)
 
-**Zéon** (POU)+(Classe)+( PFs)=	\
+**Zéon** (POU)+(Classe)+( PFs)=	   
 Restant
 
-**AMR** (POU)*(1+ (Multiplicateurs))=	\
-Régénération zéonique:( (POU)×(1+(Multiplicateurs AMR)+(Multiplicateurs de Régénération)))×(Avantage)= \
+**AMR** (POU)*(1+ (Multiplicateurs))=	   
+Régénération zéonique:( (POU)×(1+(Multiplicateurs AMR)+(Multiplicateurs de Régénération)))×(Avantage)=  
 Restant : /j
 
 **Projection magique :** (Base)+(Dex)=	Déséquilibre:
@@ -228,16 +228,16 @@ Avantages métamagiques : ( Niveaux de voie)
 
 **Sorts indépendants:**
 
-Convoquer: (Base)+(POU)+(Classe)=	\
-Dominer: (Base)+(VOL)+(Classe)=	\
-Lier: (Base)+(POU)+(Classe)=	\
+Convoquer: (Base)+(POU)+(Classe)=	   
+Dominer: (Base)+(VOL)+(Classe)=	   
+Lier: (Base)+(POU)+(Classe)=	   
 Révoquer: (Base)+(POU)+(Classe)=
 
-Spécialisation: \
-Créatures connues: \
-Créatures liées:\
+Spécialisation:  
+Créatures connues:  
+Créatures liées:   
 Invocations connues: 
-Pactes obtenus:\ 
+Pactes obtenus:    
 Incarnation :
 
 
@@ -270,70 +270,70 @@ Pouvoirs:
 #### CHAMPS SECONDAIRES: (170 PFs)
   
 
-[2]**Champ Athlétique:**(60 Pfs) \
-Acrobaties: (Base)+10(Agi)+ = \
-Athlétisme: 5(Base)+10(Agi)+15(RC) =25 \
-Équitation: 20(Base)+10(Agi)+1*10 = 40 \
-Escalade: (Base)+10(Agi)+ = \
-Natation: 5(Base)+10(Agi)+ = 15 \
-Saut: (Base)+10(For)+ = \
+[2]**Champ Athlétique:**(60 Pfs)  
+Acrobaties: (Base)+10(Agi)+ =  
+Athlétisme: 5(Base)+10(Agi)+15(RC) =25  
+Équitation: 20(Base)+10(Agi)+1*10 = 40  
+Escalade: (Base)+10(Agi)+ =  
+Natation: 5(Base)+10(Agi)+ = 15  
+Saut: (Base)+10(For)+ =  
 *Pilotage*: (Base)+(Agi)+ =
 
-[2] **Champ Vital:** (10 Pfs) \
-Impassibilité: 5(Base)-5(Vol)+4*10 = 40 \
-Prouesses de Force: (Base)+10(For)+ = \
-Résistance à la douleur: (Base)-5(Vol)+ = \
+[2] **Champ Vital:** (10 Pfs)  
+Impassibilité: 5(Base)-5(Vol)+4*10 = 40  
+Prouesses de Force: (Base)+10(For)+ =  
+Résistance à la douleur: (Base)-5(Vol)+ =  
 
-[2] **Champ Sensoriel:** (20 Pfs) \
-Observation: (Base)-5(Per)+ = \
-Pistage:  10(Base)-5(Per)+15(RC)+4×10 = 60 \
+[2] **Champ Sensoriel:** (20 Pfs)  
+Observation: (Base)-5(Per)+ =  
+Pistage:  10(Base)-5(Per)+15(RC)+4×10 = 60  
 Vigilance: (Base)-5(Per)+10 = 
 
-[3] **Champ Intellectuel:** ( Pfs) \
-*Animaux*: (Base)-5(Int)+10(RC) = \
-*Estimation*: (Base)+(Int)+ = \
-*Évaluation Magique*: (Base)+20(Pou)+ = \
-*Herboristerie*: (Base)-5(Int)+10(RC) = \
-*Histoire*: (Base)+(Int)+ = \
-*Loi*: (Base)+(Int)+ = \
-*Médecine*: (Base)+(Int)+ = \
-Mémorisation: (Base)-5(Int)+ = \
-*Navigation*: (Base)+(Int)+ = \
-*Occultisme*: (Base)+(Int)+ = \
-*Science*: (Base)+(Int)+ = \
+[3] **Champ Intellectuel:** ( Pfs)  
+*Animaux*: (Base)-5(Int)+10(RC) =  
+*Estimation*: (Base)+(Int)+ =  
+*Évaluation Magique*: (Base)+20(Pou)+ =  
+*Herboristerie*: (Base)-5(Int)+10(RC) =  
+*Histoire*: (Base)+(Int)+ =  
+*Loi*: (Base)+(Int)+ =  
+*Médecine*: (Base)+(Int)+ =  
+Mémorisation: (Base)-5(Int)+ =  
+*Navigation*: (Base)+(Int)+ =  
+*Occultisme*: (Base)+(Int)+ =  
+*Science*: (Base)+(Int)+ =  
 *Tactique*: (Base)+(Int)+ =
 
 
-[2] **Champ Social:** (30 Pfs) \
-Commandement: 5(Base)+20(Pou)+ = 25 \
-*Commerce*: (Base)+(Int)+ = \
-Étiquette: (Base)-5(Int)+ = \
-Intimidation: (Base)-5(Vol)+ = \
-Persuasion: (Base)-5(Int)+10(RC)+= \
+[2] **Champ Social:** (30 Pfs)  
+Commandement: 5(Base)+20(Pou)+ = 25  
+*Commerce*: (Base)+(Int)+ =  
+Étiquette: (Base)-5(Int)+ =  
+Intimidation: (Base)-5(Vol)+ =  
+Persuasion: (Base)-5(Int)+10(RC)+=  
 Style: 10(Base)+4×20(Pou)+10(RC) = 100
 
-[2] **Champ clandestin:** (40 Pfs) \
-Camouflage: 10(Base)-5(Per)+15(RC)+4×10 = 60 \
-Crochetage: (Base)+5(Dex)+ = \
-Déguisement: (Base)+5(Dex)+ = \
-Discrétion: 10(Base)+4×10(Agi)+4×10 = 90 \
-Larcin: (Base)+5(Dex)+ = \
-Pièges: (Base)+5(Dex)+15(RC) = \
+[2] **Champ clandestin:** (40 Pfs)  
+Camouflage: 10(Base)-5(Per)+15(RC)+4×10 = 60  
+Crochetage: (Base)+5(Dex)+ =  
+Déguisement: (Base)+5(Dex)+ =  
+Discrétion: 10(Base)+4×10(Agi)+4×10 = 90  
+Larcin: (Base)+5(Dex)+ =  
+Pièges: (Base)+5(Dex)+15(RC) =  
 *Poisons*: (Base)-5(Int)+ =
 
-[2] **Champ Créatif:** (10 Pfs) \
-Art: (Base)+20(Pou)+ = \
-*Danse*: (Base)+10(Agi)+ = \
-*Forge*: 5(Base)+5(Dex)+3×10  = 40 (Flèches 80, autres 0) \
-Habileté Manuelle: (Base)+5(Dex)+ = \
-*Musique*: (Base)+(Pou)+ = \
-*Fabrication de marionnettes*: (Base)+(Pou)+ = \
-*Calligraphie rituelle*: (Base)+(Dex)+ = \
-*Alchimie* \
-*Animisme* \
-*Runes* \
-*Orfèvrerie* \
-*Confection* \
+[2] **Champ Créatif:** (10 Pfs)  
+Art: (Base)+20(Pou)+ =  
+*Danse*: (Base)+10(Agi)+ =  
+*Forge*: 5(Base)+5(Dex)+3×10  = 40 (Flèches 80, autres 0)  
+Habileté Manuelle: (Base)+5(Dex)+ =  
+*Musique*: (Base)+(Pou)+ =  
+*Fabrication de marionnettes*: (Base)+(Pou)+ =  
+*Calligraphie rituelle*: (Base)+(Dex)+ =  
+*Alchimie*  
+*Animisme*  
+*Runes*  
+*Orfèvrerie*  
+*Confection*  
 *Tatouage*
 
 
@@ -345,9 +345,9 @@ Habileté Manuelle: (Base)+5(Dex)+ = \
 
 Nom: Arc court	 Qualité: +10
 
- Attaque:	Parade:	Base de dégâts: Mod. Force:	Dégâts:	Spécial: \
- Vitesse: +0	Solidité:	Fracassement:	Présence:	Mode1:	Mode2: \
- Portée efficace 40(Base) + 20(FOR) = 60 m → Portée maximale 120m (-30 à l'Attaque) \
+ Attaque:	Parade:	Base de dégâts: Mod. Force:	Dégâts:	Spécial:  
+ Vitesse: +0	Solidité:	Fracassement:	Présence:	Mode1:	Mode2:  
+ Portée efficace 40(Base) + 20(FOR) = 60 m → Portée maximale 120m (-30 à l'Attaque)  
 Flèche : 40
 
 
@@ -355,7 +355,7 @@ Flèche : 40
 
 Nom: Cuir Bouilli	 Qualité: +0
 
- Solidité:	Présence:	Type:	Port Requis:	Localisation: \
+ Solidité:	Présence:	Type:	Port Requis:	Localisation:  
  Ips: 2 sauf Énergie 0	
 
 TRA:	-CON:	-PER:	-CHA:	-ELE:	-FRO:	-ENE:
