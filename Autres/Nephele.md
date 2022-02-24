@@ -11,27 +11,27 @@ Lectrice vespérale d'Oxxo Xoox (a suivi des cours à l'Académie vespérale)
 Lettré. Langues parlées :
 - Khemsaari : Empire du Khemsaar, tous les PJs (Commun), créole Sergh-Therakien
 - Zharn : Gobelinoïdes (Gobelins, Orques, Hobgobelins, Gobelours, etc)
-- Démonique : Pidgin des démons incarnés (Gnolls, Méduses, Minotaures, Ogres, etc) 
-
-Mutations : 
-- 15 troisième œil
-- (16 Canines prononcées)
-- 20 cornes
+- Démonique : Pidgin des démons incarnés (Gnolls, Méduses, Minotaures, Ogres, etc)  
+Mutations : (15) troisième œil, (16 Canines prononcées), (20) cornes  
+Peau : ocre/rose
 
 **PV :**  2/2 [d4-1]  
 **Réaction des PNJ :** +1  
 **Loyauté :** 8  
 **Nombre de suivants :** 0/5  
-**Réaction des PNJ :** +1  
 
-FOR 10 ; INT 17 ; SAG 9 ; DEX 7 ; CON 7 ; CHA 13
+FOR 10 ; INT 17 ; SAG 9 ; DEX 7 ; CON 7 ; CHA 13  
 
 Mêlée +0  
 Ouverture de portes : 2 sur 6  
 Sauvegarde contre la magie +0  
 CA 	-1 → 9+1 = 10  
 Projectiles -1  
-Initiative	-1  
+Initiative	-1
+
+| Mort/Poison | Baguettes | Paralysie/Pétrification | Souffles | Sorts |
+| --- | --- | --- | --- | --- |
+| 13 | 14 | 13 | 16 | 15 |  
 
 
 # Livre de sorts 
@@ -89,7 +89,7 @@ même mon médaillon malachitique le manuscrit médisant ma
 
 
 Taarchon le terrible
-(X)Cersès
+(X)Cerxes
 Néphele
 Umayma : grande, maigre, peau violette, doigts arachnéens. Yeaux à facettes immenses. Grandes canines. Chauve, ailes de papillon à la place des oreilles. Manières délicates, voire hautaine
 Memnom : grand, velu, crinière
@@ -100,10 +100,10 @@ Arihsat
 ### Session 1 (10/02/2021)
 
 Auberge : Bengis le Tinigens, lunettes
- La caravane a du retard. À cause d'un dragon dans la forêt ?
- Pour certains villageois, le dragon. Le prévôt Dolm a envoyé des bûcherons il y a 3jours. Pas tous ne sont revenus (seule Skevi). Mais le dragon serait mort de ses blessures 
- Prêtre Malid (Prête du Chemin Vertueux) répand le mot que Mican (alchimiste) serait en relation avec une sorcière maléfique de la forêt (qui pactise avec les fées. Bouh !)
- Il y a aussi un géant dans la forêt (il ne pose pas de pb au village)
+La caravane a du retard. À cause d'un dragon dans la forêt ?
+Pour certains villageois, le dragon. Le prévôt Dolm a envoyé des bûcherons il y a 3jours. Pas tous ne sont revenus (seule Skevi). Mais le dragon serait mort de ses blessures 
+Prêtre Malid (Prête du Chemin Vertueux) répand le mot que Mican (alchimiste) serait en relation avec une sorcière maléfique de la forêt (qui pactise avec les fées. Bouh !)
+Il y a aussi un géant dans la forêt (il ne pose pas de pb au village)
 
 Dragon : Lézard noir de 10m de long, écailles indestructibles, crache de la fumée noire qui dissout instanément les gens. A juste grogné, pas parlé. Intelligent mais pas le genre à faire la conversation
 
@@ -122,7 +122,24 @@ C'est le Cergil, qui donne son nom aux montagnes.
 
 ### Session 1 (10/02/2022)
 
-1er étage : 100m de large, 10m de haut
-Tiers central monte de 20-25m mais ce deuxième étage est en partie détruit
-Fait de pierre orange
-Toutes les ouvertures sont grandes ouvertes 
+1er étage : 100m de large, 10m de haut  
+Tiers central monte de 20-25m mais ce deuxième étage est en partie détruit  
+Fait de pierre orange (béton/grnaite/corail)
+Toutes les ouvertures sont triangulaires et grandes ouvertes  
+Petits humanoïdes, glabres, peau cuir grisâtre craquelée, tête aplatie,  yeux rouges, bouche ouverte sur un rictus (pas de lèvres, bave) : Gobelins  
+
+Un chemin contourne par la gauche le bâtiment 
+
+Gobelins = pas des gens (pas de conscience), animaux ? démon ? autres (epérience magiques ratés) ?
+
+HM à l'idée qu'on ramène le dragon en présent à leur roi
+
+à l'intérieur, pas de plafond. Pièce du fond : forme pyramidale à 90°
+Trône : humain drapé dans un cosplay de noble persan fait dans une décharge, mais avec une tête de sanglier. Plein d'anneaux à ses doigts
+Porceval Belle-Hure
+la Corde du Monte-en-l'air : permet de tirer comme s'il n'avait aucun poids
+Récompense : devenir ses chevaliers
+
+Le Dragon vit dans une caverne au nord
+
+allure crocodilesque 2m de large, 10m de long
