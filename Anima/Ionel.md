@@ -3,27 +3,28 @@
 
 **Nom:** Ionel  **Prénom:** Volescu 	**Titre:**  \
 **Classe:** Virtuose martial \
-**Niveau:** 3 XP actuels: 227 \
-XP pour niveau suivant: 225 \
-Points de Formation(Restants): 800 (0)
+**Niveau:** 5 XP actuels: 575 \
+XP pour niveau suivant: 550 \
+Points de Formation(Restants): 1000 (0)
 
 Âge: Genre:	Orientation sexuelle: \
 Race: Ethnie: Natura :	Gnose: \
-Langue maternelle: Akéron	Autres: Nepranus, Maka'k \	
+Langue maternelle: Akéron	Autres: Nepranus, Maka'k, Valoa \	
 Cheveux blanc, yeux verts \
 Taille, Poids: 1m70
 
 Apparence:  Taille: 13
 
 
-Méthode de tirage des caractéristiques: 56 points à répartir  \
-Tirage de base des caractéristiques: AGI: 4 CON: 4 DEX: 5 FOR: 4 INT: 4 PER: 4 POU: 6 VOL: 4  \
-**AGI:** 6+2(bottes)  **CON:** 9  **DEX:** 6  **FOR:** 4  **INT:** 13  **PER:** 5  **POU:** 11  **VOL:** 4
+Méthode de tirage des caractéristiques: 56 points à répartir   
+Tirage de base des caractéristiques: AGI: 4 CON: 4 DEX: 5 FOR: 4 INT: 4 PER: 4 POU: 6 VOL: 4   
+**AGI:** 6+2(bottes)  **CON:** 9  **DEX:** 6  **FOR:** 4  **INT:** 14  **PER:** 5  **POU:** 11  **VOL:** 4
 
 
-Fatigue: 4/9 \
-Mouvement: 8	M/round: 22 \
-Actions Actives: 2 \
+Fatigue: 9/9  
+(Zéon faible [] -2 fatigue, -10 tta)
+Mouvement: 8	M/round: 22  
+Actions Actives: 2  
 Régénération: 3	Au repos:	Sans repos:	Spécial:
 
 
@@ -39,32 +40,34 @@ Régénération: 3	Au repos:	Sans repos:	Spécial:
 - Destin Funeste -2
 
 
-#### Présence : 40
-**RPhy :** 40(Pre)+10(CON)+20(D'z)+30(Sort) = 100 \
-**RMal, RPoi:** 40(Pre)+10(CON)+15(D'z)+30(Sort) = 95  \
-**RMys:** 40(Pre)+15(POU)+15(D'z)+10(Don)+30(Sort) = 110 \
-**RPsy:** 40(Pre)-5(VOL)+15(D'z)+30(Sort) = 80
-+50 contre détections
+#### Présence : 50
+**RPhy :** 50(Pre)+10(CON)+20(D'z)+30(Sort) = 110  
+**RMal, RPoi:** 50(Pre)+10(CON)+15(D'z)+30(Sort) = 105  
+**RMys:** 50(Pre)+15(POU)+15(D'z)+10(Don)+30(Sort) = 120  
+**RPsy:** 50(Pre)-5(VOL)+15(D'z)+30(Sort) = 90  
++100 contre détections  
++60 contre illusions  
 
-**Initiative :** 20(Base)-50(Avantage)-(Armure)+10(AGI)+5(DEX)+20(Arme)+5×3(Classe)+ = 20 
+**Initiative :** 20(Base)-50(Avantage)-(Armure)+10(AGI)+5(DEX)+20(Arme)+5×5(Classe)+ = 30
 
-**Points de Vie :** 120(CON)+5×3(Classe)+(Multiplicateurs: PFs)+(Avantage) = 135  \
-Restants : 49 
+**Points de Vie :** 120(CON)+5×5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 145  \
+Restants : 47
 
 ***
-##### CHAMPS PRINCIPAUX : (480-140 = 620 PFs)
+##### CHAMPS PRINCIPAUX : (540+195 = 735 PFs)
 ***
-## Champ Martial : (480 PFs)
+## Champ Martial : (540 PFs)
 
-**Compétences** (190 Pfs): \
- Attaque: (Base)+5(Dex)+5×3(Classe)=  \
- Esquive: (Base)+10(Agi)+×(Classe)=  \
- Parade: 95(Base)+5(Dex)+20(Classe)= 120  \
- Port d'Armure: (Base)+(For)=   \
+**Compétences** (210 Pfs):  
+ Attaque: (Base)+5(Dex)+5×5(Classe)= 30   
+ Esquive: (Base)+10(Agi)+×(Classe)=   
+ Parade: 105(Base)+5(Dex)+20(Classe)= 130   
+ Port d'Armure: (Base)+(For)= -5    
 
 
-**Capacités spéciales/Modules d'Armes :** ( PFs) \
+**Capacités spéciales/Modules d'Armes :** (40 PFs) \
 - Mains nues (0pf)
+- Ars Magnus : Gardien (40 pf - 10 DI)
 
 **Ki et accumulations :** (215 Pfs) \
 Accumulations 		Points de Ki
@@ -79,27 +82,29 @@ Accumulations 		Points de Ki
 | POU | 2 | 7 | 10 | 65 |  
 |Total |  | 22 | (41) | 106 | 
 
-Ki restant : 33
+Ki restant : -100
 
 
-### Techniques : L'appel d'Ileana (55 DI)
+### Techniques : L'appel d'Ileana (120 DI)
 
 Cet arbre de techniques n'est accessible qu'aux descendants directs d'Ileana ou à ceux qu'elle a protégé de son vivant.
 
-- **Nom : L'esprit gardien** Niveau : 1 \
+- **Nom : L'esprit gardien** Niveau : 1   
     Effet : Parade (+75), Maintenue, Combinable, Lié à un élément (Lumière) \
     DI : 25   Ki : DEX 9(4) POU 9 
 
-- **Nom : Le bouclier d'Ileana** Niveau : 1 \
-    Effet : Bouclier d'énergie (400PV, Régénération 250), Maintenue, Combinable, Lié à un élément (Lumière) \
+- **Nom : Le bouclier d'Ileana** Niveau : 1  
+    Effet : Bouclier d'énergie (400PV, Régénération 250), Maintenue, Combinable, Lié à un élément (Lumière)  
     DI : 30	  Ki: 9(5) POU  9 DEX 
+-300 
 
+- **Nom : Juste rétribution** Niveau : 2  
+    Effet : Défenses supplémentaires (+2), Réfléchir Attaque (Réfléchir effets ésotériques, Choix des cibles), maintenue, Combinable, Lié à un élément (Lumière), Prédétermination, Réduction de DI (-5)  
+    KI 29(11) AGI +6(2)AGI +2 +6   1VOL +3FOR b
+    DI : 65   Ki: 50 AGI/DEX 41 POU/FOR/VOL/DEX (+11) +6(2)AGI +2 +6 44 AGI 
+20 +20 10
 
-Plus tard :
-- **Nom : Juste rétribution** Niveau : 2 \
-    Effet : Réfléchir Attaque (Réfléchir effets ésotériques, Choix des cibles), Combinable, Lié à un élément (Lumière), Prédétermination, Réduction de Ki 1\
-    DI : 75   Ki: 40 POU/FOR/VOL/DEX (+11)  
-
+45
 
 ### Arts Martiaux : (75 PFs)
 
@@ -112,10 +117,10 @@ Plus tard :
     DI octroyé : 20  \
     Bonus à l'attaque : Bonus à la défense : 20 \
 
-**Développement intérieur total:** 50×3(Classe)+50(Arts Martiaux)+( PFs)= 200 \
-Utilisé: 155 \
+**Développement intérieur total:** 50×5(Classe)+50(Arts Martiaux)+( PFs)= 300 \
+Utilisé: 300 \
 Rang d'apprentissage:  \
-Pouvoirs de puissance intérieure : (100 DI) 
+Pouvoirs de puissance intérieure : (170 DI) 
 
 **Utilisation du Ki** ( DI) : [X]
 - Contrôle du Ki (30): [X]
@@ -142,41 +147,46 @@ Pouvoirs de puissance intérieure : (100 DI)
         - Immunité élémentaire : Feu (20) :
         - Immunité élémentaire : Froid (20) :
         - Immunité élémentaire : Électricité (20) :
-        - Élimination des Malus (20):
-            - Récupération (20):
+        - Élimination des Malus (20): [X]
+            - Récupération (20): [X]
                 - Récupération d'autrui (10):
 - Forcer techniques (20):
-- Maîtrise physique (10):
+- Maîtrise physique (10): [X]
     - Changement physique (30): (10Ki, 1/min)
         - Changement supérieur (20): (20Ki, 2/min)
-    - Contrôle de l'âge (20):
+    - Contrôle de l'âge (20): [X]
 - Surhumanité (30):
     - Zen (50):
 
 ***
-## Champ Mystique: (140 PFs)
+## Champ Mystique: (195 PFs)
 
-**Zéon** 135(POU)+(Classe)+( PFs)= 135+500(Artefact) 	\
-Restant 15
+**Zéon** 135(POU)+(Classe)+( PFs)= 135+500(Artefact)  	\
+Restant 135/635
 
 **AMR** 10(POU)*(1+(Multiplicateurs))= 10	\
-Régénération zéonique:( 10(POU)×(1+(Multiplicateurs AMR)+4(Multiplicateurs de Régénération)))×3(Avantage)= 150/j \
-Restant : 30/j → 5
+Régénération zéonique:( 10(POU)×(1+(Multiplicateurs AMR)+5(Multiplicateurs de Régénération))+10)×3(Avantage)= 210/j \
+Restant : 10/j → 
 
 **Projection magique :** (Base)+5(Dex)= 5	Déséquilibre: +35 Offensive, -25 Défensive
 
-Niveaux de magies totaux: 150(Base)+( PFs)	Restants: 0
+Niveaux de magies totaux: 200(Base)+20(20 PFs)	Restants: 15
 
-Avantages métamagiques : (0 Niveaux de voie)
+Avantages métamagiques : (25 Niveaux de voie)
+- Exploitation de l'énergie physique (×2)
+- Effets persistants
+- Projection magique prédéterminée (120)
+- Régénération zéonique améliorée (×1)
 
-| Voie | 150 | 
+| Voie | 160/180 | 
 | --- | --- | 
-| Obscurité | 36 (Connaissance) |
-| Création | 52 (Temps) |
+| Obscurité | 46 (Connaissance) |
+| Création | 52/62 (Temps) |
 | Eau/Feu | |
 | Air/Terre | |
-| Illusion | 62 (Musique)  |
+| Illusion | 64/72 (Musique)  |
 | Nécromancie | | | |
+(en cours d'apprentissage)
 
 **Sorts d'accès libre :**
 - Nettoyage
@@ -200,7 +210,11 @@ Avantages métamagiques : (0 Niveaux de voie)
 - Créer homoncule (25) [x] 25/j
 - Voir dans l'obscurité (surnaturelle, 140 Présence) 15/j
 - Occultation de magie (+250) 25/j
-- Dissimulation [x] (100 en Camouflage, Discrétion et dissimulation du Ki) 20/j
+- Dissimulation [x] (200 en Camouflage, Discrétion et dissimulation du Ki) 50/j
+- Résistance aux illusions [X] (RMys +60) 15/j
+(Lancés grâce à Savoir Magique)
+- Cuirasse [X] (IP 6) 10/j
+- Sans respirer [x][x] (Présence 350+200 ) 15+10/j
 
 *** 
 
@@ -234,33 +248,33 @@ Vigilance 50, Observation 50, Chant 50, Intimidation 5
 
 ***
 
-#### CHAMPS SECONDAIRES: (160 PFs)
+#### CHAMPS SECONDAIRES: (165 PFs)
   
 
 [2]**Champ Athlétique:**( Pfs) \
 Acrobaties: (Base)+10(Agi)+ = \
 Athlétisme: (Base)+10(Agi)+ = \
-Équitation: (Base)+4×10(Agi)+2×10 = 30  \
+Équitation: (Base)+5×10(Agi)+3×10 = 50  \
 Escalade: (Base)+10(Agi)+ = \
 Natation: (Base)+10(Agi)+ =  \
 Saut: (Base)-5(For)+ = \
 
 [2] **Champ Vital:** (10 Pfs) \
-Impassibilité: 5(Base)-5(Vol)+10(RC)+3×10 = 40  \
+Impassibilité: 5(Base)-5(Vol)+10(RC)+4×10 = 50  \
 Prouesses de Force: (Base)-5(For)+ = \
 Résistance à la douleur: 5(Base)-5(Vol)+150(Sort) = 150 \
 
 [2] **Champ Sensoriel:** (20 Pfs) \
-Observation: 5(Base)+0(Per)+10(RC)+3×10 = 45 \
+Observation: 5(Base)+0(Per)+10(RC)+4×10 = 55 \
 Pistage:  (Base)+0(Per)+=  \
-Vigilance: 5(Base)+0(Per)+3×10+5 = 40
+Vigilance: 5(Base)+0(Per)+4×10+5 = 50
 
-[3] **Champ Intellectuel:** (30 Pfs) \
-*Évaluation Magique*: 5(Base)+20(Pou)+20(RC)+2×10 = 65 \
-*Herboristerie*: (Base)+25(Int)+ = \
-*Histoire*: 5(Base)+2×25(Int)+10(RC)+ = 65 \
-Mémorisation: (Base)+25(Int)+15(RC) = 10 \
-*Occultisme*: (Base)+25(Int)+15(RC) = \
+[3] **Champ Intellectuel:** (30 Pfs) \ 
+*Évaluation Magique*: 5(Base)+20(Pou)+20(RC)+2×10 = 65 \ 
+*Herboristerie*: (Base)+25(Int)+ = \ 
+*Histoire*: 5(Base)+3×25(Int)+10(RC)+ = 90 \ 
+Mémorisation: (Base)+25(Int)+15(RC)+2×10 = 20 \ 
+*Occultisme*: (Base)+25(Int)+15(RC) = \ 
 
 [2] **Champ Social:** (20 Pfs) \
 Commandement: (Base)+20(Pou)+ =  \
@@ -277,11 +291,11 @@ Discrétion: (Base)+10(Agi)+=  100 (Sort) \
 Larcin: (Base)+5(Dex)+10(RC)+ = \
 Pièges: (Base)+5(Dex)+ = \
 
-[2] **Champ Créatif:** (80 Pfs) \
-Art: (Base)+20(Pou)+ = \
-*Danse*: (Base)+10(Agi)+1×10 = \
+[2] **Champ Créatif:** (85 Pfs) \
+Art: (Base)+20(Pou)+10(Élan) = \
+*Danse*: (Base)+10(Agi)+10 = \
 Habileté Manuelle: (Base)+5(Dex)+ = \
-*Musique*: 80(Base)+3×20(Pou)+ = 140 
+*Musique*: 85(Base)+3×20(Pou)+10(Élan) = 155 
 
 
 ***
@@ -314,7 +328,7 @@ Or:	Argent:	Cuivre:
 | Zemial |  | | 
 | Uriel |  | | 
 | Jedah |  | | 
-| Gabriel |  | | 
+| Gabriel | 10 | Aptitude artistique | 
 | Noah |  | | 
 | Raphael |  | | 
 | Erebus |  | | 
@@ -398,5 +412,32 @@ Vradjesh : Chaman du village
 
 tombe du "chevalier magric albanoude"
 
+# mercredi 31 mars
+Sigma nous tp à la clairière de Sylphia (régen ×2), occupée par plein d'autres esprits arboricoles (un peu liés à Gabriel).
+
+Nocambo ~ au moment de la chute de l'empire d'Itzi. Lié à Raphaël Béryl. 
+
+Phydias nous guide jusqu'au pied d'une 
+
+
 ### DiceParser macro
 !DE+35;"Observation : $1 (@1)"
+
+
+
+## Killgariade
+
+Chant I.
+
+Chante ô déesse, la colère de Killgar ; détestable colère, qui aux ennemis de l'Itzi valut des souffrances sans nombre et jeta en pâture à la Messagère tant d'âmes fières de héros, tandis que de ces héros mêmes elle faisait la proie des chiens et des vautours du ciel. 
+
+
+Le Fléau de Nezcarramos 
+
+chaman accompagné par la grande grenouille albinos 
+
+
+
+# Time
+
+Professeur de musique de l'Université de Tengatep
