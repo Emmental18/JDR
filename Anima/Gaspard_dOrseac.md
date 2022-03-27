@@ -1,5 +1,6 @@
 # Gaspard d'Orséac
 ![Le Maître d'Armes](../_images/orseac_capescrocs.png)
+https://www.artstation.com/artwork/5RPBJ 
 
 **Nom:** d'Orséac  **Prénom:** Gaspard 	**Titre:** Chevalier  \
 **Classe:** Virtuose martial \
@@ -10,7 +11,7 @@ Points de Formation(Restants): 900 (0)
 Âge: Genre:	Orientation sexuelle: \
 Race: Humain  Ethnie: Asher  Natura :	Gnose: \
 Langue maternelle: Latin 	Autres:  \	
-Cheveux blanc, yeux verts \
+Cheveux , yeux \
 Taille, Poids:  
 
 Apparence:  Taille: 12
@@ -21,24 +22,25 @@ Tirage de base des caractéristiques: AGI: 8 CON: 8 DEX: 10 FOR: 4 INT: 5 PER: 8
 **AGI:** 8  **CON:** 8  **DEX:** 13  **FOR:** 4  **INT:** 5  **PER:** 8  **POU:** 5  **VOL:** 6
 
 
-Fatigue: 8/8 \
-Mouvement: 8	M/round: 22 \
+Fatigue: 7/8 \
+Mouvement: 8	M/round: 28 \
 Actions Actives: 4 \
 Régénération: 2	Au repos:	Sans repos:	Spécial:
 
 
-**Avantages et désavantages :**
-- Racines culturelles (Gabriel) 0
+**Avantages et désavantages :** 
+- Racines culturelles (Gabriel) 0 
 - Rajouter un point à une caractéristique (DEX) 1 
 - Adroit 1 
 - Maître martial 1 
-- Sens aiguisés 1
-- Apte (Style) 1
-- Artefact 1 (« Sylphide » → Maurevers)
-- Arme exclusive -1 (Maurevers)
-- Code de conduite (Ordre de Justine : Honneur, courage, égalité) -1
-- Vulnérabilité à la magie -1
+- Sens aiguisés 1 
+- Apte (Style) 1 
+- Artefact 1 (« Sylphide » → Maurevers) 
+- Arme exclusive -1 (Maurevers) 
+- Code de conduite (Ordre de Justine : Honneur, courage, égalité) -1 
+- Vulnérabilité à la magie -1 
 
+-68
 
 #### Présence : 45
 **RPhy :** 45(Pre)+10(CON) = 55 \
@@ -49,11 +51,11 @@ Régénération: 2	Au repos:	Sans repos:	Spécial:
 **Initiative :** 20(Base)+25(Avantage)-(Armure)+10(AGI)+25(DEX)+20(Mains nues)+5×4(Classe)+ = 120 mains nues, 135 Maurevers
 
 **Points de Vie :** 110(CON)+5×4(Classe)+(Multiplicateurs: PFs)+(Avantage) = 130  \
-Restants : 130
+Restants : -10
 
-***
+*** 
 ##### CHAMPS PRINCIPAUX : (540 PFs)
-***
+*** 
 ## Champ Martial : (540 PFs)
 
 **Compétences** (400 Pfs): \
@@ -76,10 +78,10 @@ Accumulations 		Points de Ki
 | DEX | 3 | 6 | 16 |  | 
 | CON | 1 |  | 8 |  | 
 | VOL | 1 |  | 6 |  | 
-| POU | 1 |  | 8 | 65 |  
-|Total |  | 22 | (42) | 106 | 
+| POU | 1 | 1 | 8 | 70 |  
+|Total |  | 15 | (50) | 120 | 
 
-Ki restant : 5
+Ki restant : 26
 
 
 ### Techniques : (45 DI)
@@ -92,7 +94,7 @@ Ki restant : 5
 - **Nom : Le passe-muraille** Niveau : 1 \
     Effet : Intangibilité (Toucher les autres, présence simple), Maintenue  \
     DI : 25	  Ki: 6(3) POU  
-
+La fameuse technique d'échappatoire de Jacques Moineau, perfectionnée pour une utilisation dans un but... amoureux.
 
 ### Arts Martiaux : (0 PFs)
 
@@ -156,23 +158,22 @@ Observation: 10(Base)+10(Per)+30(BN)+50(Avantage) = 90 \
 Pistage:  (Base)+10(Per)+=  \
 Vigilance: 10(Base)+5×10(Per)+50(BN)+50(Avantage) = 160
 
-[3] **Champ Intellectuel:** (30 Pfs) \ 
-*Histoire*: 5(Base)+0(Int)+10(RC)+ = 15  \ 
-Mémorisation: 5(Base)+0(Int)+50(BN)+ = 55  \ 
-*Occultisme*: (Base)+0(Int) = \ 
+[3] **Champ Intellectuel:** (30 Pfs) \
+*Histoire*: 5(Base)+0(Int)+10(RC)+ = 15  \
+Mémorisation: 5(Base)+0(Int)+50(BN)+ = 55  \
 
-[2] **Champ Social:** (200 Pfs) \
-Commandement: (Base)+0(Pou)+10(RC)+ =  \
-Étiquette: 10(Base)+0(Int)+50(BN) = 60 \
-Intimidation: (Base)-5(Vol)+ = \
-Persuasion: (Base)+0(Int)+10(RC)+= \
-[1]Style: 180(Base)+0(Pou)+20(RC) = 200
+[2] **Champ Social:** (200 Pfs) \ 
+Commandement: (Base)+0(Pou)+10(RC)+ =  \ 
+Étiquette: 10(Base)+0(Int)+50(BN) = 60 \ 
+Intimidation: (Base)-5(Vol)+ = \ 
+Persuasion: (Base)+0(Int)+10(RC)+= \ 
+[1]Style: 180(Base)+0(Pou)+20(RC) = 200 
 
 [2] **Champ clandestin:** (20 Pfs) \
-Camouflage: (Base)+10(Per)+ =  \
+Camouflage: (Base)+10(Per)+ = \
 Crochetage: (Base)+25(Dex)+ = \
 Déguisement: (Base)+25(Dex)+ = \
-Discrétion: (Base)+10(Agi)+=   \
+Discrétion: (Base)+10(Agi)+=  \
 Larcin: 10(Base)+4×25(Dex)+ = 110 \
 Pièges: (Base)+25(Dex)+ = \
 
@@ -190,7 +191,7 @@ Habileté Manuelle: 10(Base)+2×25(Dex)+30(Avantage) = 90  \
 Maurevers est l'épée ancestrale de la famille d'Orséac. C'est une des meilleurs lames de Bellegarde, forgée il y a deux siècle par un forgeron qui réemploya une arme plus ancienne, d'origine sylvaine, reforgée pour l'occasion. La garde ouverte arbore sur un entrelas de métal le martin-pêcheur qui orne les armoiries d'Orséac.
 
 Nom: Maurevers	 (Rapière +10) \
-Attaque: 170  Parade: 120  Dégâts: 60(base)-5(For)+10(Ki) = 55 PER (TRA) \
+Attaque: 170  Parade: 120  Dégâts: 60(base)-5(For)+10(Ki) = 65 PER (TRA) \
 Présence: 120  Solidité 21  Spécial: Vélocité, Précise, l'Aile de l'alcyon
 
 L'Aile de l'Alcyon : \
@@ -238,3 +239,66 @@ Or:	Argent:	Cuivre:
 
 Blason : D'azur à l'alcyon d'argent flottant sur une onde de gueules, qui est d'Orséac
 
+
+Le roi a pas l'air en super forme
+
+Spéculations sur les fiancailles de la Princesse Élise (Roi Noir ? autre Maison majeure) 
+
+Bal au palais
+Garde reste pro, pas sous le charme
+Musique s'arrête, public et musiciens se mettent à danser (sur un rythme qu'ils sont seuls à entendre)
+
+Explosion dans la cour, les gens contrôlés mentalement se jettent dedans.
+Dans le palais, vide. Nobles tués dans la salle du trône, le roi a été emmené
+La princesse est au bout du couloir, au milieu du rituel (?) au fond de trou
+
+ROLLBACK --- Il reste 3 jours
+
+Les gardes sont "parasités" et contrôlés mentalement
+
+vers 10h-midi
+
+Salle souterraine ~30-40 sous le niveau du sol, ~25m de haut. On peut y accéder en devenant intangible
+
+Accrochée au plafond, une méga mine de feu prête à péter
+9 gardes, 2 chevaliers
+3 cultistes concentrés sur les préparatifs du rituel
+1 cultiste qui se transforme (peut prendre l'apparence d'un garde) tao qui casse des bouches (surtout la mienne)
+
+Les gardes (ou la personne qui les contrôle) peuvent lancer des pouvoir psy (en zone ? ou plusieurs ?) bien balèzes (mort psychique) 
+
+Au bout de 4-5 rounds : arrivée d'une escouade de soldats/chevaliers en renfort
+Fuite de Dan et Damien
+
+Objectif : trouver l'endroit où sont les psy.
+
+
+
+ROLLBACK --- Il reste 2 jours
+
+Aller voir Jean-Bob (Jérôme Cornaud), noble déjà vu le premier soir baignant dans son sang
+
+Gaspard laisse une petite note à l'auberge pour annoncer aux autres ce que leur groupe va faire :
+« J'ai ouï dire que Steffen Carkovris d'Albuens (dont le père avait combattu aux côtés du mien dans une fameuse bataille _aujourd'hui oubliée_) se trouvait en ville. Je pars à sa recherche, j'espère que nous pourrons ainsi profiter du festival entre gens de bonne compagnie.
+Signé : G. d'Orséac »
+
++1/2h
+On croise un bedonnant notable (que Dan reconnait comme le Ki du démon de feu d'hier), escorté par des gardes, il a l'air de discuter avec des scribes/marchands qu'ils croise. Il s'appelle Maître Hevarth (chambellan du roi depuis de nombreuses années)
+
+On croise Jérôme Corneau quand il rentre de chasse à courre (en grande compagnie)
+
+Entrevue avec Jérôme, son fils (?) et deux comparses 
+
+Chambellan = neveu du chambellan précédent (Charles), en poste depuis 10-15.
+
+Signe de confiance de Jérôme : Mariette (prénom de sa fille mort-née)
+
+
+
+Jérôme nous donne des indications sur le plan intérieur du château, disposition des gardes, etc.
+
+Remarque : Les gardes ne peuvent pas lancer de pouvoirs psys sur les gens qu'ils ne voient pas
+
+
+
+penser à aller piquer les clefs de maître Evart dans la rue
