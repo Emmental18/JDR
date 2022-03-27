@@ -1,4 +1,7 @@
-# Fiche de personnage Anima
+# Anya
+Anya a eu une brève carrière de coiffeuse, jusqu'au jour où une cliente s'est plainte que sa coupe la défigurait. Anya l'a prise au mot.  
+Désormais recherchée au Dalaborn, elle est allée se mettre au vert dans une vallée perdue du Galados
+
 ![https://www.deviantart.com/clover-teapot/art/Anya-Lineart-Commission-710146359](../_images/Anya_by_clover-teapot.png)  
 
 
@@ -54,51 +57,16 @@ Restants :
 ***
 ## Champ Martial : (0 PFs)
 
-**Compétences** ( Pfs):  
  Attaque: 10  
  Esquive: 10   
  Parade: 10   
  Port d'Armure: -5  
 
-
-**Capacités spéciales/Modules d'Armes :** ( PFs)  
-- Mains nues (0pf)
-
-**Ki et accumulations :** ( Pfs)  
 Ki : 45/45  
 Accumulation totale : 7  
 
 **Développement intérieur total:** 10×2(Classe)+(ArtsMartiaux)+(MaîtreMartial)+( PFs)= 20  
 Utilisé: 0  
-Rang d'apprentissage:   
-Pouvoirs de puissance intérieure : ( DI) 
-
-**Utilisation du Ki** ( DI) : 
-- Transmission du Ki (10):
-    - Guérison par le Ki (10): (2PV/Ki, max la moitié des PV perdus)
-        - Guérison supérieure (10): (5PV/Ki)
-        - Stabilisation (10):
-- Sacrifice vital (10):
-- Utilisation de l'Énergie Nécessaire (10):
-    - Dissimulation du Ki (10):
-        - Aura de Dissimulation (10):
-        - Fausse Mort (10):
-    - Élimination des Besoins (10):
-        - Immunité élémentaire : Feu (20) :
-        - Immunité élémentaire : Froid (20) :
-        - Immunité élémentaire : Électricité (20) :
-        - Élimination des Malus (20):
-    - Récupération (20):
-        - Récupération d'autrui (10):
-    - Augmentation des Caractéristiques (20):
-        - Accroissement supérieur (20):
-- Maîtrise physique (10):
-    - Changement physique (30): (10Ki, 1/min)
-        - Changement supérieur (20): (20Ki, 2/min)
-    - Contrôle de l'âge (20):
-- Surhumanité (30):
-    - Zen (50):
-
 
 ***
 ## Champ Mystique: (0 PFs)
