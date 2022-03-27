@@ -6,7 +6,7 @@ Dit « Ezruu »
 **XP :** 0/2200 (Modificateur +0%)  
 Langues parlées :
 - Khemsaari : Empire du Khemsaar, tous les PJs (Commun), créole Sergh-Therakien
-- Standard : Gobelinoïdes (Nains)  
+- Standard : Nains 
 
 
 Mutations : -  
@@ -48,26 +48,31 @@ Po : 0
 | 20 | 1 | 20 | Pistolet à rayons |
 | 5 | 1 | 5 | Cellules énergétiques standard |
 | 5 | 1 | 5 | Armure de plates 	CA 3 [16]  |
+|   | | | Potion de guérison (1d6+1 ou paralysie) |
+| 30 | | | Hache à une main |
 
-Rations 7/7   
-Munitions 20/20
+Torches 4/6   
+Rations 6/7   
+Munitions 15/20
 
 Pistolet à rayons (80po) 1d8 (1d4 càc), Bruyant, Distance (1,5-9/10-18/19-27), Rechargement, +1 pour toucher à bout portant  
 Muntions (10 Po les 20) : cellules énérgétiques standard
+
+Hache magique (tranche la chair, mais inutile contre les matières inertes. sur un critique, tranche un membre au hasard). 1d6+1
 
 # Groupe
 
 Aram Shun : Pupilles rectangulaires   
 Nashiram : Magicien discret, peau hâlée  
 Firfi : Nain jeune et parleur  
-Sossamine : peau orange, avec des écailles dessinées. Traits serpentins  
+Sossamine : Voleuse. Peau orange, avec des écailles dessinées. Traits serpentins  
 
 
 # Notes 
 
 ### Session 1 (10/02/2021)
 
-Auberge : Bengis le Tinigens, lunettes
+Auberge : Bengis le Tinigens gris et jovial, lunettes rondes
 La caravane a du retard. À cause d'un dragon dans la forêt ?
 Pour certains villageois, le dragon. Le prévôt Dolm a envoyé des bûcherons il y a 3jours. Pas tous ne sont revenus (seule Skevi). Mais le dragon serait mort de ses blessures 
 Prêtre Malid (Prête du Chemin Vertueux) répand le mot que Mican (alchimiste) serait en relation avec une sorcière maléfique de la forêt (qui pactise avec les fées. Bouh !)
@@ -87,7 +92,7 @@ C'est le Cergil, qui donne son nom aux montagnes.
 
 
 
-### Session 1 (10/02/2022)
+### Session 2 (17/02/2022)
 
 1er étage : 100m de large, 10m de haut  
 Tiers central monte de 20-25m mais ce deuxième étage est en partie détruit  
@@ -111,6 +116,73 @@ Le Dragon vit dans une caverne au nord
 
 allure crocodilesque 2m de large, 10m de long
 
+PARTY WIPE
 
 
-Génat mangeur d'hommes
+### Session 3 (24/02/2021)
+
+(Nouveau groupe) 
+
+Géant mangeur d'hommes de 15m de haut  
+Groupe de nains au nord. Ça fait un moment qu'on ne les a pas vus (commence à poser pb au forgeron)  
+D'après Malid, le prêtre du Chemin Vertueux, tout est de la faute de la sorcière.  
+
+Lask le Forgeron (nageoires vestigiales) : mur recouverts de symboles religieux 
+
+Le prêtre : il y a plusiuers siècles, un héros avait vaincu un dragon local avec une épée magique. Il avait envoyé son acolyte récupérer l'épée mais il n'est pas revenu  
+Il peut lever des malédictions avec des pouvoirs 
+
+Partir vers le nord jusuq'à la rivière (autre côte plus dangereux), puis longer vers l'amont sur quelques centaines de pas. prendre la piste qui retourne vers l'est dans la forêt. Puis vers le nord-est où se trouve la tombe de Boran
+
+Les incursions féeriques se multiplient en ville  
+Lask visité toutes les nuits par un esprit
+
+Alchimiste : toute menue. Vend de l'onguent repousse-loup (5po)  
+Sorcière : prendre le chemin à l'est du village. (longer la palissade du village, puis prendre le sentier entre les deux gros buissons)
+
+
+Départ vers chez la sorcière avec onguent  
+Chiens borzoi avec des fleurs s'approchent . Il pisent un renard doré pour leurs maîtres
+
+
+Sorcière : il ne faut pas y aller avec des armes. Sa passion : sculpture d'arbustes
+
+Après le pont, cercle d'arbres de fées (va faloir négocier) : prendre la sève, capiteuse comme du vin. Fait dormir profondément, devrait marcher avec le dragon.
+
+
+### Session 4 (03/03/2021)
+
+Auberge de l'œuf d'or : 
+Accuse le tenancier de l'autre auberge de lui voler ses provisions 
+
+Hutte du géant : on libère Sakar qui était prisonnier dans un sac
+(d'après le géant, ce sont les gobelins qui volent les provisions) 
+
+Attaque de loups  
+Nuit de repos au pied du ...   
+Tombeau de Boran :  
+
+Escalier
+Salle aux alcôves. murs de pierre grise lisse, panneaux de mosaïque 
+
+Je trouve une salle secrète !
+
+### Session 5 (10/03/2021)
+
+
+Piédestal 
+
+Devoir 
+bas gauche : Sagesse
+Piété
+Nord ouest : Valeur 
+
+Couloir secret : murs lisses, plus ancien ?
+
+
+### Session 6 (24/03/2021)
+
+-1 rat (les 5 autres fuient)
+-1 araignée
+-1 squelette (et sa tête)
+
