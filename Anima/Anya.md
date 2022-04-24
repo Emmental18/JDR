@@ -7,8 +7,8 @@ Désormais recherchée au Dalaborn, elle est allée se mettre au vert dans une v
 
 **Nom:** Klosterfeld  **Prénom:** Anya 	**Titre:**   
 **Classe:** Mentaliste  
-**Niveau:** 2 XP actuels: 100    
-XP pour niveau suivant: 125  
+**Niveau:** 2 XP actuels: 128    
+XP pour niveau suivant: 225  
 Points de Formation(Restants): 0
 
 Âge: Genre:	Orientation sexuelle:  
@@ -101,7 +101,7 @@ Disciplines ouvertes:
 – Télépathie  
 
 Pouvoirs:  
-– Bouclier d'énergie  
+– Bouclier d'énergie PV : 42/300 
 – Décharge d'énergie  
 – Télékinésie mineure (projection /2)  
 – Impact télékinétique
@@ -218,3 +218,14 @@ Or:	Argent:	Cuivre:
 ***
 
 ## DIVERS : 
+
+Maire (Greta)
+
+Fumée rouge au-dessus de l'ancienne forteresse de TR
+
+Astrid a perdu ses potes (papa, maman, sœur) (ce sont tous des voleurs ! bouh)
+
+
+/r 1d100xa + 70 # Occultisme
+/r 1d100xa + 90 # Bouclier
+/r 1d100xa + 80 # Dague
