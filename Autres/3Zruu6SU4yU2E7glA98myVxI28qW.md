@@ -3,7 +3,7 @@ Dit « Ezruu »
 
 **Classe:** Nain   
 **Niveau:* 1   
-**XP :** 0/2200 (Modificateur +0%)  
+**XP :** 1330/2200 (Modificateur +0%)  
 Langues parlées :
 - Khemsaari : Empire du Khemsaar, tous les PJs (Commun), créole Sergh-Therakien
 - Standard : Nains 
@@ -13,7 +13,7 @@ Mutations : -
 Peau : cuivrée, pas d'orteils
 
 
-**PV :**  10/10 [d8-2]   
+**PV :**  8/10 [d8+2]   
 **Réaction des PNJ :** +1   
 **Loyauté :** 8   
 **Nombre de suivants :** 0/5    
@@ -23,7 +23,7 @@ FOR 10 ; INT 9 ; SAG 11 ; DEX 14 ; CON 16 ; CHA 9
 Mêlée +0  
 Ouverture de portes : 2 sur 6  
 Sauvegarde contre la magie +0  
-CA 	+1 → 3-1 = 2  
+CA 	+1 → 3-1-1 = 1  
 Projectiles +1  
 Initiative	+1
 
@@ -35,30 +35,51 @@ Initiative	+1
 Déplacement : Armure lourde 	18 m (6 m) 	9 m (3 m) 
 
 # Équipement
+Encombrement max : 1600 pièces
 
-Po : 0 
+Po : 583
+ 
+
 
 | Total | Quantité | Poids (Po) | Objet |
 | --- | --- |  --- | --- |
+| 5 | 1 | 5 | Sac à dos |
+| 4 | 2 | 2 | Grand sac|
 | 2 | 2 | 1 | Petit sac|
+| 4 | 1 | 4 | Corde (2×30m)|
 | 1 | 1 | 1 | 6 torches |
-| 1 | 1 | 1 | Outre de vin (1L) |
-| 5 | 1 | 5 | 7 jours de rations |
+| 4 | 1 | 1+1 | Outre de vin (1L) |
+| 2 | 1 | 1 | Outre d'eau (1L) |
+| 10 | 2 | 5 | 12 jours de rations |
 | 1 | 1 | 1 | Outre d'eau (1L) |
 | 20 | 1 | 20 | Pistolet à rayons |
+| 100 | 1 | 10 | Bouclier |
 | 5 | 1 | 5 | Cellules énergétiques standard |
 | 5 | 1 | 5 | Armure de plates 	CA 3 [16]  |
-|   | | | Potion de guérison (1d6+1 ou paralysie) |
+|  0 | | | Potion de guérison (1d6+1 ou paralysie) |
 | 30 | | | Hache à une main |
+| 20 | 2 | 10 | Thé (+1PV/dose) |
+| 10 | 2 | 5 | Onguent repousse-loup |
+| 20 | 1 | 20 | Tente |
+| 3 | 1 | 3 | Fiole |
+| 1 | 1 | 1 | Sifflet |
+| 10 | 1 | 10 | Épices de cuisine |
+| . | 2 | . | Couvertures |
+| . | 2 | . | Ustensiles de cuisine |
+| . | 1 |  | armure (métal pour le forgeron) |
+| . |  | . | |
 
-Torches 4/6   
-Rations 6/7   
-Munitions 15/20
 
-Pistolet à rayons (80po) 1d8 (1d4 càc), Bruyant, Distance (1,5-9/10-18/19-27), Rechargement, +1 pour toucher à bout portant  
-Muntions (10 Po les 20) : cellules énérgétiques standard
+Torches 3/6  
+Rations 13/14  
+Munitions 10/20  
 
-Hache magique (tranche la chair, mais inutile contre les matières inertes. sur un critique, tranche un membre au hasard). 1d6+1
+Pistolet à rayons (80po) 1d8 (1d4 càc), Bruyant, Distance (1,5-9/10-18/19-27), Rechargement (auto, mais 1 tour pour refroidir), +1 pour toucher à bout portant  
+Muntions (10 Po les 20) : cellules énérgétiques standard 
+
+
+Hache magique (tranche la chair, mais inutile contre les matières inertes. À chaque attaque, tranche un membre au hasard). 1d6
+Bouclier de Boran : richement ouvragé 
 
 # Groupe
 
@@ -142,7 +163,7 @@ Sorcière : prendre le chemin à l'est du village. (longer la palissade du villa
 
 
 Départ vers chez la sorcière avec onguent  
-Chiens borzoi avec des fleurs s'approchent . Il pisent un renard doré pour leurs maîtres
+Chiens borzoi avec des fleurs s'approchent . Il pistent un renard doré pour leurs maîtres
 
 
 Sorcière : il ne faut pas y aller avec des armes. Sa passion : sculpture d'arbustes
@@ -152,7 +173,7 @@ Après le pont, cercle d'arbres de fées (va faloir négocier) : prendre la sèv
 
 ### Session 4 (03/03/2021)
 
-Auberge de l'œuf d'or : 
+Taverne de l'œuf d'or : 
 Accuse le tenancier de l'autre auberge de lui voler ses provisions 
 
 Hutte du géant : on libère Sakar qui était prisonnier dans un sac
@@ -186,3 +207,30 @@ Couloir secret : murs lisses, plus ancien ?
 -1 araignée
 -1 squelette (et sa tête)
 
+### Session 7 (07/04/2021)
+
+Créature d'ombre (et salle de statues piégées)
+Tombe de Boran
+
+D'ivoire est Devoir,
+Sagesse est noblesse
+Piété vaut félicité 
+Quand sonne l'heure de la Valeur
+
+Épée de Boran 
+Métal doré/rosé. Lame magnifique
+Garde ancienne, rudimentaire
+Devise en implexe « Tout être sombre cède sous ma lumière »
+
+Malzazéric le magnifique
+
+### Session 8 (14/04/2021)
+
+Persis, Yazoz et Sharuz : fils du paysan (qui nous vend une mule) partis/perdus en forêt
+
+Cervidé à 8 pattes, robe rouge. Mort et exhangue. On bute 7 moustiques géants, le dernier se barre
+
+
+### Session 9 (21/04/2021)
+
+THE DRAGON IS WITHERED
