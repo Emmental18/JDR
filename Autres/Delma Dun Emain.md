@@ -14,8 +14,27 @@ Tirage de base : 15 10 14 7 11 16
 **Bonus de maîtrise :** +2  
 **Sauvegardes :** Int +4, Sag +2  
 
-**Compétences :** Arcanes +4, Histoire +4, Intuition +2, Investigation +4 (Perception passive 10)
-Discrétion, Escamotage
+**Compétences :** (Perception passive 10)
+| Compétence | Carac | Maitrisée | Total |
+| --- | --- | --- | --- | 
+| Acrobaties | Dex |  | +3 |
+| Arcanes | Int | ☑ | +6 |
+| Athlétisme | For |  | -1 |
+| Discrétion | Dex | ☑ | +5 |
+| Dressage | Sag |  | +0 |
+| Escamotage | Dex | ☑ | +5 |
+| Histoire | Int |  | +4 |
+| Intimidation | Cha |  | +0 |
+| Intuition | Sag |  | +0 |
+| Investigation | Int | ☑ | +6 |
+| Médecine | Sag |  | +0 |
+| Nature | Int |  | +4 |
+| Perception | Sag |  | +0 |
+| Persuasion | Cha |  | +0 |
+| Religion | Int |  | +4 |
+| Représentation | Cha |  | +0 |
+| Survie | Sag |  | +0 |
+| Tromperie | Cha |  | +0 |
 
 **Armes :** dague, fléchette, fronde, bâton, arbalète légère  
 **Armures :** —  
