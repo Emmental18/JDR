@@ -7,19 +7,20 @@
 **Historique :** Enfant des rues  
 
 Tirage de base : 15 10 14 7 11 16
-| Force | Dextérité | Constitution | Intelligence | Sagesse | Charisme | 
-| --- | --- | --- | --- | --- | --- | 
-| **7** (-2) | **16** (+3) | **14** (+2) | **18** (+4) | **11** (+0) |  **10** (+0) |
+| | Force | Dextérité | Constitution | Intelligence | Sagesse | Charisme | 
+| ---  | --- | --- | --- | --- | --- | --- | 
+| Valeur | **7** (-2) | **16** (+3) | **14** (+2) | **18** (+4) | **11** (+0) |  **10** (+0) |
+|  |  |   |   | ☑ | ☑ |   |
+|  Sauvegarde | -2 | +3 | +2 | +6 | +2 | +0 |
 
 **Bonus de maîtrise :** +2  
-**Sauvegardes :** Int +4, Sag +2  
 
 **Compétences :** (Perception passive 10)
 | Compétence | Carac | Maitrisée | Total |
 | --- | --- | --- | --- | 
 | Acrobaties | Dex |  | +3 |
 | Arcanes | Int | ☑ | +6 |
-| Athlétisme | For |  | -1 |
+| Athlétisme | For |  | -2 |
 | Discrétion | Dex | ☑ | +5 |
 | Dressage | Sag |  | +0 |
 | Escamotage | Dex | ☑ | +5 |
@@ -62,10 +63,7 @@ Poids de l'équipement 0 kg - Coût 0 po
 0 po
 Poids des pièces 0 kg 
 
- un petit couteau, une carte de la ville dans
-laquelle vous avez grandi, une souris domestiquée, un
-souvenir de vos parents, des habits courants et une bourse
-contenant 10 po
+ un petit couteau, une carte de la ville dans laquelle vous avez grandi, une souris domestiquée (chouette familier), un souvenir de vos parents, des habits courants et une bourse contenant 10 po
 
 ##### [PERSONNAGE]
 Taille S / 1 m / 15 kg ; Âge 20 ans  
@@ -110,10 +108,14 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 ### Sorts de niveau 1 [préparé]
 
+[Alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme)  
 [Appel de familier](https://www.aidedd.org/dnd/sorts.php?vf=appel-de-familier) **R**  
 [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)  
-[Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)  
+[Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)  
+[Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)  
 [Serviteur invisible](https://www.aidedd.org/dnd/sorts.php?vf=serviteur-invisible) **R**  
-[]()  
-[]()  
-[]()  
+[Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)  
+
+
+### Familier : 
+[Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette)
