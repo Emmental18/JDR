@@ -108,7 +108,7 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 ### Sorts de niveau 1 [préparé]
 
-[Alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme)  
+[Alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme) **R**  
 [Appel de familier](https://www.aidedd.org/dnd/sorts.php?vf=appel-de-familier) **R**  
 [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)  
 [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)  
@@ -119,3 +119,12 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 ### Familier : 
 [Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette)
+
+
+
+_____
+
+Divers :  
+https://5e.tools/backgrounds.html#acolyte_phb  
+https://rpgbot.net/dnd5/characters/classes/wizard/bladesinging/  
+https://tabletopbuilds.com/components/  
