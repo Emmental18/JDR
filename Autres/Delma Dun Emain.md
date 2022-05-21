@@ -59,11 +59,86 @@ Vous connaissez si bien les remous et le flux de la population urbaine que vous 
 
 ##### [ÉQUIPEMENT]
 
-Poids de l'équipement 0 kg - Coût 0 po
-0 po
+Poids transportable : 26,25 kgs  
+
+
+| Objet | Poids (kg) | 
+| --- | --- |  
+| Habits courants | 2 |
+| Focaliseur arcanique (cristal) | 0,5 |
+| Grimoire | 1,5 |
+| Bouteille d'encre | — | 
+| Porte-plume | — | 
+| Étui à parchemins | 0,5 |
+| 10 feuilles de parchemin | — |
+| Dague | 0,5 |
+| Sac à dos | 2,5 |
+| Lanterne sourde | 1 |
+| Rations | 1 |
+| Outre | 2,5 |
+| Huile | 0,5 | 
+| |  | 
+| **Total** | 12,5 |
+
++ une carte de la ville dans laquelle vous avez grandi, un souvenir de vos parents  
++ babiole : une gemme que toute personne autre que vous prend pour du charbon  
+
+8 po
 Poids des pièces 0 kg 
 
- un petit couteau, une carte de la ville dans laquelle vous avez grandi, une souris domestiquée (chouette familier), un souvenir de vos parents, des habits courants et une bourse contenant 10 po
+
+Mastiff (poids transportable 97,5 kgs)  
+CA 12  PV 5 [1d8+1]  Vitesse 12m  
+Perception +3 Avantage ouïe/odorat  
+Morsure +3 
+
+| Objet | Poids (kg) | 
+| --- | --- |  
+| Fontes | 4 |
+| Corde en chanvre (15m) | 5 |
+| Torches | 10× 1|
+| Rations pour doggo | 10× 5 |
+| Rations | 10× 1 | 
+| Couverture | 1,5 |
+| Gamelle | 0,5 |
+| Dague | 0,5 |
+| Boîte à amadou | 0,5 |
+| Huile | 2 × 0,5 | 
+| |  | 
+| **Total** | 83 |
+
+Mastiff
+Medium beast, Unaligned
+
+    Armor Class 12
+    Hit Points 5 (1d8+1)
+    Speed 40 ft.
+
+STR
+13 (+1)
+DEX
+14 (+2)
+CON
+12 (+1)
+INT
+3 (-4)
+WIS
+12 (+1)
+CHA
+7 (-2)
+
+    Skills Perception +3
+    Senses passive Perception 13
+    Challenge 1/8 (25 XP)
+
+    Keen Hearing and Smell. The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+Actions
+
+    Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone
+
+
+
 
 ##### [PERSONNAGE]
 Taille S / 1 m / 15 kg ; Âge 20 ans  
@@ -113,13 +188,12 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)  
 [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)  
 [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)  
-[Serviteur invisible](https://www.aidedd.org/dnd/sorts.php?vf=serviteur-invisible) **R**  
 [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)  
 
 
 ### Familier : 
 [Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette)
-
+[Molosse](https://www.aidedd.org/dnd/monstres.php?vf=molosse)
 
 
 _____
