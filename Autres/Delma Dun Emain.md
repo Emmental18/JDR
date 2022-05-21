@@ -87,10 +87,7 @@ Poids transportable : 26,25 kgs
 Poids des pièces 0 kg 
 
 
-Mastiff (poids transportable 97,5 kgs)  
-CA 12  PV 5 [1d8+1]  Vitesse 12m  
-Perception +3 Avantage ouïe/odorat  
-Morsure +3 
+[Mastiff](https://www.aidedd.org/dnd/monstres.php?vf=molosse) (poids transportable 97,5 kgs)  
 
 | Objet | Poids (kg) | 
 | --- | --- |  
@@ -106,38 +103,6 @@ Morsure +3
 | Huile | 2 × 0,5 | 
 | |  | 
 | **Total** | 83 |
-
-Mastiff
-Medium beast, Unaligned
-
-    Armor Class 12
-    Hit Points 5 (1d8+1)
-    Speed 40 ft.
-
-STR
-13 (+1)
-DEX
-14 (+2)
-CON
-12 (+1)
-INT
-3 (-4)
-WIS
-12 (+1)
-CHA
-7 (-2)
-
-    Skills Perception +3
-    Senses passive Perception 13
-    Challenge 1/8 (25 XP)
-
-    Keen Hearing and Smell. The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
-
-Actions
-
-    Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone
-
-
 
 
 ##### [PERSONNAGE]
@@ -193,7 +158,6 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 ### Familier : 
 [Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette)
-[Molosse](https://www.aidedd.org/dnd/monstres.php?vf=molosse)
 
 
 _____
