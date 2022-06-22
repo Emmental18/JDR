@@ -2,7 +2,7 @@
 
 ![https://www.deviantart.com/dustinpanzino/art/Dragonfly-Knight-844255804](../_images/Delma_reduit.png)  
 
-**Classe :** Magicien 1  
+**Classe :** Magicien 2   
 **Race :** [Fée](http://dnd5e.wikidot.com/fairy) (f), CB  
 **Historique :** Enfant des rues  
 
@@ -33,19 +33,21 @@ Tirage de base : 15 10 14 7 11 16
 | Perception | Sag |  | +0 |
 | Persuasion | Cha |  | +0 |
 | Religion | Int |  | +4 |
-| Représentation | Cha |  | +0 |
+| Représentation | Cha | ☑ | +2 |
 | Survie | Sag |  | +0 |
 | Tromperie | Cha |  | +0 |
 
-**Armes :** dague, fléchette, fronde, bâton, arbalète légère  
-**Armures :** —  
+**Armes :** dague, fléchette, fronde, bâton, arbalète légère, rapière  
+**Armures :** légères  
 **Outils :** Accessoires de déguisement (contrefaçon ?), Outils de voleur 
-**Langues :** commun, +1  
+**Langues :** commun, infernal  
 
 ##### [COMBAT]
-**PV** 8/8
-**Initiative** +2 ; **Vitesse** 9m
-**CA** 12 (sans armure, Dex +2)
+**PV** 13/13
+**Initiative** +3 ; **Vitesse** 9m
+**CA** 13 (sans armure, Dex +3), 17 (Chantelame, +4 Int)
+
+
 
 ##### [SORTS]
 
@@ -58,9 +60,10 @@ Aptitude d'historique : **Secrets de la ville**
 Vous connaissez si bien les remous et le flux de la population urbaine que vous arrivez à vous frayer un chemin dans la cohue là oùd'autres se retrouveraient coincés. Quand vous n'êtes pas en combat, vous et les compagnons qui vous suivent pouvez vous déplacer deux fois plus vite que votre vitesse ne devrait vous le permettre entre deux points d'une même ville.
 
 ##### [ÉQUIPEMENT]
-
+(Po de départ (Classe + Historique) : 4d4×10 (130) + 10)  
 Poids transportable : 26,25 kgs  
 
+Need : Rapière (15po, 0,5 kgs) + cuir clouté (45po, 6,5 kgs)
 
 | Objet | Poids (kg) | 
 | --- | --- |  
@@ -74,16 +77,18 @@ Poids transportable : 26,25 kgs
 | Dague | 0,5 |
 | Sac à dos | 2,5 |
 | Lanterne sourde | 1 |
-| Rations | 1 |
-| Outre | 2,5 |
+| Rations | 1 | 
+| Outre | 2,5 | 
 | Huile | 0,5 | 
 | |  | 
-| **Total** | 12,5 |
-
+| **Total** | 12,5 | 
+ 
 + une carte de la ville dans laquelle vous avez grandi, un souvenir de vos parents  
 + babiole : une gemme que toute personne autre que vous prend pour du charbon  
 
-8 po
+11 po 
+2 pa
+8 pc
 Poids des pièces 0 kg 
 
 
@@ -98,11 +103,10 @@ Poids des pièces 0 kg
 | Rations | 10× 1 | 
 | Couverture | 1,5 |
 | Gamelle | 0,5 |
-| Dague | 0,5 |
 | Boîte à amadou | 0,5 |
 | Huile | 2 × 0,5 | 
 | |  | 
-| **Total** | 83 |
+| **Total** | 82,5 |
 
 
 ##### [PERSONNAGE]
@@ -133,9 +137,9 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Sorts préparés :**
+**Sorts préparés :** 6 (INT+niveau)
 
-**Emplacements de sorts :** 2/2 (Niv1)
+**Emplacements de sorts :** 3/3 (Niv1)
 
 **Restauration magique :** Niveau de magicien ÷ 2 : 1 []
 
@@ -153,7 +157,9 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)  
 [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)  
 [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)  
-[Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)  
+[Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)   
+[Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)
+[Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie) **R**  
 
 
 ### Familier : 
