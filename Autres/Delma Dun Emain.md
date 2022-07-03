@@ -39,11 +39,11 @@ Tirage de base : 15 10 14 7 11 16
 
 **Armes :** dague, fléchette, fronde, bâton, arbalète légère, rapière  
 **Armures :** légères  
-**Outils :** Accessoires de déguisement (contrefaçon ?), Outils de voleur 
+**Outils :** Accessoires de contrefaçon, Outils de voleur 
 **Langues :** commun, infernal  
 
 ##### [COMBAT]
-**PV** 13/13
+**PV** 19/19  
 **Initiative** +3 ; **Vitesse** 9m
 **CA** 13 (sans armure, Dex +3), 17 (Chantelame, +4 Int)
 
@@ -92,13 +92,13 @@ Need : Rapière (15po, 0,5 kgs) + cuir clouté (45po, 6,5 kgs)
 Poids des pièces 0 kg 
 
 
-[Mastiff](https://www.aidedd.org/dnd/monstres.php?vf=molosse) (poids transportable 97,5 kgs)  
+[Mastiff](https://www.aidedd.org/dnd/monstres.php?vf=molosse) (poids transportable 97,5 kgs) nommé Kérak  
 
 | Objet | Poids (kg) | 
 | --- | --- |  
 | Fontes | 4 |
 | Corde en chanvre (15m) | 5 |
-| Torches | 10× 1|
+| Torches | 9× 1|
 | Rations pour doggo | 10× 5 |
 | Rations | 10× 1 | 
 | Couverture | 1,5 |
@@ -106,7 +106,7 @@ Poids des pièces 0 kg
 | Boîte à amadou | 0,5 |
 | Huile | 2 × 0,5 | 
 | |  | 
-| **Total** | 82,5 |
+| **Total** | 81,5 |
 
 
 ##### [PERSONNAGE]
@@ -137,11 +137,11 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Sorts préparés :** 6 (INT+niveau)
+**Sorts préparés :** 9 (INT+niveau)
 
-**Emplacements de sorts :** 3/3 (Niv1)
+**Emplacements de sorts :** 4/4 (Niv1)  2/2 (Niv2)
 
-**Restauration magique :** Niveau de magicien ÷ 2 : 1 []
+**Restauration magique :** Niveau de magicien ÷ 2 : 5 []
 
 ### Tours de magie
 
@@ -160,10 +160,15 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)   
 [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)
 [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie) **R**  
+[Lueurs féeriques](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques) (1/j gratuit)
 
+### Sorts de niveau 2 [préparé]
+
+[Aura magique de Nystul](https://www.aidedd.org/dnd/sorts.php?vf=aura-magique-de-nystul)
+[Vortex Warp](http://dnd5e.wikidot.com/spell:vortex-warp)
 
 ### Familier : 
-[Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette)
+[Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette) nommée Irri
 
 
 _____
