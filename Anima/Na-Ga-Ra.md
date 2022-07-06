@@ -1,4 +1,4 @@
-# Fiche de personnage Anima
+# Na-Ga-Ra, fils de On-Gi-Ha-Ra
 
 **Nom:** —  **Prénom:** Na-Ga-Ra 	**Titre:** Premier Tambour de Killgaria  
 **Classe:** Guerrier Acrobate  
@@ -53,7 +53,7 @@ Restants :
 ***
 ##### CHAMPS PRINCIPAUX : ( PFs)
 ***
-## Champ Martial : (530 PFs)
+## Champ Martial : (540 PFs)
 
 **Compétences** (450 Pfs):  
  Attaque: 130(Base)+5(Dex)+5×5(Classe)= 160  
@@ -99,10 +99,10 @@ Ki restant :
 
 
 
-**Développement intérieur total:** 25×4(Classe)+30(ArtsMartiaux)+40(MaîtreMartial)+5(5 PFs)= 175  
-Utilisé: 170   
+**Développement intérieur total:** 25×4(Classe)+30(ArtsMartiaux)+40(MaîtreMartial)+10(10 PFs)= 180  
+Utilisé: 180   
 Rang d'apprentissage:   
-Pouvoirs de puissance intérieure : (120 DI) 
+Pouvoirs de puissance intérieure : (130 DI) 
 
 **Utilisation du Ki** (40): [x]  
 - Contrôle du Ki (30): 
@@ -120,8 +120,8 @@ Pouvoirs de puissance intérieure : (120 DI)
     - Extension de l'Aura à l'Arme (10): [x]  
         - Attaque élémentaire (10):
         - Dégâts accrus (10):
-        - Portée accrue (10):
-        - Vitesse accrue (10): [x] 
+        - Portée accrue (10): [x]  
+        - Vitesse accrue (10): [x]  
     - Destruction par le Ki (20):
     - Absorption d'énergie (30):
     - Bouclier Physique (10):
@@ -158,8 +158,8 @@ PPPs: 2
 
 ***
 
-#### CHAMPS SECONDAIRES: (270 PFs)
-  
+#### CHAMPS SECONDAIRES: (280 PFs)
+ reste 60 pfs 
 
 [2]**Champ Athlétique:**(40 Pfs)  
 Acrobaties: (Base)+20(Agi)+ =  
@@ -174,13 +174,14 @@ Impassibilité: 5(Base)+5(Vol)+ = 10
 Prouesses de Force: (Base)+5(For)+ =  
 Résistance à la douleur: 5(Base)+5(Vol)+ = 10    
 
-[2] **Champ Sensoriel:** (60 Pfs)  
-Observation: 20(Base)+0(Per)+10×4(CN) = 60  
+[2] **Champ Sensoriel:** (30 Pfs)  
+Observation: 5(Base)+0(Per)+10×4(CN) = 60  
 Pistage:  (Base)+0(Per)+ =   
 Vigilance: 10(Base)+0(Per)+10×4(CN) = 60 
 
-[3] **Champ Intellectuel:** (30 Pfs)  
-Mémorisation: 10(Base)+0(Int)+10×4(CN) = 50   
+[3] **Champ Intellectuel:** (70 Pfs)  
+*Histoire*: 10(Base)+0(Int)+10×4(CN) = 50 (Légendes Kilgariennes 90)  
+Mémorisation: 10(Base)+0(Int)+10×4(CN) = 50    
 
 [2] **Champ Social:** (20 Pfs)  
 Commandement: (Base)+10(Pou)+ =   
@@ -216,10 +217,10 @@ Vitesse: -10
 Spécial :  
 — Pas d'attaques supplémentaires. Chaque attaque coûte 2 Ki  
 — Dégâts par résonnance (RPhr = Dégâts +20 sinon Douleurs 5 rounds)  
-— Ignore les protections (IP ÷2)
-— Attaque de son (Cécité totale suaf si voir le surnaturel/Vigilance 280. Vig 240 Cécité partielle)  
+— Ignore les protections (IP ÷2)  
+— Attaque de son (Cécité totale sauf si voir le surnaturel/Vigilance 280. Vig 240 Cécité partielle)  
 — Attaque à distance (Présence×2 = 90m)  
-— Attaque de zone améliorée (5m pour -10 attaque)  
+— Attaque de zone améliorée (5×2m pour -10 attaque)  
 — Instrument à percussion : Impact FORce 12
 
 
@@ -284,3 +285,7 @@ Or:	Argent:	Cuivre:
 ***
 
 ## DIVERS : 
+
+Son père, On-Gi-Ha-Ra (prononcé onne-gui-ha-ra), siège pour les Jayans au parlement de Killgaria.
+
+Apprenti de Ionel qui lui a appris les bases de la musique, il rêve de devenir Premier Tambour de l'Orchestre National de Killgaria. Seul problème, cet orchestre n'existe pour le moment que dans ses rêves. En attendant, il a choisi de partir en voyage marcher sur les traces du légendaire Killgar (et vu le nombre de légendes à son sujet, ça veut dire qu'il peut partir à peu près n'importe où :p)
