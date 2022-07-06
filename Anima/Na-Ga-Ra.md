@@ -31,9 +31,10 @@ Régénération: 4	Au repos: 40/j	Sans repos: 20/j	Malus: 10/j
 **Avantages et désavantages :**
 - Apprentissage naturel (Musique) 2
 - Jayan 1
-- Artefact ?
-- Code de conduite de Killgaria
+- Artefact 1 (Peau de Manticore)
+- Code de conduite de Killgaria -1
 - Réflexes rapides 1
+- Maître martial 1
 - Épuisement -1
 - Guérison lente -1
 
@@ -97,10 +98,10 @@ Ki restant :
 
 
 
-**Développement intérieur total:** 25×4(Classe)+30(ArtsMartiaux)+(MaîtreMartial)+5(10 PFs)= 150  
-Utilisé: 160   
+**Développement intérieur total:** 25×4(Classe)+30(ArtsMartiaux)+40(MaîtreMartial)+5(5 PFs)= 175  
+Utilisé: 170   
 Rang d'apprentissage:   
-Pouvoirs de puissance intérieure : (100 DI) 
+Pouvoirs de puissance intérieure : (120 DI) 
 
 **Utilisation du Ki** (40): [x]  
 - Contrôle du Ki (30): 
@@ -119,7 +120,7 @@ Pouvoirs de puissance intérieure : (100 DI)
         - Attaque élémentaire (10):
         - Dégâts accrus (10):
         - Portée accrue (10):
-        - Vitesse accrue (10): [] 
+        - Vitesse accrue (10): [x] 
     - Destruction par le Ki (20):
     - Absorption d'énergie (30):
     - Bouclier Physique (10):
@@ -128,7 +129,7 @@ Pouvoirs de puissance intérieure : (100 DI)
         - Guérison supérieure (10): (5PV/Ki)
         - Stabilisation (10):
 - Sacrifice vital (10):
-- Utilisation de l'Énergie Nécessaire (10):
+- Utilisation de l'Énergie Nécessaire (10): [x] 
     - Dissimulation du Ki (10):
     - Élimination des Besoins (10):
         - Immunité élémentaire : Feu (20) :
@@ -156,74 +157,49 @@ PPPs: 2
 
 ***
 
-#### CHAMPS SECONDAIRES: (360 PFs)
+#### CHAMPS SECONDAIRES: (270 PFs)
   
 
-[2]**Champ Athlétique:**(60 Pfs)  
-Acrobaties: (Base)+10(Agi)+ =  
-Athlétisme: 5(Base)+10(Agi)+15(RC) =25  
-Équitation: 20(Base)+10(Agi)+1*10 = 40  
-Escalade: (Base)+10(Agi)+ =  
-Natation: 5(Base)+10(Agi)+ = 15  
-Saut: (Base)+10(For)+ =  
-*Pilotage*: (Base)+(Agi)+ =
+[2]**Champ Athlétique:**(40 Pfs)  
+Acrobaties: (Base)+20(Agi)+ =  
+Athlétisme: 10(Base)+2×20(Agi)+ = 50    
+Équitation: 0(Base)+20(Agi)+ =    
+Escalade: (Base)+20(Agi)+ =  
+Natation: 10(Base)+20(Agi)+ = 30  
+Saut: (Base)+5(For)+ =  
 
-[2] **Champ Vital:** (10 Pfs)  
-Impassibilité: 5(Base)-5(Vol)+4*10 = 40  
-Prouesses de Force: (Base)+10(For)+ =  
-Résistance à la douleur: (Base)-5(Vol)+ =  
+[2] **Champ Vital:** (20 Pfs)  
+Impassibilité: 5(Base)+5(Vol)+ = 10  
+Prouesses de Force: (Base)+5(For)+ =  
+Résistance à la douleur: 5(Base)+5(Vol)+ = 10    
 
-[2] **Champ Sensoriel:** (20 Pfs)  
-Observation: (Base)-5(Per)+ =  
-Pistage:  10(Base)-5(Per)+15(RC)+4×10 = 60  
-Vigilance: (Base)-5(Per)+10 = 
+[2] **Champ Sensoriel:** (60 Pfs)  
+Observation: 20(Base)+0(Per)+10×4(CN) = 60  
+Pistage:  (Base)+0(Per)+ =   
+Vigilance: 10(Base)+0(Per)+10×4(CN) = 60 
 
-[3] **Champ Intellectuel:** ( Pfs)  
-*Animaux*: (Base)-5(Int)+10(RC) =  
-*Estimation*: (Base)+(Int)+ =  
-*Évaluation Magique*: (Base)+20(Pou)+ =  
-*Herboristerie*: (Base)-5(Int)+10(RC) =  
-*Histoire*: (Base)+(Int)+ =  
-*Loi*: (Base)+(Int)+ =  
-*Médecine*: (Base)+(Int)+ =  
-Mémorisation: (Base)-5(Int)+ =  
-*Navigation*: (Base)+(Int)+ =  
-*Occultisme*: (Base)+(Int)+ =  
-*Science*: (Base)+(Int)+ =  
-*Tactique*: (Base)+(Int)+ =
+[3] **Champ Intellectuel:** (30 Pfs)  
+Mémorisation: 10(Base)+0(Int)+10×4(CN) = 50   
 
+[2] **Champ Social:** (20 Pfs)  
+Commandement: (Base)+10(Pou)+ =   
+Étiquette: (Base)+0(Int)+ =  
+Intimidation: (Base)+5(Vol)+ =  
+Persuasion: (Base)+0(Int) =  
+Style: 10(Base)+10(Pou)+10×4(CN) = 60
 
-[2] **Champ Social:** (30 Pfs)  
-Commandement: 5(Base)+20(Pou)+ = 25  
-*Commerce*: (Base)+(Int)+ =  
-Étiquette: (Base)-5(Int)+ =  
-Intimidation: (Base)-5(Vol)+ =  
-Persuasion: (Base)-5(Int)+10(RC)+=  
-Style: 10(Base)+4×20(Pou)+10(RC) = 100
-
-[2] **Champ clandestin:** (40 Pfs)  
-Camouflage: 10(Base)-5(Per)+15(RC)+4×10 = 60  
+[2] **Champ clandestin:** (20 Pfs)  
+Camouflage: (Base)+0(Per)+ =  
 Crochetage: (Base)+5(Dex)+ =  
 Déguisement: (Base)+5(Dex)+ =  
-Discrétion: 10(Base)+4×10(Agi)+4×10 = 90  
+Discrétion: 10(Base)+4×20(Agi)+ = 90  
 Larcin: (Base)+5(Dex)+ =  
-Pièges: (Base)+5(Dex)+15(RC) =  
-*Poisons*: (Base)-5(Int)+ =
+Pièges: (Base)+5(Dex)+ =  
 
-[2] **Champ Créatif:** (10 Pfs)  
-Art: (Base)+20(Pou)+ =  
-*Danse*: (Base)+10(Agi)+ =  
-*Forge*: 5(Base)+5(Dex)+3×10  = 40 (Flèches 80, autres 0)  
+[2] **Champ Créatif:** (80 Pfs)  
+*Danse*: 10(Base)+20(Agi)+10×4(CN) = 70  
 Habileté Manuelle: (Base)+5(Dex)+ =  
-*Musique*: (Base)+(Pou)+ =  
-*Fabrication de marionnettes*: (Base)+(Pou)+ =  
-*Calligraphie rituelle*: (Base)+(Dex)+ =  
-*Alchimie*  
-*Animisme*  
-*Runes*  
-*Orfèvrerie*  
-*Confection*  
-*Tatouage*
+*Musique*: 30(Base)+5×10(Pou)+4×20(Avantage)+ = 160 
 
 
 ***
