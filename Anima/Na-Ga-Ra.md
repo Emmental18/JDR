@@ -22,7 +22,7 @@ Tirage de base des caractéristiques: AGI: 10 CON: 9 DEX: 6 FOR: 5 INT: 5 PER: 5
 **AGI:** 11  **CON:** 11  **DEX:** 6  **FOR:** 7  **INT:** 5  **PER:** 5  **POU:** 8  **VOL:** 6
 
 
-Fatigue: 12  
+Fatigue: 13  
 Mouvement: 11	M/round: 40  
 Actions Actives: 2  
 Régénération: 4	Au repos: 40/j	Sans repos: 20/j	Malus: 10/j
@@ -39,10 +39,11 @@ Régénération: 4	Au repos: 40/j	Sans repos: 20/j	Malus: 10/j
 - Guérison lente -1
 
 
-#### Présence : 50
-**RPhy, RMal, RPoi:** (Pre)+(CON) =   
-**RMys:** (Pre)+(POU) =   
-**RPsy:** (Pre)+(VOL) =
+#### Présence : 45
+**RPhy:** 45(Pre)+20(CON)+20 = 85 (105 en combat avec la peau de Manticore)  
+**RMal, RPoi:** 45(Pre)+20(CON) = 65  
+**RMys:** 45(Pre)+10(POU)-20 = 35  
+**RPsy:** 45(Pre)+5(VOL) = 50
 
 **Initiative :** 20(Base)-(Armure)+20(AGI)+5(DEX)-10(Arme)+10×4(Classe)+35(Avantage) = 110
 
@@ -74,8 +75,8 @@ Accumulations 		Points de Ki
 | DEX | 1 |  | 6 |  | 
 | CON | 2 |  | 12 |  | 
 | VOL | 1 |  | 6 |  | 
-| POU | 1 | 11 | 8 |  |  
-|Total | 8 | 25 | (51) |  | 
+| POU | 1 |  | 8 |  |  
+|Total | 8 |  | (51) |  | 
 
 Ki restant : 
 
@@ -208,19 +209,30 @@ Habileté Manuelle: (Base)+5(Dex)+ =
 
 ### Armes:	
 
-Nom: Arc court	 Qualité: +10
+Nom: Virgo	  
+Dégâts 60 CON  
+Vitesse: -10  
 
- Attaque:	Parade:	Base de dégâts: Mod. Force:	Dégâts:	Spécial:  
- Vitesse: +0	Solidité:	Fracassement:	Présence:	Mode1:	Mode2:  
- Portée efficace 40(Base) + 20(FOR) = 60 m → Portée maximale 120m (-30 à l'Attaque)  
-Flèche : 40
+Spécial :  
+— Pas d'attaques supplémentaires. Chaque attaque coûte 2 Ki  
+— Dégâts par résonnance (RPhr = Dégâts +20 sinon Douleurs 5 rounds)  
+— Ignore les protections (IP ÷2)
+— Attaque de son (Cécité totale suaf si voir le surnaturel/Vigilance 280. Vig 240 Cécité partielle)  
+— Attaque à distance (Présence×2 = 90m)  
+— Attaque de zone améliorée (5m pour -10 attaque)  
+— Instrument à percussion : Impact FORce 12
 
 
 ### Armures :
 
-Nom: Manteau renforcé	 Qualité: +0  
- Solidité: 12	Présence: 25	Type: Souple	Port Requis: 0	Localisation: Complète   
-TRA: 1	-CON: 0	-PER: 2	-CHA: 1	-ELE: 2	-FRO: 2	-ENE:
+Nom: Peau de Manticore	 Qualité: +10  
+ Solidité: 20	Présence: 125	Type: Souple	Port Requis: 0	Localisation: Chemise   
+TRA: 4	-CON: 3	-PER: 4	-CHA: 3	-ELE: 4	-FRO: 4	-ENE: 2  
+Spécial :  
+— Imparable (ignore malus de fatigue en combat, doublés après, +20RPhy/+50 Rési douleur en combat)  
+— Consommation d'énergie (bonus de fatigue +20 au lieu de +15)  
+— Inépuisable (octroie 1 pt de fatigue temporaire/round)
+
 
 ### Autres :
  
