@@ -32,7 +32,7 @@ Régénération: 4	Au repos: 40/j	Sans repos: 20/j	Malus: 10/j
 - Apprentissage naturel (Musique) 2
 - Jayan 1
 - Artefact 1 (Peau de Manticore)
-- Code de conduite de Killgaria -1
+- Code de conduite de Killgaria -1 (Honneur, gloire, ne jamais refuser un combat)
 - Réflexes rapides 1
 - Maître martial 1
 - Épuisement -1
@@ -190,18 +190,18 @@ Intimidation: (Base)+5(Vol)+ =
 Persuasion: (Base)+0(Int) =  
 Style: 10(Base)+10(Pou)+10×4(CN) = 60
 
-[2] **Champ clandestin:** (20 Pfs)  
+[2] **Champ clandestin:** (70 Pfs)  
 Camouflage: (Base)+0(Per)+ =  
 Crochetage: (Base)+5(Dex)+ =  
 Déguisement: (Base)+5(Dex)+ =  
-Discrétion: 10(Base)+4×20(Agi)+ = 90  
+Discrétion: 35(Base)+4×20(Agi)+ = 125  
 Larcin: (Base)+5(Dex)+ =  
 Pièges: (Base)+5(Dex)+ =  
 
-[2] **Champ Créatif:** (80 Pfs)  
+[2] **Champ Créatif:** (90 Pfs)  
 *Danse*: 10(Base)+20(Agi)+10×4(CN) = 70  
 Habileté Manuelle: (Base)+5(Dex)+ =  
-*Musique*: 30(Base)+5×10(Pou)+4×20(Avantage)+ = 160 
+*Musique*: 30(Base)+5×10(Pou)+4×20(Avantage)+ = 160 (Percussions 200)
 
 
 ***
