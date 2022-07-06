@@ -158,13 +158,13 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)  
 [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)  
 [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)   
-[Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)
+[Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)  
 [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie) **R**  
 [Lueurs féeriques](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques) (1/j gratuit)
 
 ### Sorts de niveau 2 [préparé]
 
-[Aura magique de Nystul](https://www.aidedd.org/dnd/sorts.php?vf=aura-magique-de-nystul)
+[Aura magique de Nystul](https://www.aidedd.org/dnd/sorts.php?vf=aura-magique-de-nystul)  
 [Vortex Warp](http://dnd5e.wikidot.com/spell:vortex-warp)
 
 ### Familier : 
