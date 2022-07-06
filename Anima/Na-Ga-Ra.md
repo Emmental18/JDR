@@ -6,8 +6,8 @@
 XP pour niveau suivant: 100  
 Points de Formation(Restants):
 
-Âge: Genre:	Orientation sexuelle:  
-Race: Jayan  Natura :	Gnose:  
+Âge: 18 ans  Genre: M	Orientation sexuelle:  
+Race: Jayan  Natura :	Gnose: 10  
 Langue maternelle: 	Autres:  	
 Religion d'origine:	Pratiquée:  
 Cheveux, yeux, peau:  
@@ -43,7 +43,7 @@ Régénération: 4	Au repos: 40/j	Sans repos: 20/j	Malus: 10/j
 **RPhy:** 45(Pre)+20(CON)+20 = 85 (105 en combat avec la peau de Manticore)  
 **RMal, RPoi:** 45(Pre)+20(CON) = 65  
 **RMys:** 45(Pre)+10(POU)-20 = 35  
-**RPsy:** 45(Pre)+5(VOL) = 50
+**RPsy:** 45(Pre)+5(VOL) = 50  
 
 **Initiative :** 20(Base)-(Armure)+20(AGI)+5(DEX)-10(Arme)+10×4(Classe)+35(Avantage) = 110
 
@@ -56,8 +56,8 @@ Restants :
 ## Champ Martial : (540 PFs)
 
 **Compétences** (450 Pfs):  
- Attaque: 130(Base)+5(Dex)+5×5(Classe)= 160  
- Esquive: 95(Base)+20(Agi)+5×5(Classe)= 140  
+ Attaque: 130(Base)+5(Dex)+5×5(Classe)= 170  
+ Esquive: 95(Base)+20(Agi)+5×5(Classe)= 130  
  Parade: (Base)+(Dex)+×(Classe)=   
  Port d'Armure: (Base)+5(For)= 5    
 
@@ -158,8 +158,7 @@ PPPs: 2
 
 ***
 
-#### CHAMPS SECONDAIRES: (280 PFs)
- reste 60 pfs 
+#### CHAMPS SECONDAIRES: (360 PFs)
 
 [2]**Champ Athlétique:**(40 Pfs)  
 Acrobaties: (Base)+20(Agi)+ =  
@@ -289,3 +288,7 @@ Or:	Argent:	Cuivre:
 Son père, On-Gi-Ha-Ra (prononcé onne-gui-ha-ra), siège pour les Jayans au parlement de Killgaria.
 
 Apprenti de Ionel qui lui a appris les bases de la musique, il rêve de devenir Premier Tambour de l'Orchestre National de Killgaria. Seul problème, cet orchestre n'existe pour le moment que dans ses rêves. En attendant, il a choisi de partir en voyage marcher sur les traces du légendaire Killgar (et vu le nombre de légendes à son sujet, ça veut dire qu'il peut partir à peu près n'importe où :p)
+
+#### Session 0
+
+Rdv chez Sygma, on va aller dans les jungles casser du dragon (yay !)
