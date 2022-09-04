@@ -7,23 +7,23 @@ Désormais recherchée au Dalaborn, elle est allée se mettre au vert dans une v
 
 **Nom:** Klosterfeld  **Prénom:** Anya 	**Titre:**   
 **Classe:** Mentaliste  
-**Niveau:** 2 XP actuels: 128    
-XP pour niveau suivant: 225  
-Points de Formation(Restants): 0
+**Niveau:** 5 XP actuels: 550 ?    
+XP pour niveau suivant: 750  
+Points de Formation(Restants): 0  
 
 Âge: Genre:	Orientation sexuelle:  
 Race: Ethnie: Natura :	Gnose:  
 Langue maternelle: Latin	  	
 Religion d'origine:	Pratiquée:  
 Cheveux, yeux, peau:  
-Taille, Poids: 1m60
+Taille, Poids: 1m60  
 
-Apparence: Taille: 11
+Apparence: Taille: 11  
 
 
-Méthode de tirage des caractéristiques: 56 points à répartir 
+Méthode de tirage des caractéristiques: 56 points à répartir  
 Tirage de base des caractéristiques: AGI: 8 CON: 8 DEX: 8 FOR: 4 INT: 4 PER: 5 POU: 8 VOL: 10   
-**AGI:** 8  **CON:** 8  **DEX:** 8  **FOR:** 4  **INT:** 4  **PER:** 8  **POU:** 5  **VOL:** 11
+**AGI:** 8  **CON:** 8  **DEX:** 8  **FOR:** 4  **INT:** 4  **PER:** 8  **POU:** 5  **VOL:** 12  
 
 
 Fatigue: 8  
@@ -42,15 +42,15 @@ Régénération: 2	Au repos:	Sans repos:	Spécial:
 - Apte (Discrétion) 1
 
 
-#### Présence : 35
-**RPhy, RMal, RPoi:** (Pre)+(CON) = 45   
-**RMys:** (Pre)+(POU) = 35  
-**RPsy:** (Pre)+(VOL) = 55  
+#### Présence : 50
+**RPhy, RMal, RPoi:** (Pre)+(CON) = 60   
+**RMys:** (Pre)+(POU) = 50  
+**RPsy:** (Pre)+(VOL) = 70  
 
-**Initiative :** 20(Base)-(Armure)+10(AGI)+10(DEX)+20(Arme)+5×2(Classe)+ = 65   
+**Initiative :** 20(Base)-(Armure)+10(AGI)+10(DEX)+20(Arme)+5×5(Classe)+ = 75   
 
-**Points de Vie :** 110(CON)+5×2(Classe)+(Multiplicateurs: PFs)+(Avantage) = 120     
-Restants :
+**Points de Vie :** 110(CON)+5×5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 135     
+Restants : 120  
 
 ***
 ##### CHAMPS PRINCIPAUX : (420 PFs)
@@ -62,10 +62,10 @@ Restants :
  Parade: 10   
  Port d'Armure: -5  
 
-Ki : 45/45  
+Ki : 47/47  
 Accumulation totale : 7  
 
-**Développement intérieur total:** 10×2(Classe)+(ArtsMartiaux)+(MaîtreMartial)+( PFs)= 20  
+**Développement intérieur total:** 10×5(Classe)+(ArtsMartiaux)+(MaîtreMartial)+( PFs)= 50  
 Utilisé: 0  
 
 ***
@@ -74,11 +74,11 @@ Utilisé: 0
 ***
 
 ## Champ Psychique: (420 PFs)
+180
+PPPs: 5(Classe)+25 = 27	 
+Libres : 9+3
 
-PPPs: 2(Classe)+25 = 27	 
-Libres : 10	
-
-Talent psychique : 70(Vol)+30(6 PPPs)+(Divers) = 100
+Talent psychique : 80(Vol)+30(6 PPPs)+(Divers) = 110
 
 Projection psychique :100(Base)+10(Dex) = 110  
 
@@ -90,26 +90,35 @@ Patrons psychiques :
     -100 actions sociales  
 – **Courage** (40pfs)  
     +30 Projection/+1 niveau pour les pouvoirs offensifs  
-    -20 Projection défensive
-    -40 pour échapper à un combat
+    -20 Projection défensive  
+    -40 pour échapper à un combat  
 
 Attaches psychiques: 2
+(Bouclier (300 PV), TK mineure, Vol TK (Qualité 6), Immunité (Feu 10), xxx)
 
 Disciplines ouvertes:  
 – *Énergie*  
 – Télékinésie  
 – Télépathie  
+— Pyrokinésie
 
 Pouvoirs:  
-– Bouclier d'énergie PV : 42/300 
+– Bouclier d'énergie PV : 240/300 
 – Décharge d'énergie  
 – Télékinésie mineure (projection /2)  
 – Impact télékinétique
+— Immoler
+
+- Immobilisation TK
+- Vol TK
+- Balistique
+- Détruire
+- Immunité
 
 ***
 
 #### CHAMPS SECONDAIRES: (280 PFs)
-  
+60  
 
 [2]**Champ Athlétique:**(0 Pfs)  
 Acrobaties: (Base)+10(Agi)+10 = 20  
@@ -127,30 +136,30 @@ Résistance à la douleur: (Base)+20(Vol)+10 = 30
 
 [2] **Champ Sensoriel:** (0 Pfs)  
 Observation: (Base)+10(Per)+10 = 20  
-Pistage:  (Base)+10(Per)+10 = 20  
-Vigilance: (Base)+10(Per)+10+20(BN) = 40  
+Pistage:  (Base)+10(Per)+10+20(BN) = 40  
+Vigilance: (Base)+10(Per)+10+50(BN) = 70  
 
 [2] **Champ Intellectuel:** (100 Pfs)  
 *Estimation*: (Base)-5(Int)+10 = 5  
 *Histoire*: (Base)-5(Int)+10 = 5  
 *Loi*: (Base)-5(Int)+10 = 5  
 *Médecine*: (Base)-5(Int)+10 = 5  
-Mémorisation: 5(Base)-5(Int)+10 = 10  
+Mémorisation: 5(Base)-5(Int)+10+50(BN) = 60  
 *Navigation*: (Base)-5(Int)+10 = 5  
-*Occultisme*: 45(Base)-5(Int)+10+20(BN) = 70  
+*Occultisme*: 45(Base)-5(Int)+10+50(BN) = 110  
 
 [2] **Champ Social:** (0 Pfs)  
 Commandement: (Base)+0(Pou)+10-100 = -90  
 Étiquette: (Base)-5(Int)+10-100 = -95  
-Intimidation: (Base)+20(Vol)+10-100 = -70  
-Persuasion: (Base)-5(Int)+10-100 = -95  
+Intimidation: (Base)+4×20(Vol)+10-100 = -10  
+Persuasion: (Base)-5(Int)+10-100 = -95 
 Style: (Base)+0(Pou)+10-100 = -90  
 
 [2] **Champ clandestin:** (180 Pfs)  
 Camouflage: (Base)+10(Per)+10 = 20  
 Crochetage: (Base)+10(Dex)+10 = 20  
-Déguisement: 40(Base)+3×10(Dex)+10+20(BN) = 100  
-Discrétion: 100(Base)+10(Agi)+10+20(BN) = 140  
+Déguisement: 40(Base)+6×10(Dex)+10+30(BN) = 130  
+[1]Discrétion: 160(Base)+10(Agi)+10+50(BN) = 230  
 Larcin: (Base)+10(Dex)+10 = 20  
 Pièges: (Base)+10(Dex)+10 = 20  
 
@@ -173,7 +182,7 @@ Habileté Manuelle: (Base)+10(Dex)-50 = -40
 
 ### Ressources
 
-Or:	Argent:	Cuivre: 
+Or: 60  	Argent:	Cuivre: 
 
 ***
 
@@ -228,4 +237,34 @@ Astrid a perdu ses potes (papa, maman, sœur) (ce sont tous des voleurs ! bouh)
 
 /r 1d100xa + 70 # Occultisme
 /r 1d100xa + 90 # Bouclier
-/r 1d100xa + 80 # Dague
+/r 1d100xa + 80 # Couteau
+/r 1d100xa + 130 # Talent
+/r 1d100xa + 160 # FOUDRE
+/r 1d100xa + 75 # Dague
+/r 1d100xa + 10 # Cuisine
+/r 1d100xa + 140 # discrétion
+/r 1d100xa + 35 # RMys 
+
+
+h
+Morgue : Morta, le croquemort 
+
+Josk Hinterclaw 
+
+Bibliothèque tenue par Vox Lirayne + son apprenti Calmon
+
+
+Libriarie : piège de feu ! 
+
+
+Dans la crypte de la  forteresse : Anneau d'Alestia
+
+
+
+
+Sous la Cordilière des Vents :  
+Escalier descend très profondément. Humide en bas, pas de traces visibles.
+Éclairé par des algues luminescentes  
+Statue... d'une divinité elfique peut-être ?  
+des hommes-singes venus chercher Dakar le Grand ? (un tyran avait 7 enfants qui avaient le don de se transformer en dragon, Dakar serait l'un d'entre eux)
+
