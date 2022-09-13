@@ -2,7 +2,7 @@
 
 ![https://www.deviantart.com/dustinpanzino/art/Dragonfly-Knight-844255804](../_images/Delma_reduit.png)  
 
-**Classe :** Magicien 2   
+**Classe :** Magicien 4   
 **Race :** [Fée](http://dnd5e.wikidot.com/fairy) (f), CB  
 **Historique :** Enfant des rues  
 
@@ -43,13 +43,14 @@ Tirage de base : 15 10 14 7 11 16
 **Langues :** commun, infernal  
 
 ##### [COMBAT]
-**PV** 19/19  
+**PV** 24/24  
 **Initiative** +3 ; **Vitesse** 9m
 **CA** 13 (sans armure, Dex +3), 17 (Chantelame, +4 Int)
 
 
 
-##### [SORTS]
+##### [Dons]
+Adepte métamagique (2) : Sort Accéléré (2), Sort Subtil (2)
 
 ##### [CAPACITÉS ET TRAITS]
 Caractéristiques de fée (type Fée)  
@@ -147,8 +148,8 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 [Druidisme](https://www.aidedd.org/dnd/sorts.php?vf=druidisme)  
 [Façonnage de l'eau](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-l-eau)    
-[Lame tonnante](https://www.aidedd.org/dnd/sorts.php?vf=lame-tonnante)  
-[Esprit désorienté](https://www.aidedd.org/dnd/sorts.php?vf=esprit-desoriente) 
+[Lame retentissante](https://www.aidedd.org/dnd/sorts.php?vf=lame-retentissante)  
+[Piqûre mentale](https://www.aidedd.org/dnd/sorts.php?vf=piqure-mentale) 
 
 ### Sorts de niveau 1 [préparé]
 
@@ -165,7 +166,9 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 ### Sorts de niveau 2 [préparé]
 
 [Aura magique de Nystul](https://www.aidedd.org/dnd/sorts.php?vf=aura-magique-de-nystul)  
-[Vortex Warp](http://dnd5e.wikidot.com/spell:vortex-warp)
+[Vortex Warp](http://dnd5e.wikidot.com/spell:vortex-warp)  
+[Poigne terreuse de Maximilien](https://www.aidedd.org/dnd/sorts.php?vf=poigne-terreuse-de-maximilien)  
+[Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)  
 
 ### Familier : 
 [Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette) nommée Irri
