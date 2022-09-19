@@ -47,7 +47,7 @@ Régénération: 2	Au repos:	Sans repos:	Spécial:
 **RMys:** (Pre)+(POU) = 50  
 **RPsy:** (Pre)+(VOL) = 70  
 
-**Initiative :** 20(Base)-(Armure)+10(AGI)+10(DEX)+20(Arme)+5×5(Classe)+ = 75   
+**Initiative :** 20(Base)-(Armure)+10(AGI)+10(DEX)+20(Arme)+5×5(Classe)+10(Ki) = 85   
 
 **Points de Vie :** 110(CON)+5×5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 135     
 Restants : 120  
@@ -65,8 +65,25 @@ Restants : 120
 Ki : 47/47  
 Accumulation totale : 7  
 
-**Développement intérieur total:** 10×5(Classe)+(ArtsMartiaux)+(MaîtreMartial)+( PFs)= 50  
+**Développement intérieur total:** 10×5(Classe)+(ArtsMartiaux)+(MaîtreMartial)+20(20 PFs)= 70  
 Utilisé: 0  
+
+**Utilisation du Ki** (40): [x]  
+- Contrôle du Ki (30): 
+- Extrusion du Ki (10): [x]  
+    - Armure d'Énergie (10):
+       - Armure d'Énergie Majeure (10):
+            - Armure d'Énergie Arcane (10):
+    - Extension de l'Aura à l'Arme (10): [x]   
+        - Vitesse accrue (10): [x]  
+    - Absorption d'énergie (30):
+- Utilisation de l'Énergie Nécessaire (10):   
+    - Dissimulation du Ki (10):   
+    - Élimination des Besoins (10):
+        - Immunité élémentaire : Feu (20) :
+- Surhumanité (30):  
+
+
 
 ***
 ## Champ Mystique: (0 PFs)
@@ -74,13 +91,13 @@ Utilisé: 0
 ***
 
 ## Champ Psychique: (420 PFs)
-180
-PPPs: 5(Classe)+25 = 27	 
-Libres : 9+3
+
+PPPs: 5(Classe)+32 = 37	 
+Libres : 9
 
 Talent psychique : 80(Vol)+30(6 PPPs)+(Divers) = 110
 
-Projection psychique :100(Base)+10(Dex) = 110  
+Projection psychique : 140(Base)+10(Dex) = 150  
 
 Patrons psychiques :  
 – **Psychopathie** (30pfs)  
@@ -93,32 +110,32 @@ Patrons psychiques :
     -20 Projection défensive  
     -40 pour échapper à un combat  
 
-Attaches psychiques: 2
-(Bouclier (300 PV), TK mineure, Vol TK (Qualité 6), Immunité (Feu 10), xxx)
+Attaches psychiques: 4
+(Bouclier (300 PV), TK mineure, Vol TK (Qualité 6), Immunité (Feu 10))
 
 Disciplines ouvertes:  
 – *Énergie*  
 – Télékinésie  
 – Télépathie  
-— Pyrokinésie
+— Pyrokinésie  
 
 Pouvoirs:  
-– Bouclier d'énergie PV : 240/300 
+– Bouclier d'énergie PV : 240/300  
 – Décharge d'énergie  
-– Télékinésie mineure (projection /2)  
-– Impact télékinétique
-— Immoler
+– Télékinésie mineure (projection /2)   
+– Impact télékinétique  
+— Immoler  
 
-- Immobilisation TK
-- Vol TK
-- Balistique
-- Détruire
-- Immunité
+- Immobilisation TK  
+- Vol TK  
+- Balistique  
+- Détruire  
+- Immunité  
 
 ***
 
-#### CHAMPS SECONDAIRES: (280 PFs)
-60  
+#### CHAMPS SECONDAIRES: (380 PFs)
+  
 
 [2]**Champ Athlétique:**(0 Pfs)  
 Acrobaties: (Base)+10(Agi)+10 = 20  
@@ -135,18 +152,18 @@ Prouesses de Force: (Base)-5(For)+10 = 5
 Résistance à la douleur: (Base)+20(Vol)+10 = 30  
 
 [2] **Champ Sensoriel:** (0 Pfs)  
-Observation: (Base)+10(Per)+10 = 20  
-Pistage:  (Base)+10(Per)+10+20(BN) = 40  
+Observation: (Base)+10(Per)+10+20(BN) = 40  
+Pistage:  (Base)+10(Per)+10 = 20  
 Vigilance: (Base)+10(Per)+10+50(BN) = 70  
 
-[2] **Champ Intellectuel:** (100 Pfs)  
+[2] **Champ Intellectuel:** (140 Pfs)  
 *Estimation*: (Base)-5(Int)+10 = 5  
-*Histoire*: (Base)-5(Int)+10 = 5  
+*Histoire*: (Base)-5(Int)+10 = 25  
 *Loi*: (Base)-5(Int)+10 = 5  
 *Médecine*: (Base)-5(Int)+10 = 5  
 Mémorisation: 5(Base)-5(Int)+10+50(BN) = 60  
 *Navigation*: (Base)-5(Int)+10 = 5  
-*Occultisme*: 45(Base)-5(Int)+10+50(BN) = 110  
+*Occultisme*: 65(Base)-5(Int)+10+50(BN) = 120  
 
 [2] **Champ Social:** (0 Pfs)  
 Commandement: (Base)+0(Pou)+10-100 = -90  
@@ -155,17 +172,17 @@ Intimidation: (Base)+4×20(Vol)+10-100 = -10
 Persuasion: (Base)-5(Int)+10-100 = -95 
 Style: (Base)+0(Pou)+10-100 = -90  
 
-[2] **Champ clandestin:** (180 Pfs)  
+[2] **Champ clandestin:** (230 Pfs)  
 Camouflage: (Base)+10(Per)+10 = 20  
 Crochetage: (Base)+10(Dex)+10 = 20  
-Déguisement: 40(Base)+6×10(Dex)+10+30(BN) = 130  
-[1]Discrétion: 160(Base)+10(Agi)+10+50(BN) = 230  
+Déguisement: 40(Base)+6×10(Dex)+10+30(BN) = 140  
+[1]Discrétion: 150(Base)+10(Agi)+10+50(BN) = 220  
 Larcin: (Base)+10(Dex)+10 = 20  
 Pièges: (Base)+10(Dex)+10 = 20  
 
-[2] **Champ Créatif:** (0 Pfs)  
+[2] **Champ Créatif:** (10 Pfs)  
 Art: (Base)+0(Pou)+10 = 10  
-*Danse*: (Base)+10(Agi)+10 =   
+*Danse*: 5(Base)+10(Agi)+10 = 25  
 *Forge*: (Base)+10(Dex)+10 =  
 Habileté Manuelle: (Base)+10(Dex)-50 = -40    
 *Musique*: (Base)+(Pou)+10 =   
@@ -246,7 +263,7 @@ Astrid a perdu ses potes (papa, maman, sœur) (ce sont tous des voleurs ! bouh)
 /r 1d100xa + 35 # RMys 
 
 
-h
+
 Morgue : Morta, le croquemort 
 
 Josk Hinterclaw 
@@ -268,3 +285,9 @@ Escalier descend très profondément. Humide en bas, pas de traces visibles.
 Statue... d'une divinité elfique peut-être ?  
 des hommes-singes venus chercher Dakar le Grand ? (un tyran avait 7 enfants qui avaient le don de se transformer en dragon, Dakar serait l'un d'entre eux)
 
+
+#####
+
+Timeskip 1 an et 6 mois 
+Le (demi)sylvain est toujours en train d'essayer de réparer le portail, mais manque de composants surnaturels. Par contre il a réparé l'escalier.
+Elsie a récupéré le titre de propriété de la place forte. Milan et Jimmy ont utilisé de la magie de création pour réparer les parties détruites.
