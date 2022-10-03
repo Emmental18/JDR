@@ -40,6 +40,7 @@ Régénération: 2	Au repos:	Sans repos:	Spécial:
 - Maladroit -1
 - Homme à tout faire 2
 - Apte (Discrétion) 1
+- Maître Martial 1 (bonus)
 
 
 #### Présence : 50
@@ -65,8 +66,8 @@ Restants : 120
 Ki : 47/47  
 Accumulation totale : 7  
 
-**Développement intérieur total:** 10×5(Classe)+(ArtsMartiaux)+(MaîtreMartial)+20(20 PFs)= 70  
-Utilisé: 0  
+**Développement intérieur total:** 10×5(Classe)+(ArtsMartiaux)+10(MaîtreMartial)+20(20 PFs)= 110  
+Utilisé: 110  
 
 **Utilisation du Ki** (40): [x]  
 - Contrôle du Ki (30): 
@@ -76,8 +77,8 @@ Utilisé: 0
             - Armure d'Énergie Arcane (10):
     - Extension de l'Aura à l'Arme (10): [x]   
         - Vitesse accrue (10): [x]  
-    - Absorption d'énergie (30):
-- Utilisation de l'Énergie Nécessaire (10):   
+    - Absorption d'énergie (30): [x]  
+- Utilisation de l'Énergie Nécessaire (10): [x]   
     - Dissimulation du Ki (10):   
     - Élimination des Besoins (10):
         - Immunité élémentaire : Feu (20) :
@@ -158,7 +159,7 @@ Vigilance: (Base)+10(Per)+10+50(BN) = 70
 
 [2] **Champ Intellectuel:** (140 Pfs)  
 *Estimation*: (Base)-5(Int)+10 = 5  
-*Histoire*: (Base)-5(Int)+10 = 25  
+*Histoire*: (Base)-5(Int)+10 = 5  
 *Loi*: (Base)-5(Int)+10 = 5  
 *Médecine*: (Base)-5(Int)+10 = 5  
 Mémorisation: 5(Base)-5(Int)+10+50(BN) = 60  
@@ -195,7 +196,7 @@ Habileté Manuelle: (Base)+10(Dex)-50 = -40
 
 
 ### Autres :
- 
+- Crituax d'âmes (PE p36) 
 
 ### Ressources
 
@@ -291,3 +292,7 @@ des hommes-singes venus chercher Dakar le Grand ? (un tyran avait 7 enfants qui 
 Timeskip 1 an et 6 mois 
 Le (demi)sylvain est toujours en train d'essayer de réparer le portail, mais manque de composants surnaturels. Par contre il a réparé l'escalier.
 Elsie a récupéré le titre de propriété de la place forte. Milan et Jimmy ont utilisé de la magie de création pour réparer les parties détruites.
+
+
+On a 5 jours pour aller dans la structure et en ressortir
+Sainte Thiamath serait une Invocatrice ? 
