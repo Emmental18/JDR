@@ -6,7 +6,7 @@
 
 #### Fatigue
 
-Une créature ne peut par regagner par des moyens surnaturels plus de points de Fatigue par jour que sa Constitution. On peut choisir de ne pas regagner de Fatigue si l'on reçoit un effet le permmettant (par exemple si l'on pense que l'on aura besoin de la régénération surnaturelle plus tard dans la journée).
+Une créature ne peut par regagner par des moyens surnaturels plus de points de Fatigue par jour que sa Constitution. On peut choisir de ne pas regagner de Fatigue si l'on reçoit un effet le permettant (par exemple si l'on pense que l'on aura besoin de la régénération surnaturelle plus tard dans la journée).
 
 En outre, on ne peut pas regagner plus d'un point de Fatigue par round. Si l'on reçoit un effet en faisant regagner plus de un par round, la récupération se fait sur plusieurs rounds.
 
