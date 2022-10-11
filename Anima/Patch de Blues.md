@@ -107,19 +107,19 @@ Les coûts des avantages et désavantages sont modifiés de la manière suivante
 | Vulnerabilité à la douleur | 2 | Vulnerabilité au chaud/froid*  | 1,2 |
 
 
-● Chanceux : La version à 1 point agit comme Bonne fortune, à 2 ajoute l'effet de Chanceux.
-● Apprentissage : augmente les XP de 10% par session (10% pour 2 points, 20% pour 4 points, 30% pour 6 points).
-● Grand potentiel magique : donne un +2/+3 à l'intelligence pour calculer le niveau maximal des sorts selon le nombre de PC dépensés.
-● Concentration intense et Concentration passive : ne peuvent être combinées. Un personnage qui possède les deux avantages doit choisir à tout moment lequel des deux utiliser.
-● Grande vitalité : le bonus aux points de vie par niveau et aux tests de RPhy pour éviter la mort est de 5 multiplié par le nombre de PCs dépensés (donc 10, 15, 20, 25 ou 30 selon le nombre de PC dépensés).
-● Spécialisation : Le personnage bénéficie d'un bonus de +60 à une spécialité d'une compétence secondaire de son choix.
-● Maître martial : le bonus au DI est de 20 multiplié par le nombre de PC dépensés (donc 20, 40, 60, 60, 80, 100 ou 120 selon le nombre de PC dépensés).
-● Racines culturelles : Un personnage avec cet avantage ne subit pas le -30 si il n'a pas mis de points dans ces compétences, et peut les utiliser même si ce sont des  compétences de connaissance.
-● Taille inhabituelle : un personnage dont la Force et Constitution est inférieure à 17 peut choisir la taille 8 ou 9. Un personnage dont la somme de Force et de Constitution est supérieure ou égale à 17 peut choisir une taille de 23 avec cet avantage.
-● Vision nocturne : Réduit de moitié les pénalités naturelles d'obscurité à 1 PC, avec la version à 2PC il ignore complètement les modificateurs d'obscurité naturelle et réduit de moitié les modificateurs d'obscurité surnaturelle.
-● Apprentissage lent : la version à 2 points réduit le gain de PX de 10% par session, tandis que la version à 4 points la réduit de 20% par session.
-● Malchanceux : La version à 1 point agit comme l'ancien désavantage malchanceux. La version à 2PC ajoute Infortuné.
-● Membre atrophié : si le membre est un bras, il le rend inutile et applique un malus de -60 à des actions qui nécessiteraient l'utilisation des deux bras normalement (comme l'escalade). Si le membre est une jambe, elle est également handicapée, ce qui, en plus de la pénalité énumérée ci-dessus, entraîne unepénalité supplémentaire de -6 au Mouvement (Minimum 1), bien que l'utilisation de béquilles ou autre puisse réduire cette pénalité à -3.
+● Chanceux : La version à 1 point agit comme Bonne fortune, à 2 ajoute l'effet de Chanceux.  
+● Apprentissage : augmente les XP de 10% par session (10% pour 2 points, 20% pour 4 points, 30% pour 6 points).  
+● Grand potentiel magique : donne un +2/+3 à l'intelligence pour calculer le niveau maximal des sorts selon le nombre de PC dépensés.  
+● Concentration intense et Concentration passive : ne peuvent être combinées. Un personnage qui possède les deux avantages doit choisir à tout moment lequel des deux utiliser.  
+● Grande vitalité : le bonus aux points de vie par niveau et aux tests de RPhy pour éviter la mort est de 5 multiplié par le nombre de PCs dépensés (donc 10, 15, 20, 25 ou 30 selon le nombre de PC dépensés).  
+● Spécialisation : Le personnage bénéficie d'un bonus de +60 à une spécialité d'une compétence secondaire de son choix.  
+● Maître martial : le bonus au DI est de 20 multiplié par le nombre de PC dépensés (donc 20, 40, 60, 60, 80, 100 ou 120 selon le nombre de PC dépensés).  
+● Racines culturelles : Un personnage avec cet avantage ne subit pas le -30 si il n'a pas mis de points dans ces compétences, et peut les utiliser même si ce sont des  compétences de connaissance.  
+● Taille inhabituelle : un personnage dont la Force et Constitution est inférieure à 17 peut choisir la taille 8 ou 9. Un personnage dont la somme de Force et de Constitution est supérieure ou égale à 17 peut choisir une taille de 23 avec cet avantage.  
+● Vision nocturne : Réduit de moitié les pénalités naturelles d'obscurité à 1 PC, avec la version à 2PC il ignore complètement les modificateurs d'obscurité naturelle et réduit de moitié les modificateurs d'obscurité surnaturelle.  
+● Apprentissage lent : la version à 2 points réduit le gain de PX de 10% par session, tandis que la version à 4 points la réduit de 20% par session.  
+● Malchanceux : La version à 1 point agit comme l'ancien désavantage malchanceux. La version à 2PC ajoute Infortuné.  
+● Membre atrophié : si le membre est un bras, il le rend inutile et applique un malus de -60 à des actions qui nécessiteraient l'utilisation des deux bras normalement (comme l'escalade). Si le membre est une jambe, elle est également handicapée, ce qui, en plus de la pénalité énumérée ci-dessus, entraîne unepénalité supplémentaire de -6 au Mouvement (Minimum 1), bien que l'utilisation de béquilles ou autre puisse réduire cette pénalité à -3.  
 
 
 #### Spécial
