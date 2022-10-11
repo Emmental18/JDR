@@ -16,7 +16,7 @@ Seul le bonus le plus élevé par source s'applique. Les sources sont : Ki, Ném
 
 Exceptions : 
 - les capacités spécificées comme pouvant se combiner (par exemple certains Ars Magnus et Technique de ki)
-- les bonus à toutes les actions. On ne peut avoir qu'un seul bonus à toutes les actions (indépendamment de la source), mais il s'ajoute à tout autre bonus spécifique (par exemple un bonus bonus à l'Attaque)
+- les bonus à toutes les actions. On ne peut avoir qu'un seul bonus à toutes les actions (indépendamment de la source), mais il s'ajoute à tout autre bonus spécifique (par exemple un bonus à l'Attaque)
 
 Les bonus supérieurs à +200 sont réduits de moitié. Par exemple, un personne qui utilise de la Fatigue, une technique de Ki augmentant son attaque et un bonus à toutes les actions pour se donner un +350 en attaque n'aurait qu'un +275.
 
@@ -24,7 +24,7 @@ Les bonus supérieurs à +200 sont réduits de moitié. Par exemple, un personne
 #### Création de personnages 
 
 Méthode 6 :
-- Tout le monde commence avec 4 dans chaque caractéristique. Les modificateurs raciaux sont ajoutés à ces valeurs
+- Tout le monde commence avec 4 dans chaque caractéristique. Les modificateurs raciaux sont ajoutés à ces valeurs (un néphilim Jayan partirait donc de 5 en Force).
 - Ensuite, on dispose d'un certain nombre de points à répartir, avec un coup croissant :
     - Passer de 2 à 3, de 3 à 4, de 4 à 5, de 5 à 6 de 6 à 7 **coûte 1 point**.
     - Passer de 7 à 8 ou de 8 à 9 **coûte 2 points ou 1 point s'il s'agit de la Perception**.
@@ -42,7 +42,11 @@ Méthode 6 :
 
 #### Points de création
 
-Les personnages commencent la partie avec 6 points de création au niveau zéro et en gagnent 1 par niveau (un personnage niveau aurait donc 7 PC). Les coûts des avantages et désavantages sont modifiés de la manière suivante :
+Les personnages commencent la partie avec 6 points de création au niveau zéro et en gagnent 1 par niveau 1 (un personnage niveau aurait donc 7 PC). L'objectif est pouvoir mieux lisser le coût des avantages/désavantages.
+
+Un personnage peut avoir jusqu'à 4 désavantages, mais seulement deux peuvent avoir une valeur supérieure à 1 PC.
+
+Les coûts des avantages et désavantages sont modifiés de la manière suivante :
 
 | Avantage | Coût | Avantage | Coût | Avantage | Coût |
 | --- | --- | --- | --- | --- | --- |
@@ -74,6 +78,29 @@ Le Maître d'Armes divise par 2 les coûts en PF (pour un minimum de 10 PF) des 
 
 L'objectif est de ne garder que des compétence secondaires mécaniquement utiles. Les compétences donnant de la profondeur au personnage mais moins nécéssaires sont reléguées dans le champ tertiaire. 
 
+#### Champ tertiaire
+
+Les compétences tertiaires sont les compétences qui n'auront pas une importance majeure au cours de l'aventure (par exemple, le Pistage peut en faire partie ou non). Elles englobenent toutes les compétences correspondant aux loisirs où la vie quotidienne des personnages : Cuisine, Héraldique, Couture, Danse de salon...
+
+Dans le cas où une compétence tertiaire pourrait s'utiliser au lieu d'une compétence secondaire, il faut appliquer un -80. 
+
+À chaque niveau, un personnage a un nombre de points à répartir dépendant des PF qu'il a dépensés dans sa classe :
+- Toute-à-tout : 1 pour 1 PF
+- Assassin, Voleur, Éclaireur, Illusionniste : 0,75 pour 1 PF
+- Autres classes : 0,5 pour 1 PF
+
+#### Compétences secondaires modifiées 
+
+- Escalade, Saut, Natation : Supprimées. Tout dépend d'**Athlétisme**, ces compétences pouvnat être des spécialisations.
+- Équitation : TODO
+
+- Étiquette, commerce, connaissance de la rue : deviennent des compétences tertiaires
+- Commandement. Peut s'utiliser pour donner un bonus en Impassibilité et Résistance à la douleur à tous ceux qui peuvent entendre et voir le personnage (cf Table VII). Si ils peuvent soit entendre soit voir, bonus divisé par 2.
+- Intimidation. Peut s'utiliser pour effrayer quelqu'un (test en opposition contre Impassibilité). On peut l'utiliser contre plusieurs personnes, avec un malus de 20 par cible supplémentaire (une masse est une seule cible mais ajoute son bonus de groupe). 
+    - Réussite d'au moins 40 : Peur, mais malus à toutes les actions de -20 au lieu de -60
+    - Réussite d'au moins 80 : Peur
+    - Réussite d'au moins 120 : Terreur
+
 ##### Table VII
 
 | Difficulté | Bonus | 
@@ -86,17 +113,8 @@ L'objectif est de ne garder que des compétence secondaires mécaniquement utile
 | 320 | +60 |
 | 440 | +70 |
 
-- Escalade, Saut, Natation : Supprimées. Tout dépend d'**Athlétisme**, ces compétences pouvnat être des spécialisations.
-- Équitation : TODO
 
-
-- Étiquette, commerce, connaissance de la rue : deviennent des compétences tertiaires
-- Commandement. Peut s'utiliser pour donner un bonus en Impassibilité et Résistance à la douleur à tous ceux qui peuvent entendre et voir le personnage (cf Table VII). Si ils peuvent soit entendre soit voir, bonus divisé par 2.
-- Intimidation. Peut s'utiliser pour effrayer quelqu'un (test en opposition contre Impassibilité). On peut l'utiliser contre plusieurs personnes, avec un malus de 20 par cible supplémentaire (une masse est une seule cible mais ajoute son bonus de groupe). 
-    - Réussite d'au moins 40 : Peur, mais malus à toutes les actions de -20 au lieu de -60
-    - Réussite d'au moins 80 : Peur
-    - Réussite d'au moins 120 : Terreur
-- Persuasion. Remplacée par **Empathie**. Cette compétence ne convainc pas directement la cible, mais permet au personnage de déterminer des indices sur comment influencer le comportement de son interlocuteur... Ou se rendre compte que d'autres font de mêem avec lui. 
+- Persuasion. Remplacée par **TODO trouver nom**. Cette compétence ne convainc pas directement la cible, mais permet au personnage de déterminer des indices sur comment influencer le comportement de son interlocuteur... Ou se rendre compte que d'autres font de même avec lui. 
 
 | Difficulté | Exemple | 
 | --- | --- |
@@ -111,7 +129,7 @@ L'objectif est de ne garder que des compétence secondaires mécaniquement utile
 | 440 | Entité inhumaine dont les pensées naviguent sur des rivages supérieurs |
 
 - Estimation, Animaux, Herboristerie, Navigation, Mémorisation : deviennent des compétences tertiaires
-- Science : En plus de sel'étude des Loges perdues, peut servir à faire des gadgets technologiques correspondant à des artefacts de bas niveau. 
+- Science : En plus de l'étude des Loges perdues, peut servir à faire des gadgets technologiques correspondant à des artefacts de bas niveau. 
 
 | Niveau de Pouvoir | Difficulté | 
 | --- | --- |
@@ -120,7 +138,7 @@ L'objectif est de ne garder que des compétence secondaires mécaniquement utile
 | 3 | 280 |
 | 4 | 360 |
 
-La plupart des pouvoirs de niveau 3 et tous ceux de niveau 4 sont surnaturels. Cependant, on peut faire un objet uniquement naturel. Dans ce cas, il est indétectable avec l'Évaluation Magique et ne provoque pas d'Infection Surnaturelle.
+La plupart des pouvoirs de niveau 3 et tous ceux de niveau 4 sont surnaturels. Cependant, on peut faire un objet uniquement naturel si l'on utilise uniquement des pouvoirs de bas niveau. Dans ce cas, il est indétectable avec l'Évaluation Magique et ne provoque pas d'Infection Surnaturelle.
 
 
 | Composants (compter environ 1kg par défaut) | PP | 
@@ -134,7 +152,7 @@ La plupart des pouvoirs de niveau 3 et tous ceux de niveau 4 sont surnaturels. C
 | Batterie surnaturelle | Entre 50 et 100 PP de niveau 3, soumis aux règles de Charge d'Énergie |
 | Métal stellaire | Un niveau de plus que ce qui est inscrit dans Prometheum Exxet |
 
-- Tactique. Les Guerriers gagnet +10/niveau, les Maîtres d'Armes +5/niveau. Peut servir à favoriser un plan de PJ (par exemple estimer l'heure de la relève de gardes pour se faufiler pendant cet intervalle), ou peut s'utiliser en action active pour donner à un allié (si l'allié est une masse, bonus doublé) un bonus contre une cible :
+- Tactique. Les Guerriers gagnent +10/niveau, les Maîtres d'Armes +5/niveau (et ces deux classes ont un coût de 2 pour 1 au lieu de 3 pour 1). Peut servir à favoriser un plan de PJ (par exemple estimer l'heure de la relève de gardes pour se faufiler pendant cet intervalle), ou peut s'utiliser en action active pour donner à un allié (si l'allié est une masse, bonus doublé) un bonus contre une cible :
 
 | Difficulté | Bonus | 
 | --- | --- |
@@ -151,17 +169,6 @@ La plupart des pouvoirs de niveau 3 et tous ceux de niveau 4 sont surnaturels. C
 - Art, Danse, Musique : deviennent des compétences terciaires, sauf si une exigence impose d'y mettre des points (ex : prérequis d'un art martial, magie soumise à condition)
 - Habileté manuelle. Compétence tertiaire, sauf si l'on veut s'en servir pour de l'habileté manuelle en combat (?)
 
-#### Champ tertiaire
-
-Les compétences tertiaires sont les compétences qui n'auront pas une importance majeure au cours de l'aventure (par exemple, le Pistage peut en faire partie ou non). Elles englobenent toutes les compétences correspondant aux loisirs où la vie quotidienne des personnages : Cuisine, Héraldique, Couture, Danse de salon...
-
-Dans le cas où une compétence tertiaire pourrait s'utiliser au lieu d'une compétence secondaire, il faut appliquer un -80.
-
-À chaque niveau, un personnage a un nombre de points à répartir dépendant des PF qu'il a dépensés dans sa classe :
-- Toute-à-tout : 1 pour 1 PF
-- Assassin, Voleur, Éclaireur, Illusionniste : 0,75 pour 1 PF
-- Autres classes : 0,5 pour 1 PF
-
 
 #### Encaissement en combat
 
@@ -173,7 +180,7 @@ Dans le cas où une compétence tertiaire pourrait s'utiliser au lieu d'une comp
 | Gigantesque | 40 |
 | Colossale | 50 |
 
-Les créaturs à encaissement ont aussi +30 à leur résistance si le jet pour toucher ne fait pas 100% de dégats sur la table de combat
+Les créatures à encaissement ont aussi +30 à leur résistance si le jet pour toucher ne fait pas 100% de dégats sur la table de combat
 
 
 #### Métamagie
@@ -186,7 +193,7 @@ Les créaturs à encaissement ont aussi +30 à leur résistance si le jet pour t
 #### Sorts
 
 - Augmenter les résistances : maintien augmente de 10 à tous les niveaux
-- Cuirasse : Visible 
+- Cuirasse : le sort est visible même pour les personnes ne voyant pas la magie
 
 #### Théorèmes de magie et Évaluation magique :
 
