@@ -2,7 +2,7 @@
 
 ![https://www.deviantart.com/dustinpanzino/art/Dragonfly-Knight-844255804](../_images/Delma_reduit.png)  
 
-**Classe :** Magicien 4   
+**Classe :** Magicien 5   
 **Race :** [Fée](http://dnd5e.wikidot.com/fairy) (f), CB  
 **Historique :** Enfant des rues  
 
@@ -11,29 +11,29 @@ Tirage de base : 15 10 14 7 11 16
 | ---  | --- | --- | --- | --- | --- | --- | 
 | Valeur | **7** (-2) | **16** (+3) | **14** (+2) | **18** (+4) | **11** (+0) |  **10** (+0) |
 |  |  |   |   | ☑ | ☑ |   |
-|  Sauvegarde | -2 | +3 | +2 | +6 | +2 | +0 |
+|  Sauvegarde | -2 | +3 | +2 | +7 | +3 | +0 |
 
-**Bonus de maîtrise :** +2  
+**Bonus de maîtrise :** +3  
 
 **Compétences :** (Perception passive 10)
 | Compétence | Carac | Maitrisée | Total |
 | --- | --- | --- | --- | 
 | Acrobaties | Dex |  | +3 |
-| Arcanes | Int | ☑ | +6 |
+| Arcanes | Int | ☑ | +7 |
 | Athlétisme | For |  | -2 |
-| Discrétion | Dex | ☑ | +5 |
+| Discrétion | Dex | ☑ | +6 |
 | Dressage | Sag |  | +0 |
-| Escamotage | Dex | ☑ | +5 |
+| Escamotage | Dex | ☑ | +6 |
 | Histoire | Int |  | +4 |
 | Intimidation | Cha |  | +0 |
 | Intuition | Sag |  | +0 |
-| Investigation | Int | ☑ | +6 |
+| Investigation | Int | ☑ | +7 |
 | Médecine | Sag |  | +0 |
 | Nature | Int |  | +4 |
 | Perception | Sag |  | +0 |
 | Persuasion | Cha |  | +0 |
 | Religion | Int |  | +4 |
-| Représentation | Cha | ☑ | +2 |
+| Représentation | Cha | ☑ | +3 |
 | Survie | Sag |  | +0 |
 | Tromperie | Cha |  | +0 |
 
@@ -43,9 +43,9 @@ Tirage de base : 15 10 14 7 11 16
 **Langues :** commun, infernal  
 
 ##### [COMBAT]
-**PV** 24/24  
+**PV** 32/32  
 **Initiative** +3 ; **Vitesse** 9m
-**CA** 13 (sans armure, Dex +3), 17 (Chantelame, +4 Int)
+**CA** 13 (sans armure, Dex +3), 17 (Chantelame, +4 Int) (22 Bouclier)
 
 
 
@@ -140,16 +140,18 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 **Sorts préparés :** 9 (INT+niveau)
 
-**Emplacements de sorts :** 4/4 (Niv1)  2/2 (Niv2)
+**Emplacements de sorts :** 4/4 (Niv1)  3/3 (Niv2)  2/2 (Niv3)
 
-**Restauration magique :** Niveau de magicien ÷ 2 : 5 []
+**Restauration magique :** Niveau de magicien ÷ 2 : 3 []
 
 ### Tours de magie
 
 [Druidisme](https://www.aidedd.org/dnd/sorts.php?vf=druidisme)  
 [Façonnage de l'eau](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-l-eau)    
 [Lame retentissante](https://www.aidedd.org/dnd/sorts.php?vf=lame-retentissante)  
-[Piqûre mentale](https://www.aidedd.org/dnd/sorts.php?vf=piqure-mentale) 
+[Piqûre mentale](https://www.aidedd.org/dnd/sorts.php?vf=piqure-mentale)   
+[Lame aux flammes vertes](https://www.aidedd.org/dnd/sorts.php?vf=lame-aux-flammes-vertes)   
+[Éruption de lames](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-lames)
 
 ### Sorts de niveau 1 [préparé]
 
@@ -169,6 +171,15 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 [Vortex Warp](http://dnd5e.wikidot.com/spell:vortex-warp)  
 [Poigne terreuse de Maximilien](https://www.aidedd.org/dnd/sorts.php?vf=poigne-terreuse-de-maximilien)  
 [Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)  
+[Agrandissement/Rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement) (1/j gratuit)
+
+
+### Sorts de niveau 2 [préparé]
+
+[Hâte](https://www.aidedd.org/dnd/sorts.php?vf=hate)  
+~~[Petite hutte de Léomund](https://www.aidedd.org/dnd/sorts.php?vf=petite-hutte-de-leomund)~~  
+[Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)
+~~[Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)~~
 
 ### Familier : 
 [Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette) nommée Irri
