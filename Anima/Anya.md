@@ -7,9 +7,9 @@ Désormais recherchée au Dalaborn, elle est allée se mettre au vert dans une v
 
 **Nom:** Klosterfeld  **Prénom:** Anya 	**Titre:**   
 **Classe:** Mentaliste  
-**Niveau:** 5 XP actuels: 550 ?    
-XP pour niveau suivant: 750  
-Points de Formation(Restants): 0  
+**Niveau:** 6 XP actuels: 750     
+XP pour niveau suivant: 975  
+Points de Formation(Restants): 1100  
 
 Âge: Genre:	Orientation sexuelle:  
 Race: Ethnie: Natura :	Gnose:  
@@ -23,7 +23,7 @@ Apparence: Taille: 11
 
 Méthode de tirage des caractéristiques: 56 points à répartir  
 Tirage de base des caractéristiques: AGI: 8 CON: 8 DEX: 8 FOR: 4 INT: 4 PER: 5 POU: 8 VOL: 10   
-**AGI:** 8  **CON:** 8  **DEX:** 8  **FOR:** 4  **INT:** 4  **PER:** 8  **POU:** 5  **VOL:** 12  
+**AGI:** 8  **CON:** 8  **DEX:** 8  **FOR:** 4  **INT:** 4  **PER:** 8  **POU:** 5  **VOL:** 13  
 
 
 Fatigue: 8  
@@ -43,31 +43,31 @@ Régénération: 2	Au repos:	Sans repos:	Spécial:
 - Maître Martial 1 (bonus)
 
 
-#### Présence : 50
-**RPhy, RMal, RPoi:** (Pre)+(CON) = 60   
-**RMys:** (Pre)+(POU) = 50  
-**RPsy:** (Pre)+(VOL) = 70  
+#### Présence : 55
+**RPhy, RMal, RPoi:** (Pre)+(CON) = 65   
+**RMys:** (Pre)+(POU) = 55  
+**RPsy:** (Pre)+(VOL) = 80  
 
-**Initiative :** 20(Base)-(Armure)+10(AGI)+10(DEX)+20(Arme)+5×5(Classe)+10(Ki) = 85   
+**Initiative :** 20(Base)-(Armure)+10(AGI)+10(DEX)+20(Arme)+6×5(Classe)+10(Ki) = 90   
 
-**Points de Vie :** 110(CON)+5×5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 135     
-Restants : 120  
+**Points de Vie :** 110(CON)+6×5(Classe)+(Multiplicateurs: PFs)+(Avantage) = 140     
+Restants : 140  
 
 ***
-##### CHAMPS PRINCIPAUX : (420 PFs)
+##### CHAMPS PRINCIPAUX : (680 PFs)
 ***
-## Champ Martial : (0 PFs)
+## Champ Martial : (20 PFs)
 
  Attaque: 10  
  Esquive: 10   
  Parade: 10   
  Port d'Armure: -5  
 
-Ki : 47/47  
+Ki : 49/49  
 Accumulation totale : 7  
 
-**Développement intérieur total:** 10×5(Classe)+(ArtsMartiaux)+10(MaîtreMartial)+20(20 PFs)= 110  
-Utilisé: 110  
+**Développement intérieur total:** 10×6(Classe)+(ArtsMartiaux)+40(MaîtreMartial)+20(20 PFs)= 120  
+Utilisé: 120  
 
 **Utilisation du Ki** (40): [x]  
 - Contrôle du Ki (30): 
@@ -79,7 +79,7 @@ Utilisé: 110
         - Vitesse accrue (10): [x]  
     - Absorption d'énergie (30): [x]  
 - Utilisation de l'Énergie Nécessaire (10): [x]   
-    - Dissimulation du Ki (10):   
+    - Dissimulation du Ki (10): [en cours d'apprentissage]      
     - Élimination des Besoins (10):
         - Immunité élémentaire : Feu (20) :
 - Surhumanité (30):  
@@ -91,12 +91,12 @@ Utilisé: 110
  
 ***
 
-## Champ Psychique: (420 PFs)
+## Champ Psychique: (660 PFs)
 
-PPPs: 5(Classe)+32 = 37	 
+PPPs: 6(Classe)+31 = 37	 
 Libres : 9
 
-Talent psychique : 80(Vol)+30(6 PPPs)+(Divers) = 110
+Talent psychique : 90(Vol)+30(6 PPPs)+(Divers) = 120
 
 Projection psychique : 140(Base)+10(Dex) = 150  
 
@@ -135,7 +135,7 @@ Pouvoirs:
 
 ***
 
-#### CHAMPS SECONDAIRES: (380 PFs)
+#### CHAMPS SECONDAIRES: (420 PFs)
   
 
 [2]**Champ Athlétique:**(0 Pfs)  
@@ -148,33 +148,33 @@ Saut: (Base)-5(For)+10 = 5
 *Pilotage*: (Base)+10(Agi)+10 =   
 
 [2] **Champ Vital:** (0 Pfs)  
-Impassibilité: (Base)+3×20(Vol)+10 = 70   
+Impassibilité: (Base)+4×25(Vol)+10 = 100   
 Prouesses de Force: (Base)-5(For)+10 = 5   
 Résistance à la douleur: (Base)+20(Vol)+10 = 30  
 
 [2] **Champ Sensoriel:** (0 Pfs)  
-Observation: (Base)+10(Per)+10+20(BN) = 40  
+Observation: (Base)+10(Per)+10+30(BN) = 50  
 Pistage:  (Base)+10(Per)+10 = 20  
-Vigilance: (Base)+10(Per)+10+50(BN) = 70  
+Vigilance: (Base)+10(Per)+10+60(BN) = 80  
 
 [2] **Champ Intellectuel:** (140 Pfs)  
 *Estimation*: (Base)-5(Int)+10 = 5  
 *Histoire*: (Base)-5(Int)+10 = 5  
 *Loi*: (Base)-5(Int)+10 = 5  
 *Médecine*: (Base)-5(Int)+10 = 5  
-Mémorisation: 5(Base)-5(Int)+10+50(BN) = 60  
+Mémorisation: 5(Base)-5(Int)+10+60(BN) = 70  
 *Navigation*: (Base)-5(Int)+10 = 5  
-*Occultisme*: 65(Base)-5(Int)+10+50(BN) = 120  
+*Occultisme*: 65(Base)-5(Int)+10+60(BN) = 130  
 
 [2] **Champ Social:** (0 Pfs)  
 Commandement: (Base)+0(Pou)+10-100 = -90  
 Étiquette: (Base)-5(Int)+10-100 = -95  
-Intimidation: (Base)+4×20(Vol)+10-100 = -10  
+Intimidation: (Base)+4×25(Vol)+10-100 = -10  
 Persuasion: (Base)-5(Int)+10-100 = -95 
 Style: (Base)+0(Pou)+10-100 = -90  
 
-[2] **Champ clandestin:** (230 Pfs)  
-Camouflage: (Base)+10(Per)+10 = 20  
+[2] **Champ clandestin:** (270 Pfs)  
+Camouflage: 20(Base)+10(Per)+10+10(BN) = 50  
 Crochetage: (Base)+10(Dex)+10 = 20  
 Déguisement: 40(Base)+6×10(Dex)+10+30(BN) = 140  
 [1]Discrétion: 150(Base)+10(Agi)+10+50(BN) = 220  
@@ -296,3 +296,4 @@ Elsie a récupéré le titre de propriété de la place forte. Milan et Jimmy on
 
 On a 5 jours pour aller dans la structure et en ressortir
 Sainte Thiamath serait une Invocatrice ? 
+
