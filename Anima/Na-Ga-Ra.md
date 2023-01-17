@@ -202,6 +202,8 @@ Pièges: (Base)+5(Dex)+ =
 Habileté Manuelle: (Base)+5(Dex)+ =  
 *Musique*: 30(Base)+5×10(Pou)+4×20(Avantage)+ = 160 (Percussions 200)
 
+!1d100e[>90]+35;"Na-Ga-Ra  : $1 (@1)"
+
 
 ***
 
@@ -251,7 +253,7 @@ Or:	Argent:	Cuivre:
 | Zemial |  | | 
 | Uriel |  | | 
 | Jedah |  | | 
-| Gabriel |  | | 
+| Gabriel | 5 | | 
 | Noah |  | | 
 | Raphael |  | | 
 | Erebus |  | | 
@@ -292,3 +294,13 @@ Apprenti de Ionel qui lui a appris les bases de la musique, il rêve de devenir 
 #### Session 0
 
 Rdv chez Sygma, on va aller dans les jungles casser du dragon (yay !)
+
+#### Session 1 
+
+Voyage en bateau
+
+Blason : cornes (de chèvre) et épée (cristal taillé ressemblant à l'épée de Sung )
+
+#### Session 2 — 31/08
+
+Marche dans la jungle. 
