@@ -2,7 +2,7 @@
 
 ![https://www.deviantart.com/dustinpanzino/art/Dragonfly-Knight-844255804](../_images/Delma_reduit.png)  
 
-**Classe :** Magicien 5   
+**Classe :** Magicien 6     
 **Race :** [Fée](http://dnd5e.wikidot.com/fairy) (f), CB  
 **Historique :** Enfant des rues  
 
@@ -43,9 +43,9 @@ Tirage de base : 15 10 14 7 11 16
 **Langues :** commun, infernal  
 
 ##### [COMBAT]
-**PV** 32/32  
+**PV** 35/35  
 **Initiative** +3 ; **Vitesse** 9m
-**CA** 13 (sans armure, Dex +3), 17 (Chantelame, +4 Int) (22 Bouclier)
+**CA** 13 (sans armure, Dex +3), 17 (Chantelame, +4 Int) (22 Bouclier) (+2 Hâte)
 
 
 
@@ -138,48 +138,49 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Sorts préparés :** 9 (INT+niveau)
+**Sorts préparés :** 10 (INT+niveau) ☑
 
-**Emplacements de sorts :** 4/4 (Niv1)  3/3 (Niv2)  2/2 (Niv3)
+**Emplacements de sorts :** 4/4 (Niv1)  3/3 (Niv2)  3/3 (Niv3)
 
 **Restauration magique :** Niveau de magicien ÷ 2 : 3 []
 
-### Tours de magie
+### Tours de magie 
 
-[Druidisme](https://www.aidedd.org/dnd/sorts.php?vf=druidisme)  
-[Façonnage de l'eau](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-l-eau)    
-[Lame retentissante](https://www.aidedd.org/dnd/sorts.php?vf=lame-retentissante)  
-[Piqûre mentale](https://www.aidedd.org/dnd/sorts.php?vf=piqure-mentale)   
-[Lame aux flammes vertes](https://www.aidedd.org/dnd/sorts.php?vf=lame-aux-flammes-vertes)   
-[Éruption de lames](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-lames)
+– ✓ [Druidisme](https://www.aidedd.org/dnd/sorts.php?vf=druidisme)  
+– ✓ [Façonnage de l'eau](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-l-eau)    
+– ✓ [Lame retentissante](https://www.aidedd.org/dnd/sorts.php?vf=lame-retentissante)  
+– ✓ [Piqûre mentale](https://www.aidedd.org/dnd/sorts.php?vf=piqure-mentale)   
+– ✓ [Lame aux flammes vertes](https://www.aidedd.org/dnd/sorts.php?vf=lame-aux-flammes-vertes)   
+– ✓ [Éruption de lames](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-lames)
 
 ### Sorts de niveau 1 [préparé]
 
-[Alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme) **R**  
-[Appel de familier](https://www.aidedd.org/dnd/sorts.php?vf=appel-de-familier) **R**  
-[Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)  
-[Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)  
-[Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)  
-[Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)   
-[Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)  
-[Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie) **R**  
-[Lueurs féeriques](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques) (1/j gratuit)
+– ✓ [Alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme) **R**  
+– ✓ [Appel de familier](https://www.aidedd.org/dnd/sorts.php?vf=appel-de-familier) **R**  
+– ☑ [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)  
+– ☐ [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)  
+– ☑ [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)  
+– ☑ [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)   
+– ☑ [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)  
+– ✓ [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie) **R**  
+– ✓ [Lueurs féeriques](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques) (1/j gratuit)
 
 ### Sorts de niveau 2 [préparé]
 
-[Aura magique de Nystul](https://www.aidedd.org/dnd/sorts.php?vf=aura-magique-de-nystul)  
-[Vortex Warp](http://dnd5e.wikidot.com/spell:vortex-warp)  
-[Poigne terreuse de Maximilien](https://www.aidedd.org/dnd/sorts.php?vf=poigne-terreuse-de-maximilien)  
-[Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)  
-[Agrandissement/Rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement) (1/j gratuit)
+– ☑ [Aura magique de Nystul](https://www.aidedd.org/dnd/sorts.php?vf=aura-magique-de-nystul)  
+– ☑ [Vortex Warp](http://dnd5e.wikidot.com/spell:vortex-warp)  
+– ☐ [Poigne terreuse de Maximilien](https://www.aidedd.org/dnd/sorts.php?vf=poigne-terreuse-de-maximilien)  
+– ☐ [Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)  
+– ✓ [Agrandissement/Rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement) (1/j gratuit)
 
 
 ### Sorts de niveau 2 [préparé]
-
-[Hâte](https://www.aidedd.org/dnd/sorts.php?vf=hate)  
-~~[Petite hutte de Léomund](https://www.aidedd.org/dnd/sorts.php?vf=petite-hutte-de-leomund)~~  
-[Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)
-~~[Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)~~
+    
+– ☑ [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)  
+– ☑ [Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)  
+– ☑ [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)  
+– ☑ [Hâte](https://www.aidedd.org/dnd/sorts.php?vf=hate)   
+~~– ✓ [Petite hutte de Léomund](https://www.aidedd.org/dnd/sorts.php?vf=petite-hutte-de-leomund)~~  
 
 ### Familier : 
 [Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette) nommée Irri
