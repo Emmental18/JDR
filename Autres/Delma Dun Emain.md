@@ -125,7 +125,7 @@ Traits de personnalité :
 
 Idéal :
 - Devenir une héroïne de légende, comme dans les histoires que raconte Erevan. (Aspiration : Je prouverai que je mérite une vie meilleure.)
-
+ 
 Apparence :
 Quatre ailes de libellule, presque aussi grandes d'elle. Teint pâle, alternant du gris au rose en fonction des phases de la lune.
 Delma est petite (un peu moins d'un mètre) mais surtout légère à cause de son corps aérien. 
