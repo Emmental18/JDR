@@ -253,7 +253,7 @@ Fumée rouge au-dessus de l'ancienne forteresse de TR
 Astrid a perdu ses potes (papa, maman, sœur) (ce sont tous des voleurs ! bouh)
 
 
-/r 1d100xa + 70 # Occultisme
+/r 1d100xa + 130 # Occultisme
 /r 1d100xa + 90 # Bouclier
 /r 1d100xa + 80 # Couteau
 /r 1d100xa + 130 # Talent
@@ -297,3 +297,6 @@ Elsie a récupéré le titre de propriété de la place forte. Milan et Jimmy on
 On a 5 jours pour aller dans la structure et en ressortir
 Sainte Thiamath serait une Invocatrice ? 
 
+
+
+Tombeau de deslodia ?
