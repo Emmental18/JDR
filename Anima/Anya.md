@@ -264,7 +264,6 @@ Astrid a perdu ses potes (papa, maman, sœur) (ce sont tous des voleurs ! bouh)
 /r 1d100xa + 35 # RMys 
 
 
-
 Morgue : Morta, le croquemort 
 
 Josk Hinterclaw 
