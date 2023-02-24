@@ -2,7 +2,7 @@
 
 ![https://www.deviantart.com/dustinpanzino/art/Dragonfly-Knight-844255804](../_images/Delma_reduit.png)  
 
-**Classe :** Magicien 6     
+**Classe :** Magicien 7     
 **Race :** [Fée](http://dnd5e.wikidot.com/fairy) (f), CB  
 **Historique :** Enfant des rues  
 
@@ -43,14 +43,14 @@ Tirage de base : 15 10 14 7 11 16
 **Langues :** commun, infernal  
 
 ##### [COMBAT]
-**PV** 35/35  
+**PV** 37/37 +1D6  
 **Initiative** +3 ; **Vitesse** 9m
-**CA** 13 (sans armure, Dex +3), 17 (Chantelame, +4 Int) (22 Bouclier) (+2 Hâte)
+**CA** 14 (sans armure, Dex +3, Fanal +1), 16 (Cuir clouté), 20 (Chantelame, +4 Int) (25 Bouclier) (+2 Hâte)
 
 
 
 ##### [Dons]
-Adepte métamagique (2) : Sort Accéléré (2), Sort Subtil (2)
+Adepte métamagique (2) : Sort Jumeau (2), Sort Subtil (2)
 
 ##### [CAPACITÉS ET TRAITS]
 Caractéristiques de fée (type Fée)  
@@ -64,7 +64,6 @@ Vous connaissez si bien les remous et le flux de la population urbaine que vous 
 (Po de départ (Classe + Historique) : 4d4×10 (130) + 10)  
 Poids transportable : 26,25 kgs  
 
-Need : Rapière (15po, 0,5 kgs) + cuir clouté (45po, 6,5 kgs)
 
 | Objet | Poids (kg) | 
 | --- | --- |  
@@ -81,8 +80,9 @@ Need : Rapière (15po, 0,5 kgs) + cuir clouté (45po, 6,5 kgs)
 | Rations | 1 | 
 | Outre | 2,5 | 
 | Huile | 0,5 | 
-| |  | 
-| **Total** | 12,5 | 
+| Rapière (à Jelher) | 0,5 | 
+| Armure cuir clouté | 6,5 | 
+| **Total** | 19,5 | 
  
 + une carte de la ville dans laquelle vous avez grandi, un souvenir de vos parents  
 + babiole : une gemme que toute personne autre que vous prend pour du charbon  
@@ -138,17 +138,17 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Sorts préparés :** 10 (INT+niveau) ☑
+**Sorts préparés :** 11 (INT+niveau) ☑
 
-**Emplacements de sorts :** 4/4 (Niv1)  3/3 (Niv2)  3/3 (Niv3)
+**Emplacements de sorts :** 4/4 (Niv1)  3/3 (Niv2)  3/3 (Niv3)  1/1 (Niv4)
 
-**Restauration magique :** Niveau de magicien ÷ 2 : 3 []
+**Restauration magique :** Niveau de magicien ÷ 2 : 4 []
 
 ### Tours de magie 
 
 – ✓ [Druidisme](https://www.aidedd.org/dnd/sorts.php?vf=druidisme)  
 – ✓ [Façonnage de l'eau](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-l-eau)    
-– ✓ [Lame retentissante](https://www.aidedd.org/dnd/sorts.php?vf=lame-retentissante)  
+– ☐ [Lame retentissante](https://www.aidedd.org/dnd/sorts.php?vf=lame-retentissante)  
 – ✓ [Piqûre mentale](https://www.aidedd.org/dnd/sorts.php?vf=piqure-mentale)   
 – ✓ [Lame aux flammes vertes](https://www.aidedd.org/dnd/sorts.php?vf=lame-aux-flammes-vertes)   
 – ✓ [Éruption de lames](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-lames)
@@ -157,30 +157,35 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 – ✓ [Alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme) **R**  
 – ✓ [Appel de familier](https://www.aidedd.org/dnd/sorts.php?vf=appel-de-familier) **R**  
-– ☑ [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)  
-– ☐ [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)  
-– ☑ [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)  
-– ☑ [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)   
-– ☑ [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)  
+– ☑ [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier) VS  
+– ☐ [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)   
+– ☑ [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique) VS  
+– ☐ [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil) VSM   
+– ☑ [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements) S  
 – ✓ [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie) **R**  
-– ✓ [Lueurs féeriques](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques) (1/j gratuit)
+– ✓ [Lueurs féeriques](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques) V (1/j gratuit)
 
 ### Sorts de niveau 2 [préparé]
 
-– ☑ [Aura magique de Nystul](https://www.aidedd.org/dnd/sorts.php?vf=aura-magique-de-nystul)  
-– ☑ [Vortex Warp](http://dnd5e.wikidot.com/spell:vortex-warp)  
-– ☐ [Poigne terreuse de Maximilien](https://www.aidedd.org/dnd/sorts.php?vf=poigne-terreuse-de-maximilien)  
-– ☐ [Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)  
-– ✓ [Agrandissement/Rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement) (1/j gratuit)
+– ☑ [Aura magique de Nystul](https://www.aidedd.org/dnd/sorts.php?vf=aura-magique-de-nystul) VSM  
+– ☑ [Vortex Warp](http://dnd5e.wikidot.com/spell:vortex-warp) VS  
+– ☐ [Poigne terreuse de Maximilien](https://www.aidedd.org/dnd/sorts.php?vf=poigne-terreuse-de-maximilien) VSM  
+– ☐ [Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique) VSM  
+– ✓ [Agrandissement/Rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement) VSM (1/j gratuit)
 
 
-### Sorts de niveau 2 [préparé]
+### Sorts de niveau 3 [préparé]
     
-– ☑ [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)  
-– ☑ [Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)  
-– ☑ [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)  
-– ☑ [Hâte](https://www.aidedd.org/dnd/sorts.php?vf=hate)   
+– ☑ [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu) VSM  
+– ☑ [Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort) S  
+– ☑ [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie) VS  
+– ☑ [Hâte](https://www.aidedd.org/dnd/sorts.php?vf=hate) VSM   
 ~~– ✓ [Petite hutte de Léomund](https://www.aidedd.org/dnd/sorts.php?vf=petite-hutte-de-leomund)~~  
+
+### Sorts de niveau 4 [préparé]
+    
+– ☑ [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose) VSM ([Liste des bêtes](https://5e.tools/bestiary.html#beast%20of%20the%20land_tce))  
+– ☑ [Rayonnement Écœurant](https://www.aidedd.org/dnd/sorts.php?vf=rayonnement-ecoeurant) VS    
 
 ### Familier : 
 [Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette) nommée Irri
