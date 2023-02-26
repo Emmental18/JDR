@@ -33,7 +33,7 @@ Vous avez un certains nombre de points offerts, à chaque niveau, un personnage 
 - Autres classes : 0,5 pour 1 PF
 Par exemple, un Sorcier niveau 1 a 300 points à répartir dans ce champ.
 
-Le coût pour monter une compétence tertaire dépend uniquement de son niveau : 1 pour 1 jusqu'à 100, ensuite 1 pour 2 jsuqu'à 200, puis 1 pour 3, etc.
+Le coût pour monter une compétence tertaire dépend uniquement de son niveau : 1 pour 1 jusqu'à 100, ensuite 1 pour 2 jusqu'à 200, puis 1 pour 3, etc.
 
 De plus on applique les limites de compétences secondaires du livret de l'écran :
 | Niveau | Valeur maximale | 
@@ -144,7 +144,7 @@ Le désavantage « Lien élémentaire » ne réduit le coût en DI que de -5/-10
 #### Métamagie
 
 - Exploitation de l'énergie physique : le bonus est réduit à +20/+30 si une/deux sphères
-- Projection magique prédéterminée : le coût en Zéon doit être accumulé. On peut ne rien payer si on a assez de magie innée. La dépense est valable pour 5 rounds. Il faut repayer si l'on veut que ça dure plus longtemps ; pas besoin d'accumuler mais c'est une action active. Pour un sort quotidien, on peut choisir de ne payer qu'aux moments où l'on utilise le sort. 
+- Projection magique prédéterminée : le coût en Zéon doit être accumulé. On peut ne rien payer si on a assez de magie innée. La dépense est valable pour 5 rounds. Il faut repayer si l'on veut que ça dure plus longtemps ; pas besoin d'accumuler mais c'est une action consciente. Pour un sort quotidien, on peut choisir de ne payer qu'aux moments où l'on utilise le sort. 
 - Avatar : on ne perd pas de vie, que du Zéon. À la fin de la transformation, on récupère donc les PV que l'on avait avant de passer en Avatar (mais on garde les malus éventuels)
 - Boucle existentielle : le coût passe à 150 Zéons par round.
 - Sentir la magie : donne un +80 au lieu d'augmenter d'un niveau.
@@ -152,7 +152,8 @@ Le désavantage « Lien élémentaire » ne réduit le coût en DI que de -5/-10
 #### Sorts
 
 - Augmenter les résistances : maintien augmente de 10 à tous les niveaux
-- Cuirasse : le sort est visible même pour les personnes ne voyant pas la magie
+- Cuirasse : le sort est visible même pour les personnes ne voyant pas la magie 
+- Acquérir des capacités naturelles : on ne peut acheter des points de fatigue qu'une fois
 
 #### Théorèmes de magie et Évaluation magique :
 
