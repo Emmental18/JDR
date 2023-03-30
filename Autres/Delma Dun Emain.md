@@ -138,9 +138,9 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Sorts préparés :** 11 (INT+niveau) ☑
+**Sorts préparés :** 12 (INT+niveau) ☑
 
-**Emplacements de sorts :** 4/4 (Niv1)  3/3 (Niv2)  3/3 (Niv3)  1/1 (Niv4)
+**Emplacements de sorts :** 4/4 (Niv1)  3/3 (Niv2)  3/3 (Niv3)  2/2 (Niv4)
 
 **Restauration magique :** Niveau de magicien ÷ 2 : 4 []
 
@@ -159,7 +159,7 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 – ✓ [Appel de familier](https://www.aidedd.org/dnd/sorts.php?vf=appel-de-familier) **R**  
 – ☑ [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier) VS  
 – ☐ [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)   
-– ☑ [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique) VS  
+– ☐ [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique) VS  
 – ☐ [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil) VSM   
 – ☑ [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements) S  
 – ✓ [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie) **R**  
@@ -184,7 +184,9 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 ### Sorts de niveau 4 [préparé]
     
-– ☑ [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose) VSM ([Liste des bêtes](https://5e.tools/bestiary.html#beast%20of%20the%20land_tce))  
+– ☑ [Aura de vie](https://www.aidedd.org/dnd/sorts.php?vf=aura-de-vie)  
+– ☑ [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose) VSM ([Liste des bêtes](https://5e.tools/bestiary.html#beast%20of%20the%20land_tce))   
+– ☑ [Œil magique](https://www.aidedd.org/dnd/sorts.php?vf=oeil-magique)   
 – ☑ [Rayonnement Écœurant](https://www.aidedd.org/dnd/sorts.php?vf=rayonnement-ecoeurant) VS    
 
 ### Familier : 
