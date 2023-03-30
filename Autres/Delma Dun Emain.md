@@ -2,28 +2,28 @@
 
 ![https://www.deviantart.com/dustinpanzino/art/Dragonfly-Knight-844255804](../_images/Delma_reduit.png)  
 
-**Classe :** Magicien 7     
+**Classe :** Magicien 8     
 **Race :** [Fée](http://dnd5e.wikidot.com/fairy) (f), CB  
 **Historique :** Enfant des rues  
 
 Tirage de base : 15 10 14 7 11 16
 | | Force | Dextérité | Constitution | Intelligence | Sagesse | Charisme | 
 | ---  | --- | --- | --- | --- | --- | --- | 
-| Valeur | **7** (-2) | **16** (+3) | **14** (+2) | **18** (+4) | **11** (+0) |  **10** (+0) |
+| Valeur | **7** (-2) | **18** (+4) | **14** (+2) | **18** (+4) | **11** (+0) |  **10** (+0) |
 |  |  |   |   | ☑ | ☑ |   |
-|  Sauvegarde | -2 | +3 | +2 | +7 | +3 | +0 |
+|  Sauvegarde | -2 | +4 | +2 | +7 | +3 | +0 |
 
 **Bonus de maîtrise :** +3  
 
 **Compétences :** (Perception passive 10)
 | Compétence | Carac | Maitrisée | Total |
 | --- | --- | --- | --- | 
-| Acrobaties | Dex |  | +3 |
+| Acrobaties | Dex |  | +4 |
 | Arcanes | Int | ☑ | +7 |
 | Athlétisme | For |  | -2 |
-| Discrétion | Dex | ☑ | +6 |
+| Discrétion | Dex | ☑ | +7 |
 | Dressage | Sag |  | +0 |
-| Escamotage | Dex | ☑ | +6 |
+| Escamotage | Dex | ☑ | +7 |
 | Histoire | Int |  | +4 |
 | Intimidation | Cha |  | +0 |
 | Intuition | Sag |  | +0 |
@@ -43,9 +43,9 @@ Tirage de base : 15 10 14 7 11 16
 **Langues :** commun, infernal  
 
 ##### [COMBAT]
-**PV** 37/37 +1D6  
-**Initiative** +3 ; **Vitesse** 9m
-**CA** 14 (sans armure, Dex +3, Fanal +1), 16 (Cuir clouté), 20 (Chantelame, +4 Int) (25 Bouclier) (+2 Hâte)
+**PV** 40/40  
+**Initiative** +4 ; **Vitesse** 9m
+**CA** 15 (sans armure, Dex +3, Fanal +1), 17 (Cuir clouté), 21 (Chantelame, +4 Int) (26 Bouclier) (+2 Hâte)
 
 
 
@@ -59,6 +59,8 @@ Magie des fées
 
 Aptitude d'historique : **Secrets de la ville**  
 Vous connaissez si bien les remous et le flux de la population urbaine que vous arrivez à vous frayer un chemin dans la cohue là oùd'autres se retrouveraient coincés. Quand vous n'êtes pas en combat, vous et les compagnons qui vous suivent pouvez vous déplacer deux fois plus vite que votre vitesse ne devrait vous le permettre entre deux points d'une même ville.
+
+2 Attaques, 1 peut être un cantrip
 
 ##### [ÉQUIPEMENT]
 (Po de départ (Classe + Historique) : 4d4×10 (130) + 10)  
