@@ -11,7 +11,7 @@ Tirage de base : 15 10 14 7 11 16
 | ---  | --- | --- | --- | --- | --- | --- | 
 | Valeur | **7** (-2) | **18** (+4) | **14** (+2) | **18** (+4) | **11** (+0) |  **10** (+0) |
 |  |  |   |   | ☑ | ☑ |   |
-|  Sauvegarde | -2 | +4 | +2 | +7 | +3 | +0 |
+|  Sauvegarde | -2 | +4 | +2 | +8 | +4 | +0 |
 
 **Bonus de maîtrise :** +4  
 
@@ -43,7 +43,7 @@ Tirage de base : 15 10 14 7 11 16
 **Langues :** commun, infernal  
 
 ##### [COMBAT]
-**PV** 40/40  
+**PV** 46/46  
 **Initiative** +4 ; **Vitesse** 9m
 **CA** 15 (sans armure, Dex +4, Fanal +1), 17 (Cuir clouté), 21 (Chantelame, +4 Int) (26 Bouclier) (+2 Hâte)
 
