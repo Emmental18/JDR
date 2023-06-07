@@ -2,7 +2,7 @@
 
 ![https://www.deviantart.com/dustinpanzino/art/Dragonfly-Knight-844255804](../_images/Delma_reduit.png)  
 
-**Classe :** Magicien 8     
+**Classe :** Magicien 9     
 **Race :** [Fée](http://dnd5e.wikidot.com/fairy) (f), CB  
 **Historique :** Enfant des rues  
 
@@ -13,27 +13,27 @@ Tirage de base : 15 10 14 7 11 16
 |  |  |   |   | ☑ | ☑ |   |
 |  Sauvegarde | -2 | +4 | +2 | +7 | +3 | +0 |
 
-**Bonus de maîtrise :** +3  
+**Bonus de maîtrise :** +4  
 
 **Compétences :** (Perception passive 10)
 | Compétence | Carac | Maitrisée | Total |
 | --- | --- | --- | --- | 
 | Acrobaties | Dex |  | +4 |
-| Arcanes | Int | ☑ | +7 |
+| Arcanes | Int | ☑ | +8 |
 | Athlétisme | For |  | -2 |
-| Discrétion | Dex | ☑ | +7 |
+| Discrétion | Dex | ☑ | +8 |
 | Dressage | Sag |  | +0 |
-| Escamotage | Dex | ☑ | +7 |
+| Escamotage | Dex | ☑ | +8 |
 | Histoire | Int |  | +4 |
 | Intimidation | Cha |  | +0 |
 | Intuition | Sag |  | +0 |
-| Investigation | Int | ☑ | +7 |
+| Investigation | Int | ☑ | +8 |
 | Médecine | Sag |  | +0 |
 | Nature | Int |  | +4 |
 | Perception | Sag |  | +0 |
 | Persuasion | Cha |  | +0 |
 | Religion | Int |  | +4 |
-| Représentation | Cha | ☑ | +3 |
+| Représentation | Cha | ☑ | +4 |
 | Survie | Sag |  | +0 |
 | Tromperie | Cha |  | +0 |
 
@@ -45,7 +45,7 @@ Tirage de base : 15 10 14 7 11 16
 ##### [COMBAT]
 **PV** 40/40  
 **Initiative** +4 ; **Vitesse** 9m
-**CA** 15 (sans armure, Dex +3, Fanal +1), 17 (Cuir clouté), 21 (Chantelame, +4 Int) (26 Bouclier) (+2 Hâte)
+**CA** 15 (sans armure, Dex +4, Fanal +1), 17 (Cuir clouté), 21 (Chantelame, +4 Int) (26 Bouclier) (+2 Hâte)
 
 
 
@@ -140,11 +140,11 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Sorts préparés :** 12 (INT+niveau) ☑
+**Sorts préparés :** 13 (INT+niveau) ☑
 
-**Emplacements de sorts :** 4/4 (Niv1)  3/3 (Niv2)  3/3 (Niv3)  2/2 (Niv4)
+**Emplacements de sorts :** 4/4 (Niv1)  3/3 (Niv2)  3/3 (Niv3)  3/3 (Niv4)  1/1 (Niv4)
 
-**Restauration magique :** Niveau de magicien ÷ 2 : 4 []
+**Restauration magique :** Niveau de magicien ÷ 2 : 5 []
 
 ### Tours de magie 
 
@@ -178,7 +178,7 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 
 ### Sorts de niveau 3 [préparé]
     
-– ☑ [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu) VSM  
+– ☐ [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu) VSM  
 – ☑ [Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort) S  
 – ☑ [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie) VS  
 – ☑ [Hâte](https://www.aidedd.org/dnd/sorts.php?vf=hate) VSM   
@@ -190,6 +190,10 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 – ☑ [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose) VSM ([Liste des bêtes](https://5e.tools/bestiary.html#beast%20of%20the%20land_tce))   
 – ☑ [Œil magique](https://www.aidedd.org/dnd/sorts.php?vf=oeil-magique)   
 – ☑ [Rayonnement Écœurant](https://www.aidedd.org/dnd/sorts.php?vf=rayonnement-ecoeurant) VS    
+– ☑ [Lance d'arçon psychique de Raulothim](https://www.aidedd.org/dnd/sorts.php?vf=lance-d-arcon-psychique-de-raulothim) ([VO](https://5e.tools/spells.html#raulothim's%20psychic%20lance_ftd)) V
+### Sorts de niveau 5 [préparé]
+    
+– ☑ [Passe-muraille](https://www.aidedd.org/dnd/sorts.php?vf=passe-muraille) VSM
 
 ### Familier : 
 [Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette) nommée Irri
