@@ -45,7 +45,7 @@ Tirage de base : 15 10 14 7 11 16
 ##### [COMBAT]
 **PV** 46/46  
 **Initiative** +4 ; **Vitesse** 9m
-**CA** 15 (sans armure, Dex +4, Fanal +1), 17 (Cuir clouté), 21 (Chantelame, +4 Int) (26 Bouclier) (+2 Hâte)
+**CA** 15 (sans armure, Dex +4, Fanal +1), 17 (Cuir clouté), 21 (Chantelame, +4 Int) (26 Bouclier) (+2 Hâte) (+2 Bâton de puissance)
 
 
 
@@ -84,7 +84,8 @@ Poids transportable : 26,25 kgs
 | Huile | 0,5 | 
 | Rapière (à Jelher) | 0,5 | 
 | Armure cuir clouté | 6,5 | 
-| **Total** | 19,5 | 
+| [Bâton de puissance](https://5e-drs.fr/liste-objets-magiques/baton-de-puissance/) | 2 |
+| **Total** | 21,5 | 
  
 + une carte de la ville dans laquelle vous avez grandi, un souvenir de vos parents  
 + babiole : une gemme que toute personne autre que vous prend pour du charbon  
@@ -194,6 +195,19 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
 ### Sorts de niveau 5 [préparé]
     
 – ☑ [Passe-muraille](https://www.aidedd.org/dnd/sorts.php?vf=passe-muraille) VSM
+
+### Bâton de Puissance 
+Charges 20/20 (récupère 2d8+4 par jour)
+
+– ☑ boule de feu (version de niveau 5, 5 charges)
+– ☑ cône de froid (5 charges)
+– ☑ éclair (version de niveau 5, 5 charges)
+– ☑ globe d'invulnérabilité (6 charges)
+– ☑ immobiliser un monstre (5 charges)
+– ☑ lévitation (2 charges)
+– ☑ mur de force (5 charges)
+– ☑ projectile magique (1 charge)
+– ☑ rayon affaiblissant (1 charge)
 
 ### Familier : 
 [Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette) nommée Irri
