@@ -196,18 +196,18 @@ Son grimoire de magicien est un petit livret aux pages noires (les encres à uti
     
 – ☑ [Passe-muraille](https://www.aidedd.org/dnd/sorts.php?vf=passe-muraille) VSM
 
-### Bâton de Puissance 
+### [Bâton de Puissance](https://5e-drs.fr/liste-objets-magiques/baton-de-puissance/) 
 Charges 20/20 (récupère 2d8+4 par jour)
 
-– ☑ boule de feu (version de niveau 5, 5 charges)
-– ☑ cône de froid (5 charges)
-– ☑ éclair (version de niveau 5, 5 charges)
-– ☑ globe d'invulnérabilité (6 charges)
-– ☑ immobiliser un monstre (5 charges)
-– ☑ lévitation (2 charges)
-– ☑ mur de force (5 charges)
-– ☑ projectile magique (1 charge)
-– ☑ rayon affaiblissant (1 charge)
+– ☑ [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu) (version de niveau 5, 5 charges)  
+– ☑ [Cône de froid](https://www.aidedd.org/dnd/sorts.php?vf=cone-de-froid) (5 charges)  
+– ☑ [Éclair](https://www.aidedd.org/dnd/sorts.php?vf=eclair) (version de niveau 5, 5 charges)  
+– ☑ [Globe d'invulnérabilité](https://www.aidedd.org/dnd/sorts.php?vf=globe-d-invulnerabilite) (6 charges)  
+– ☑ [Immobiliser un monstre](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-monstre) (5 charges)  
+– ☑ [Lévitation](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-monstre) (2 charges)  
+– ☑ [Mur de force](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-force) (5 charges)  
+– ☑ [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique) (1 charge)  
+– ☑ [Rayon affaiblissant](https://www.aidedd.org/dnd/sorts.php?vf=rayon-affaiblissant) (1 charge)  
 
 ### Familier : 
 [Chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette) nommée Irri
