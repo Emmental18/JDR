@@ -45,12 +45,12 @@ Occultation ⚪⚪⚫⚫⚫⚫⚫⚫⚫⚫  Génération ⚪⚪⚪⚫⚫⚫⚫�
 
 ### Auspex (p198)
 — Sens accrus
-— Lecture de l'âme (Perception+Empathie 8)
+— Lecture de l'âme (Perception+Empathie 8)  
 — Psychométrie (Perception+Empathie)    
 — Vol de secrets (Intelligence + subterfuge, si volonté ≥5 int+int vs Manipulation+Auspex)
 
 ### Occultation
-— Le silence de la mort
+— Le silence de la mort  
 — Présence invisible (Astuce+Furtivité ou Manipulation+Subterfuge)
 
 
