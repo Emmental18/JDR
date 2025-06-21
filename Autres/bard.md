@@ -1,6 +1,6 @@
 # mini-Zahaak
 
-![https://www.deviantart.com/dustinpanzino/art/Dragonfly-Knight-844255804](../_images/Delma_reduit.png)  
+![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_hello.png](../_images/yuumei_hello.png)  
 
 **Classe :** Sorcier 1 / Barde      
 **Race :**  Humain (h), CB  
@@ -135,6 +135,8 @@ Ses recherches occultes visant à lever le voile qui sépare notre monde des aut
 
 
 
+
+![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_my_domain.png](../_images/yuumei_my_domain.png)  
 
 #### Grimoire :
 
