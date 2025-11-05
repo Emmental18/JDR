@@ -1,15 +1,15 @@
-# mini-Zahaak
+# Adramis d'Harnavaze
 
 ![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_hello.png](../_images/yuumei_hello.png)  
 
-**Classe :** Sorcier 1 / Barde      
+**Classe :** Sorcier 1 / Barde 2     
 **Race :**  Humain (h), CB  
 **Historique :** Acolyte  
 
-Tirage de base : 8 13 14 12 10 15  
+Tirage de base : 8 14 13 12 10 15  
 | | Force | Dextérité | Constitution | Intelligence | Sagesse | Charisme | 
 | ---  | --- | --- | --- | --- | --- | --- | 
-| Valeur | **8** (-1) | **14** (+2) | **14** (+2) | **12** (+1) | **10** (+0) |  **16** (+3) |
+| Valeur | **8** (-1) | **14** (+2) | **14** (+2) | **12** (+1) | **10** (+0) |  **17** (+3) |
 |  |  |   |   |  | ☑ |  ☑ |
 |  Sauvegarde | -1 | +2 | +2 | +1 | +2 | +5 |
 
@@ -40,7 +40,7 @@ Tirage de base : 8 13 14 12 10 15
 **Armes :** courantes  
 **Armures :** légères  
 **Outils :** – 
-**Langues :** commun, infernal  
+**Langues :** commun, infernal, +2  
 
 ##### [COMBAT]
 **PV** 24/24  
@@ -50,24 +50,14 @@ Tirage de base : 8 13 14 12 10 15
 
 
 ##### [Dons]
-TDB  
-TELEKINETIC ?
-You learn to move things with your mind, granting
-you the following benefits:
-• Increase your Intelligence, Wisdom, or Charisma
-score by 1, to a maximum of 20.
-• You learn the mage hand cantrip. You can cast it
-without verbal or somatic components, and you
-can make the spectral hand invisible. If you already know this spell, its range increases by 30
-feet when you cast it. Its spellcasting ability is the
-ability increased by this feat.
-• As a bonus action, you can try to telekinetically
-shove one creature you can see within 30 feet of
-you. When you do so, the target must succeed on
-a Strength saving throw (DC 8 + your proficiency
-bonus + the ability modifier of the score increased
-by this feat) or be moved 5 feet toward you or away
-from you. A creature can willingly fail this save.
+
+**Broyeur** [Crusher](https://www.aidedd.org/dnd/dons.php?vf=broyeur)
+Vous êtes habitué à l'art d'écraser vos ennemis, ce qui vous confère les avantages suivants :
+ – Augmentez votre valeur de Force ou de Constitution de 1, jusqu'à un maximum de 20.
+ – Une fois par tour, lorsque vous touchez une créature avec une attaque qui inflige des dégâts contondants, vous pouvez la déplacer de 1,50 mètre vers un espace inoccupé, à condition que la cible ne soit pas de plus d'une taille que vous.
+ – Si vous réalisez un coup critique qui inflige des dégâts contondants à une créature, vous avez un avantage aux jets d'attaque contre cette créature jusqu'au début de votre prochain tour.
+
+(suivant : **[Télékinésiste](https://www.aidedd.org/dnd/dons.php?vf=telekinesiste)** )
 
 
 ##### [CAPACITÉS ET TRAITS]
@@ -83,58 +73,94 @@ demander l'assistance des prêtres qui s'y trouvent, dans la mesure où l'aide q
 
 
 ##### [ÉQUIPEMENT]
-(Po de départ (Classe + Historique) : 4d4×10 (130) + 10)  
-Poids transportable : 26,25 kgs  
+Poids transportable : 60 kgs  
 
 
 | Objet | Poids (kg) | 
 | --- | --- |  
-| Habits courants | 2 |
-| Focaliseur arcanique (cristal) | 0,5 |
-| Grimoire | 1,5 |
-| Bouteille d'encre | — | 
-| Porte-plume | — | 
+| Habits courants | 1,5 |
+| Habits de cérémonie | 2 ? |
+| Armure de cuir | 5 |
+| Arbalète légère | 2,5 | 
+| Carreaux (20) | 0,75 | 
+| Symbole sacré (amulette) | 0,5 | 
+| Livre de prières | 2,5 | 
+| Bâtons d'encens (5) | 2,5 | 
+| Bourse | — | 
+| Sac à dos | 2,5 | 
+| Traité de conniassances | 2,5 | 
+| Bouteille d'encre | 2,5 | 
+| Porte-plume | 2,5 | 
 | Étui à parchemins | 0,5 |
 | 10 feuilles de parchemin | — |
 | Dague | 0,5 |
-| Sac à dos | 2,5 |
+| Petit sace de sable | 2,5 |
+
 | Lanterne sourde | 1 |
 | Rations | 1 | 
 | Outre | 2,5 | 
 | Huile | 0,5 | 
 | Rapière (à Jelher) | 0,5 | 
-| Armure cuir clouté | 6,5 | 
-| [Bâton de puissance](https://5e-drs.fr/liste-objets-magiques/baton-de-puissance/) | 2 |
 | **Total** | 21,5 | 
 à refaire 
 
 4d4x10po  
  (a) une arbalète légère et 20 carreaux  (25)
 (a) une sacoche à composantes (25)
-(a) un paquetage d'érudit ou (b) un paquetage d'exploration
-souterraine
-une armure de cuir (10), n'importe quelle arme courante et deux
-dagues
-+ un symbole sacré (un cadeau qui vous a été
-offert quand vous êtes entré dans les ordres), un livre de
-prières ou un moulin à prières, 5 bâtons d'encens, des
-habits de cérémonie, des habits courants et une bourse
+(a) un paquetage d'érudit ou (b) un paquetage d'exploration souterraine
+une armure de cuir (10), n'importe quelle arme courante et deux dagues
++ un symbole sacré (un cadeau qui vous a été offert quand vous êtes entré dans les ordres), un livre de prières ou un moulin à prières, 5 bâtons d'encens, des habits de cérémonie, des habits courants et une bourse
 contenant 15 po
 
 Poids des pièces 0 kg 
 
 
 ##### [PERSONNAGE]
-Taille  ; Âge   ans  
-TODO
+Taille  ; Âge 33 ans  
 
-Membre d'une branche mineure d'une famille écclésiastique influente, xxxx se destinait à une carrière religieuse standard qui l'aurait mené vers un confortable poste d'évêque dans une région agréable à vivre. Cependant, il a pris la religion un peu trop au sérieux et s'est retrouvé mêlé à des querelles dogmatiques qui commencent à embarasser ses coreligionnaires. Désormais il a pour principal objectif de faire accepter ses vues à l'église.
+Membre d'une branche mineure d'une famille ecclésiastique influente, Adramis se destinait à une carrière religieuse standard qui l'aurait mené vers un confortable poste d'évêque dans une région agréable à vivre. Cependant, il a pris la religion un peu trop au sérieux et s'est retrouvé mêlé à des querelles dogmatiques qui commencent à embarrasser ses coreligionnaires. Désormais il a pour principal objectif de faire accepter ses vues à l'église. 
 
 Ses recherches occultes visant à lever le voile qui sépare notre monde des autres l'ont mené à entrer en communication avec un puissant génie nommé Zahak, avec qui il a passé un pacte. En échange de quelques pouvoirs qui pourraient l'aider dans sa quête, le génie n'a demandé qu'à en apprendre plus sur le monde dans lequel il vit.
 
 
 
+Selon moi, quelque chose ne va pas rond dans le cycle des réincarnations (même si il fonctionne toujours)
 
+Divinité :
+Rime (non genrée)
+Le champion choisi se divinise et devient le nouveau Rime. Cycle de quelques dizaines d'années (20-50)
+
+Triumvirat : (jai 30 ans, ils n'ont pas changé depuis mon enfance)
+Lübel Kerdobrum le Grand Inquisiteur (M). Je l'ai déjà vu une fois (mais jamais parlé). Grisonnant, apparrence (la quarantaine ?)
+Vela Sheleste, l'Ordonnatrice (F). Donne les grands discours, préside les cérémonies → aussi vue de loin, sublime
+Vaughin Mireaubeau, l'Index (M). Jamais vu (un portrait de lui jeune).
+
+Cela fait quelques temps que je suis opposé à la doctrine, mais la bascule du côté de la rébellion est récente. 
+Je suis sur la liste des oposants, mais looooin tout en bas  
+
+Les dix grandes familles qui dirigent l'église :  
+Kerdobrum  
+Sheleste  
+Mireaubeau  
+Sangfleur  
+Hauteville   
+Diacre  
+Trescent  
+Bourgfruité  
+Montmorain ← ma famille en est issue. Harnavaze est une petite bourgade à une semaine de marche de la capitale (Harmonie. Très avancée, presque Renaissance, voire steampunk. Style architectural bizarre, mélange de plein de trucs)   
+Veeskel. Famille d'orfèvres réputés. Peu nombreux, peu d'influence politique. Statut à part. Originellement, le blason avait aussi un Ouroboros, mais un certain Thursalgan les aurait changées (pour rajouter des pattes) il y a des centaines d'années. Thursalgan a eu une fille (Elessa) et il a créé des bijoux qu'il a appelé du nom de sa fille (les Larmes d'Ellessa).     
+
+Les embèmes : le décagone symbolise les 10 familles, il est plus récent que l'Ouroboros qui symbolise le cycle des réincarnations et le renouveau de la déesse. 
+Inquisition : trapèze/podium avec un décagone dessus
+
+
+Scène 1 : bibliothèque pontificale, je cherche à accéder aux archives à accès restreintes. Je me fais jeter. En sortant, je croise un écclésisatique qui me propose un rdv dans un endroit louche : Merwyn, membre d'une branch emineure de la famille Mireaubeau
+
+Dans un grimoire volé dans les archives, je trouve une allusion à une « éclipse de Rime »
+
+Fuite 
+
+Dans un village, rencontre avec Cassie : 
 
 ![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_my_domain.png](../_images/yuumei_my_domain.png)  
 
