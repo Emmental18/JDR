@@ -18,23 +18,23 @@ Tirage de base : 8 14 13 12 10 15
 **Compétences :** (Perception passive 10)
 | Compétence | Carac | Maitrisée | Total |
 | --- | --- | --- | --- | 
-| Acrobaties | Dex |  | +2 |
+| Acrobaties | Dex | +1 | +3 |
 | Arcanes | Int | ☑ | +3 |
-| Athlétisme | For |  | -1 |
-| Discrétion | Dex |  | +2 |
-| Dressage | Sag |  | +0 |
-| Escamotage | Dex |  | +2 |
-| Histoire | Int |  | +1 |
-| Intimidation | Cha |  | +3 |
-| Intuition | Sag |  | +0 |
-| Investigation | Int |  | +1 |
-| Médecine | Sag |  | +0 |
-| Nature | Int |  | +1 |
+| Athlétisme | For | +1 | +0 |
+| Discrétion | Dex | +1 | +3 |
+| Dressage | Sag | +1 | +1 |
+| Escamotage | Dex | +1 | +3 |
+| Histoire | Int | +1 | +2 |
+| Intimidation | Cha | +1 | +4 |
+| Intuition | Sag | +1 | +1 |
+| Investigation | Int | +1 | +2 |
+| Médecine | Sag | +1 | +1 |
+| Nature | Int | +1 | +2 |
 | Perception | Sag | ☑ | +2 |
 | Persuasion | Cha | ☑ | +5 |
 | Religion | Int | ☑ | +3 |
 | Représentation | Cha | ☑ | +5 |
-| Survie | Sag |  | +0 |
+| Survie | Sag | +1 | +1 |
 | Tromperie | Cha | ☑ | +5 |
 
 **Armes :** courantes  
@@ -70,6 +70,26 @@ de vie modeste.
 Vous pouvez être lié à un temple spécifique dédié à votre déité ou votre panthéon et dans lequel vous avez un logement. Cela peut être le temple dans lequel vous officiez,
 si vous êtes resté en bons termes avec ses occupants, ou un temple qui est devenu votre nouvelle maison. Quand vous vous trouvez à proximité de votre temple, vous pouvez
 demander l'assistance des prêtres qui s'y trouvent, dans la mesure où l'aide qu'ils vous apportent ne les met pas en danger et que vous soyez en bons termes avec eux.
+
+
+**Inspiration bardique (d6)**   
+Utilisations : 3/3 (Récupération : long repos)
+Bonus Action. Cible : quelqu'un capable d'entendre à 18m  
+Dé valable 10min, peut s'utiliser après lancer (attaque/carac/sauvegarde) mais avant annonce réussite/échec
+
+**Touche-à-tout**  
+Ajoute la moitié du bonus de maîtrise aux compétences non maîtrisées
+
+**Chant reponsant**
++1D6 pv pour moi et alliés lors de récupérations dans un repos court.
+
+**Réceptacle du Génie**  
+Object magique, quand je le touche je peux :  
+– une fois par repos long, rentrer dedans pour 2×maîtrise (4) heures. Sortie par action bonus, j'entends ce qui se dit dehors
+– une fois par tour, +1 dégâts contandants sur un attaque qui touche
+CA du réceptacle : 13
+PV : 3 (immunité poison/psychique)
+
 
 
 ##### [ÉQUIPEMENT]
