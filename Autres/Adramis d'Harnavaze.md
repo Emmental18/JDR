@@ -43,7 +43,7 @@ Tirage de base : 8 14 13 12 10 15
 **Langues :** commun, infernal, +2  
 
 ##### [COMBAT]
-**PV** 24/24  
+**PV** 30/30  
 **Initiative** +2 ; **Vitesse** 9m
 **CA** 12 (sans armure, Dex +2), 14 Cuir clouté 
 
@@ -192,7 +192,9 @@ Plus aucune trace des autres conspirateurs arrêtés. Les gens ne se souviennnen
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
 **Emplacements de sorts :** 5/5 (Niv1)   
-Récupération par repos court : 1 (Niv1)
+Récupération par repos court : 1 (Niv1)  
+(Yes, you can cast more than one spell per turn/round. The only specific restriction is that if you cast a spell as a bonus action, you can't cast a non-cantrip spell during your turn)
+
 
 ### Tours de magie 
 
