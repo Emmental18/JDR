@@ -2,7 +2,7 @@
 
 ![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_hello.png](../_images/yuumei_hello.png)  
 
-**Classe :** Sorcier 1 / Barde 2     
+**Classe :** Sorcier 2 / Barde 2     
 **Race :**  Humain (h), CB  
 **Historique :** Acolyte  
 
@@ -80,16 +80,19 @@ Dé valable 10min, peut s'utiliser après lancer (attaque/carac/sauvegarde) mais
 **Touche-à-tout**  
 Ajoute la moitié du bonus de maîtrise aux compétences non maîtrisées
 
-**Chant reponsant**
+**Chant reponsant**  
 +1D6 pv pour moi et alliés lors de récupérations dans un repos court.
 
 **Réceptacle du Génie**  
 Object magique, quand je le touche je peux :  
 – une fois par repos long, rentrer dedans pour 2×maîtrise (4) heures. Sortie par action bonus, j'entends ce qui se dit dehors
 – une fois par tour, +1 dégâts contandants sur un attaque qui touche
-CA du réceptacle : 13
-PV : 3 (immunité poison/psychique)
+CA du réceptacle : 13 
+PV : 3 (immunité poison/psychique) 
 
+**Invocations occultes**
+– Explosion insoutenable (dégâts +CHA) 
+– Onde de choc (éloigner de 3m) 
 
 
 ##### [ÉQUIPEMENT]
@@ -138,6 +141,8 @@ Poids des pièces 0 kg
 ##### [PERSONNAGE]
 Taille  ; Âge 33 ans  
 
+Quand je fais de la magie, mes yeux changent. On peut voir une flamme brûler au fond de mes yeux.
+
 Membre d'une branche mineure d'une famille ecclésiastique influente, Adramis se destinait à une carrière religieuse standard qui l'aurait mené vers un confortable poste d'évêque dans une région agréable à vivre. Cependant, il a pris la religion un peu trop au sérieux et s'est retrouvé mêlé à des querelles dogmatiques qui commencent à embarrasser ses coreligionnaires. Désormais il a pour principal objectif de faire accepter ses vues à l'église. 
 
 Ses recherches occultes visant à lever le voile qui sépare notre monde des autres l'ont mené à entrer en communication avec un puissant génie nommé Zahak, avec qui il a passé un pacte. En échange de quelques pouvoirs qui pourraient l'aider dans sa quête, le génie n'a demandé qu'à en apprendre plus sur le monde dans lequel il vit.
@@ -174,13 +179,20 @@ Les embèmes : le décagone symbolise les 10 familles, il est plus récent que l
 Inquisition : trapèze/podium avec un décagone dessus
 
 
-Scène 1 : bibliothèque pontificale, je cherche à accéder aux archives à accès restreintes. Je me fais jeter. En sortant, je croise un écclésisatique qui me propose un rdv dans un endroit louche : Merwyn, membre d'une branch emineure de la famille Mireaubeau
+Scène 1 : bibliothèque pontificale, je cherche à accéder aux archives à accès restreintes. Je me fais jeter. En sortant, je croise un écclésisatique qui me propose un rdv dans un endroit louche : Merwyn, membre d'une branche mineure de la famille Mireaubeau
 
 Dans un grimoire volé dans les archives, je trouve une allusion à une « éclipse de Rime »
 
 Fuite 
 
-Dans un village, rencontre avec Cassie : 
+Dans un village, rencontre avec Cassie : je rejoins les rebelles   
+
+Rencontres avec Zahaak :  
+De ce qu'il a vu autour de moi, il y a quelque chose d'étrange dans la magie qui m'environne. Et en plus un truc magique dissonnant autour de moi. Les cœurs contiennent un bout de magie dissonnante. FX a réussi a les ouvrir aisément... intéressant 
+Divination de Z : « Les yeux ne voient pas le mensonge, même lorsqu'il est devant eux. Et dans ce cas vaut-il mieux voir ou être aveugle ? »
+
+L'ancien passage secret a été fermé. La végétation a repris ses droits. On pourrait y retourner.  
+Plus aucune trace des autres conspirateurs arrêtés. Les gens ne se souviennnent pas d'eux
 
 ![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_my_domain.png](../_images/yuumei_my_domain.png)  
 
@@ -188,7 +200,7 @@ Dans un village, rencontre avec Cassie :
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Emplacements de sorts :** 4/4 (Niv1)   
+**Emplacements de sorts :** 5/5 (Niv1)   
 Récupération par repos court : 1 (Niv1)
 
 ### Tours de magie 
@@ -204,7 +216,8 @@ Récupération par repos court : 1 (Niv1)
 – [Maléfice](https://www.aidedd.org/dnd/sorts.php?vf=malefice) VSM   
 – [Mot de guérison](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-guerison) V  
 – [Murmures dissonants](https://www.aidedd.org/dnd/sorts.php?vf=murmures-dissonants) V  
-– [Communication avec les animaux	](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-animaux) VS **R**  
+– [Communication avec les animaux](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-animaux) VS **R**  
+– [Représailles infernales](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales) VS  (Réaction)
 – [Serviteur invisible](https://www.aidedd.org/dnd/sorts.php?vf=serviteur-invisible) VSM **R**  
 – [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil) VSM   
 
