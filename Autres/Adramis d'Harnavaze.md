@@ -90,9 +90,9 @@ Object magique, quand je le touche je peux :
 CA du réceptacle : 13 
 PV : 3 (immunité poison/psychique) 
 
-**Invocations occultes**
-– Explosion insoutenable (dégâts +CHA) 
-– Onde de choc (éloigner de 3m) 
+**Invocations occultes**  
+– Explosion insoutenable (dégâts +CHA)   
+– Onde de choc (éloigner de 3m)  
 
 
 ##### [ÉQUIPEMENT]
@@ -117,25 +117,16 @@ Poids transportable : 60 kgs
 | Étui à parchemins | 0,5 |
 | 10 feuilles de parchemin | — |
 | Dague | 0,5 |
-| Petit sace de sable | 2,5 |
-
-| Lanterne sourde | 1 |
-| Rations | 1 | 
+| Petit sac de sable | 2,5 |
+| Rations (10) | 10 | 
 | Outre | 2,5 | 
 | Huile | 0,5 | 
-| Rapière (à Jelher) | 0,5 | 
-| **Total** | 21,5 | 
-à refaire 
+| Billes (sac de 1000) | 1 | 
+| **Total** | 42,75 | 
 
-4d4x10po  
- (a) une arbalète légère et 20 carreaux  (25)
-(a) une sacoche à composantes (25)
-(a) un paquetage d'érudit ou (b) un paquetage d'exploration souterraine
-une armure de cuir (10), n'importe quelle arme courante et deux dagues
-+ un symbole sacré (un cadeau qui vous a été offert quand vous êtes entré dans les ordres), un livre de prières ou un moulin à prières, 5 bâtons d'encens, des habits de cérémonie, des habits courants et une bourse
-contenant 15 po
+63po 7pa  
 
-Poids des pièces 0 kg 
+Poids des pièces 0,7 kg 
 
 
 ##### [PERSONNAGE]
@@ -217,7 +208,7 @@ Récupération par repos court : 1 (Niv1)
 – [Mot de guérison](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-guerison) V  
 – [Murmures dissonants](https://www.aidedd.org/dnd/sorts.php?vf=murmures-dissonants) V  
 – [Communication avec les animaux](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-animaux) VS **R**  
-– [Représailles infernales](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales) VS  (Réaction)
+– [Représailles infernales](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales) VS (Réaction)  
 – [Serviteur invisible](https://www.aidedd.org/dnd/sorts.php?vf=serviteur-invisible) VSM **R**  
 – [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil) VSM   
 
