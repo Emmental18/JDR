@@ -13,9 +13,9 @@ Tirage de base : 8 14 13 12 10 15
 |  |  |   |   |  | ☑ |  ☑ |
 |  Sauvegarde | -1 | +2 | +2 | +1 | +2 | +5 |
 
-**Bonus de maîtrise :** +2  
+**Bonus de maîtrise :** +2    
 
-**Compétences :** (Perception passive 10)
+**Compétences :** (Perception passive 10)  
 | Compétence | Carac | Maitrisée | Total |
 | --- | --- | --- | --- | 
 | Acrobaties | Dex | +1 | +3 |
@@ -37,15 +37,15 @@ Tirage de base : 8 14 13 12 10 15
 | Survie | Sag | +1 | +1 |
 | Tromperie | Cha | ☑ | +5 |
 
-**Armes :** courantes  
-**Armures :** légères  
-**Outils :** – 
+**Armes :** courantes   
+**Armures :** légères   
+**Outils :** –  
 **Langues :** commun, infernal, +2  
 
-##### [COMBAT]
+##### [COMBAT]  
 **PV** 30/30  
-**Initiative** +2 ; **Vitesse** 9m
-**CA** 12 (sans armure, Dex +2), 14 Cuir clouté 
+**Initiative** +2 ; **Vitesse** 9m  
+**CA** 12 (sans armure, Dex +2), 14 Cuir clouté  
 
 
 
