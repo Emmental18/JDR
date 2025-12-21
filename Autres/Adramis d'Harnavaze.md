@@ -2,7 +2,7 @@
 
 ![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_hello.png](../_images/yuumei_hello.png)  
 
-**Classe :** Sorcier 2 / Barde 2     
+**Classe :** Sorcier 2 / Barde 3     
 **Race :**  Humain (h), CB  
 **Historique :** Acolyte  
 
@@ -19,7 +19,7 @@ Tirage de base : 8 14 13 12 10 15
 | Compétence | Carac | Maitrisée | Total |
 | --- | --- | --- | --- | 
 | Acrobaties | Dex | +1 | +3 |
-| Arcanes | Int | ☑ | +3 |
+| Arcanes | Int | ☑ | +5 |
 | Athlétisme | For | +1 | +0 |
 | Discrétion | Dex | +1 | +3 |
 | Dressage | Sag | +1 | +1 |
@@ -31,7 +31,7 @@ Tirage de base : 8 14 13 12 10 15
 | Médecine | Sag | +1 | +1 |
 | Nature | Int | +1 | +2 |
 | Perception | Sag | ☑ | +2 |
-| Persuasion | Cha | ☑ | +5 |
+| Persuasion | Cha | ☑ | +7 |
 | Religion | Int | ☑ | +3 |
 | Représentation | Cha | ☑ | +5 |
 | Survie | Sag | +1 | +1 |
@@ -43,7 +43,7 @@ Tirage de base : 8 14 13 12 10 15
 **Langues :** commun, infernal, +2  
 
 ##### [COMBAT]  
-**PV** 30/30  
+**PV** 39/39  
 **Initiative** +2 ; **Vitesse** 9m  
 **CA** 12 (sans armure, Dex +2), 14 Cuir clouté  
 
@@ -82,6 +82,12 @@ Ajoute la moitié du bonus de maîtrise aux compétences non maîtrisées
 
 **Chant reponsant**  
 +1D6 pv pour moi et alliés lors de récupérations dans un repos court.
+
+**Langue d'argent (Collège de l'éloquence)**
+Lors des tests de Charisme (Persuasion ou Tromperie), 9 ou moins = 10
+
+**Mots dérangeants**
+[Bonus Action] : Dépenser une inspiration bardique pour donner ce malus au prochain jet de sauvegarde d'une créature à 18m 
 
 **Réceptacle du Génie**  
 Object magique, quand je le touche je peux :  
@@ -191,7 +197,7 @@ Plus aucune trace des autres conspirateurs arrêtés. Les gens ne se souviennnen
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Emplacements de sorts :** 5/5 (Niv1)   
+**Emplacements de sorts :** 6/6 (Niv1) 2/2 (Niv2)   
 Récupération par repos court : 1 (Niv1)  
 (Yes, you can cast more than one spell per turn/round. The only specific restriction is that if you cast a spell as a bonus action, you can't cast a non-cantrip spell during your turn)
 
@@ -203,18 +209,20 @@ Récupération par repos court : 1 (Niv1)
 – ✓ [Moquerie cruelle](https://www.aidedd.org/dnd/sorts.php?vf=moquerie-cruelle) V    
 – ✓ [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation) VS  
 
-### Sorts de niveau 1 [préparé]
+### Sorts de niveau 1  
 
 – [Armure d'Agathys](https://www.aidedd.org/dnd/sorts.php?vf=armure-d-agathys) VSM  
 – [Maléfice](https://www.aidedd.org/dnd/sorts.php?vf=malefice) VSM   
-– [Mot de guérison](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-guerison) V  
+– [Mot de guérison](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-guerison) V   
 – [Murmures dissonants](https://www.aidedd.org/dnd/sorts.php?vf=murmures-dissonants) V  
-– [Communication avec les animaux](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-animaux) VS **R**  
 – [Représailles infernales](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales) VS (Réaction)  
 – [Serviteur invisible](https://www.aidedd.org/dnd/sorts.php?vf=serviteur-invisible) VSM **R**  
 – [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil) VSM   
 
+### Sorts de niveau 1  
 
+– [Fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement) VSM   
+– [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion) VM    
 
 _____
 
