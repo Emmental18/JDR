@@ -11,15 +11,15 @@ Tirage de base : 8 14 13 12 10 15
 | ---  | --- | --- | --- | --- | --- | --- | 
 | Valeur | **8** (-1) | **14** (+2) | **14** (+2) | **12** (+1) | **10** (+0) |  **17** (+3) |
 |  |  |   |   |  | ☑ |  ☑ |
-|  Sauvegarde | -1 | +2 | +2 | +1 | +2 | +5 |
+|  Sauvegarde | -1 | + | +2 | +1 | +6 | +6 |
 
-**Bonus de maîtrise :** +2    
+**Bonus de maîtrise :** +3    
 
 **Compétences :** (Perception passive 10)  
 | Compétence | Carac | Maitrisée | Total |
 | --- | --- | --- | --- | 
 | Acrobaties | Dex | +1 | +3 |
-| Arcanes | Int | ☑ | +5 |
+| Arcanes | Int | ☑☑ | +6 |
 | Athlétisme | For | +1 | +0 |
 | Discrétion | Dex | +1 | +3 |
 | Dressage | Sag | +1 | +1 |
@@ -30,12 +30,12 @@ Tirage de base : 8 14 13 12 10 15
 | Investigation | Int | +1 | +2 |
 | Médecine | Sag | +1 | +1 |
 | Nature | Int | +1 | +2 |
-| Perception | Sag | ☑ | +2 |
-| Persuasion | Cha | ☑ | +7 |
+| Perception | Sag | ☑ | +3 |
+| Persuasion | Cha | ☑☑ | +9 |
 | Religion | Int | ☑ | +3 |
-| Représentation | Cha | ☑ | +5 |
+| Représentation | Cha | ☑ | +6 |
 | Survie | Sag | +1 | +1 |
-| Tromperie | Cha | ☑ | +5 |
+| Tromperie | Cha | ☑ | +6 |
 
 **Armes :** courantes   
 **Armures :** légères   
@@ -91,9 +91,9 @@ Lors des tests de Charisme (Persuasion ou Tromperie), 9 ou moins = 10
 
 **Réceptacle du Génie**  
 Object magique, quand je le touche je peux :  
-– une fois par repos long, rentrer dedans pour 2×maîtrise (4) heures. Sortie par action bonus, j'entends ce qui se dit dehors
-– une fois par tour, +1 dégâts contandants sur un attaque qui touche
-CA du réceptacle : 13 
+– une fois par repos long, rentrer dedans pour 2×maîtrise (6) heures. Sortie par action bonus, j'entends ce qui se dit dehors
+– une fois par tour, +3 dégâts contandants sur un attaque qui touche
+CA du réceptacle : 14 
 PV : 3 (immunité poison/psychique) 
 
 **Invocations occultes**  
@@ -199,6 +199,7 @@ Plus aucune trace des autres conspirateurs arrêtés. Les gens ne se souviennnen
 
 **Emplacements de sorts :** 6/6 (Niv1) 2/2 (Niv2)   
 Récupération par repos court : 1 (Niv1)  
+DD des jets de sauvegarde : 14  
 (Yes, you can cast more than one spell per turn/round. The only specific restriction is that if you cast a spell as a bonus action, you can't cast a non-cantrip spell during your turn)
 
 
