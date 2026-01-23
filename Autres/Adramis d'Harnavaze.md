@@ -2,16 +2,16 @@
 
 ![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_hello.png](../_images/yuumei_hello.png)  
 
-**Classe :** Sorcier 2 / Barde 3     
+**Classe :** Sorcier 2 / Barde 4       
 **Race :**  Humain (h), CB  
 **Historique :** Acolyte  
 
 Tirage de base : 8 14 13 12 10 15  
 | | Force | Dextérité | Constitution | Intelligence | Sagesse | Charisme | 
 | ---  | --- | --- | --- | --- | --- | --- | 
-| Valeur | **8** (-1) | **14** (+2) | **14** (+2) | **12** (+1) | **10** (+0) |  **17** (+3) |
+| Valeur | **8** (-1) | **14** (+2) | **14** (+2) | **12** (+1) | **10** (+0) |  **18** (+4) |
 |  |  |   |   |  | ☑ |  ☑ |
-|  Sauvegarde | -1 | + | +2 | +1 | +6 | +6 |
+|  Sauvegarde | -1 | +2 | +2 | +1 | +3 | +7 |
 
 **Bonus de maîtrise :** +3    
 
@@ -25,17 +25,17 @@ Tirage de base : 8 14 13 12 10 15
 | Dressage | Sag | +1 | +1 |
 | Escamotage | Dex | +1 | +3 |
 | Histoire | Int | +1 | +2 |
-| Intimidation | Cha | +1 | +4 |
+| Intimidation | Cha | +1 | +5 |
 | Intuition | Sag | +1 | +1 |
 | Investigation | Int | +1 | +2 |
 | Médecine | Sag | +1 | +1 |
 | Nature | Int | +1 | +2 |
 | Perception | Sag | ☑ | +3 |
-| Persuasion | Cha | ☑☑ | +9 |
+| Persuasion | Cha | ☑☑ | +10 |
 | Religion | Int | ☑ | +3 |
-| Représentation | Cha | ☑ | +6 |
+| Représentation | Cha | ☑ | +7 |
 | Survie | Sag | +1 | +1 |
-| Tromperie | Cha | ☑ | +6 |
+| Tromperie | Cha | ☑ | +7 |
 
 **Armes :** courantes   
 **Armures :** légères   
@@ -43,7 +43,7 @@ Tirage de base : 8 14 13 12 10 15
 **Langues :** commun, infernal, +2  
 
 ##### [COMBAT]  
-**PV** 39/39  
+**PV** 44/44  
 **Initiative** +2 ; **Vitesse** 9m  
 **CA** 12 (sans armure, Dex +2), 14 Cuir clouté  
 
@@ -51,14 +51,17 @@ Tirage de base : 8 14 13 12 10 15
 
 ##### [Dons]
 
-**Broyeur** [Crusher](https://www.aidedd.org/dnd/dons.php?vf=broyeur)
-Vous êtes habitué à l'art d'écraser vos ennemis, ce qui vous confère les avantages suivants :
- – Augmentez votre valeur de Force ou de Constitution de 1, jusqu'à un maximum de 20.
- – Une fois par tour, lorsque vous touchez une créature avec une attaque qui inflige des dégâts contondants, vous pouvez la déplacer de 1,50 mètre vers un espace inoccupé, à condition que la cible ne soit pas de plus d'une taille que vous.
+**Broyeur** [Crusher](https://www.aidedd.org/dnd/dons.php?vf=broyeur)  
+Vous êtes habitué à l'art d'écraser vos ennemis, ce qui vous confère les avantages suivants :  
+ – Augmentez votre valeur de Force ou de Constitution de 1, jusqu'à un maximum de 20.  
+ – Une fois par tour, lorsque vous touchez une créature avec une attaque qui inflige des dégâts contondants, vous pouvez la déplacer de 1,50 mètre vers un espace inoccupé, à condition que la cible ne soit pas de plus d'une taille que vous.  
  – Si vous réalisez un coup critique qui inflige des dégâts contondants à une créature, vous avez un avantage aux jets d'attaque contre cette créature jusqu'au début de votre prochain tour.
 
-(suivant : **[Télékinésiste](https://www.aidedd.org/dnd/dons.php?vf=telekinesiste)** )
-
+(suivant : **[Télékinésiste](https://www.aidedd.org/dnd/dons.php?vf=telekinesiste)** )  
+Vous apprenez à déplacer des objets avec votre esprit, ce qui vous confère les avantages suivants :  
+ – Augmentez votre valeur d'Intelligence, de Sagesse ou de Charisme de 1, jusqu'à un maximum de 20.  
+ – Vous apprenez le sort main du mage. Vous pouvez le lancer sans composante verbale ou somatique, et pouvez rendre la main spectrale invisible. Si vous connaissez déjà ce sort, sa portée augmente de 9 mètres lorsque vous le lancez. Sa caractéristique d'incantation est la caractéristique augmentée par ce don.  
+ – Par une action bonus, vous pouvez essayer de pousser par télékinésie une créature que vous pouvez voir à 9 mètres ou moins de vous. Dans ce cas, la cible doit réussir un jet de sauvegarde de Force (DD 8 + votre bonus de maîtrise + le modificateur de la caractéristique augmentée par ce don) ou être attirée ou repoussée de 1,50 mètre. Une créature peut volontairement rater ce jet de sauvegarde.
 
 ##### [CAPACITÉS ET TRAITS]
 
@@ -130,7 +133,7 @@ Poids transportable : 60 kgs
 | Billes (sac de 1000) | 1 | 
 | **Total** | 42,75 | 
 
-63po 7pa  
+50+18 po 7pa  
 
 Poids des pièces 0,7 kg 
 
@@ -197,9 +200,9 @@ Plus aucune trace des autres conspirateurs arrêtés. Les gens ne se souviennnen
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Emplacements de sorts :** 6/6 (Niv1) 2/2 (Niv2)   
+**Emplacements de sorts :** 6/6 (Niv1) 3/3 (Niv2)   
 Récupération par repos court : 1 (Niv1)  
-DD des jets de sauvegarde : 14  
+DD des jets de sauvegarde : 15  
 (Yes, you can cast more than one spell per turn/round. The only specific restriction is that if you cast a spell as a bonus action, you can't cast a non-cantrip spell during your turn)
 
 
@@ -209,6 +212,7 @@ DD des jets de sauvegarde : 14
 – ✓ [Main de mage](https://www.aidedd.org/dnd/sorts.php?vf=main-de-mage) VSM  
 – ✓ [Moquerie cruelle](https://www.aidedd.org/dnd/sorts.php?vf=moquerie-cruelle) V    
 – ✓ [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation) VS  
+– ✓ todo
 
 ### Sorts de niveau 1  
 
@@ -220,10 +224,11 @@ DD des jets de sauvegarde : 14
 – [Serviteur invisible](https://www.aidedd.org/dnd/sorts.php?vf=serviteur-invisible) VSM **R**  
 – [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil) VSM   
 
-### Sorts de niveau 1  
+### Sorts de niveau 2  
 
 – [Fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement) VSM   
 – [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion) VM    
+– ✓ todo
 
 _____
 
