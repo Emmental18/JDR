@@ -43,7 +43,7 @@ Tirage de base : 8 14 13 12 10 15
 **Langues :** commun, infernal, +2  
 
 ##### [COMBAT]  
-**PV** 44/44  
+**PV** 28/44  
 **Initiative** +2 ; **Vitesse** 9m  
 **CA** 12 (sans armure, Dex +2), 14 Cuir clouté  
 
@@ -57,7 +57,7 @@ Vous êtes habitué à l'art d'écraser vos ennemis, ce qui vous confère les av
  – Une fois par tour, lorsque vous touchez une créature avec une attaque qui inflige des dégâts contondants, vous pouvez la déplacer de 1,50 mètre vers un espace inoccupé, à condition que la cible ne soit pas de plus d'une taille que vous.  
  – Si vous réalisez un coup critique qui inflige des dégâts contondants à une créature, vous avez un avantage aux jets d'attaque contre cette créature jusqu'au début de votre prochain tour.
 
-(suivant : **[Télékinésiste](https://www.aidedd.org/dnd/dons.php?vf=telekinesiste)** )  
+**[Télékinésiste](https://www.aidedd.org/dnd/dons.php?vf=telekinesiste)**  
 Vous apprenez à déplacer des objets avec votre esprit, ce qui vous confère les avantages suivants :  
  – Augmentez votre valeur d'Intelligence, de Sagesse ou de Charisme de 1, jusqu'à un maximum de 20.  
  – Vous apprenez le sort main du mage. Vous pouvez le lancer sans composante verbale ou somatique, et pouvez rendre la main spectrale invisible. Si vous connaissez déjà ce sort, sa portée augmente de 9 mètres lorsque vous le lancez. Sa caractéristique d'incantation est la caractéristique augmentée par ce don.  
@@ -132,7 +132,7 @@ Poids transportable : 60 kgs
 | Huile | 0,5 | 
 | Billes (sac de 1000) | 1 | 
 | **Total** | 42,75 | 
-
+ 
 50+18 po 7pa  
 
 Poids des pièces 0,7 kg 
@@ -196,6 +196,15 @@ Plus aucune trace des autres conspirateurs arrêtés. Les gens ne se souviennnen
 
 ![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_my_domain.png](../_images/yuumei_my_domain.png)  
 
+
+Liste des entrée dans les archives  
+Septime est venu il y a quelques années  
+il y a 80-100 ans : premier apparitions des noms du Triumvirat  
+Zahaak m'envoie dans son monde et me fait rencontrer Amenmès, La Flamme Sacrée (je bite rien au monde, nat 1 sur le jet dé^^). La guerre civile est bloquée à cause du camp d'en face. Je dois convaincre ou indisposer deux généraux adverses (Enkil, fils du chef de clan des hommes-éléphants. Guerrier. Et le Cardinal Vian'Ey)  
+Négociation d'une trêve, échange de présents (j'offre un bracelet à Vian'Ey et il me file une figurine sculptée valant 80po). Interrompus par une attaque, combat violent, s'achève sur une grosse tempête de sable. 
+
+
+
 #### Grimoire :
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
@@ -208,7 +217,7 @@ DD des jets de sauvegarde : 15
 
 ### Tours de magie 
 
-– ✓ [Décharge occulte](https://www.aidedd.org/dnd/sorts.php?vf=decharge-occulte ) VS   
+– ✓ [Décharge occulte](https://www.aidedd.org/dnd/sorts.php?vf=decharge-occulte) VS   
 – ✓ [Main de mage](https://www.aidedd.org/dnd/sorts.php?vf=main-de-mage) VSM  
 – ✓ [Moquerie cruelle](https://www.aidedd.org/dnd/sorts.php?vf=moquerie-cruelle) V    
 – ✓ [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation) VS  
