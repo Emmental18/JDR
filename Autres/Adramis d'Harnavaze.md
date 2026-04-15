@@ -2,7 +2,7 @@
 
 ![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_hello.png](../_images/yuumei_hello.png)  
 
-**Classe :** Sorcier 2 / Barde 4       
+**Classe :** Sorcier 2 / Barde 5       
 **Race :**  Humain (h), CB  
 **Historique :** Acolyte  
 
@@ -43,7 +43,7 @@ Tirage de base : 8 14 13 12 10 15
 **Langues :** commun, infernal, +2  
 
 ##### [COMBAT]  
-**PV** 28/44  
+**PV** 51/51  
 **Initiative** +2 ; **Vitesse** 9m  
 **CA** 12 (sans armure, Dex +2), 14 Cuir clouté  
 
@@ -75,8 +75,8 @@ si vous êtes resté en bons termes avec ses occupants, ou un temple qui est dev
 demander l'assistance des prêtres qui s'y trouvent, dans la mesure où l'aide qu'ils vous apportent ne les met pas en danger et que vous soyez en bons termes avec eux.
 
 
-**Inspiration bardique (d6)**   
-Utilisations : 3/3 (Récupération : long repos)
+**Inspiration bardique (d8)**   
+Utilisations : 3/3 (Récupération : repos court)
 Bonus Action. Cible : quelqu'un capable d'entendre à 18m  
 Dé valable 10min, peut s'utiliser après lancer (attaque/carac/sauvegarde) mais avant annonce réussite/échec
 
@@ -95,7 +95,7 @@ Lors des tests de Charisme (Persuasion ou Tromperie), 9 ou moins = 10
 **Réceptacle du Génie**  
 Object magique, quand je le touche je peux :  
 – une fois par repos long, rentrer dedans pour 2×maîtrise (6) heures. Sortie par action bonus, j'entends ce qui se dit dehors
-– une fois par tour, +3 dégâts contandants sur un attaque qui touche
+– une fois par tour, +3 dégâts contondants sur un attaque qui touche
 CA du réceptacle : 14 
 PV : 3 (immunité poison/psychique) 
 
@@ -209,7 +209,7 @@ Négociation d'une trêve, échange de présents (j'offre un bracelet à Vian'Ey
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Emplacements de sorts :** 6/6 (Niv1) 3/3 (Niv2)   
+**Emplacements de sorts :** 6/6 (Niv1) 3/3 (Niv2) 2/2 (Niv3)      
 Récupération par repos court : 1 (Niv1)  
 DD des jets de sauvegarde : 15  
 (Yes, you can cast more than one spell per turn/round. The only specific restriction is that if you cast a spell as a bonus action, you can't cast a non-cantrip spell during your turn)
@@ -218,10 +218,10 @@ DD des jets de sauvegarde : 15
 ### Tours de magie 
 
 – ✓ [Décharge occulte](https://www.aidedd.org/dnd/sorts.php?vf=decharge-occulte) VS   
+– ✓ [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere) VM  
 – ✓ [Main de mage](https://www.aidedd.org/dnd/sorts.php?vf=main-de-mage) VSM  
 – ✓ [Moquerie cruelle](https://www.aidedd.org/dnd/sorts.php?vf=moquerie-cruelle) V    
 – ✓ [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation) VS  
-– ✓ todo
 
 ### Sorts de niveau 1  
 
@@ -229,16 +229,18 @@ DD des jets de sauvegarde : 15
 – [Maléfice](https://www.aidedd.org/dnd/sorts.php?vf=malefice) VSM   
 – [Mot de guérison](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-guerison) V   
 – [Murmures dissonants](https://www.aidedd.org/dnd/sorts.php?vf=murmures-dissonants) V  
+– [Repli expéditif](https://www.aidedd.org/dnd/sorts.php?vf=repli-expeditif) VS (Bonus)    
 – [Représailles infernales](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales) VS (Réaction)  
-– [Serviteur invisible](https://www.aidedd.org/dnd/sorts.php?vf=serviteur-invisible) VSM **R**  
-– [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil) VSM   
+– [Sanctuaire](hhttps://www.aidedd.org/dnd/sorts.php?vf=sanctuaire) VSM (Bonus)  
 
 ### Sorts de niveau 2  
 
 – [Fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement) VSM   
 – [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion) VM    
-– ✓ todo
 
+### Sorts de niveau 2  
+– [Clairvoyance](https://www.aidedd.org/dnd/sorts.php?vf=clairvoyance) VSM  
+– [Ennemis à foison](https://www.aidedd.org/dnd/sorts.php?vf=ennemis-a-foison) VS
 _____
 
 Divers :  
