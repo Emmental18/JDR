@@ -2,7 +2,7 @@
 
 ![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_hello.png](../_images/yuumei_hello.png)  
 
-**Classe :** Sorcier 2 / Barde 5       
+**Classe :** Sorcier 2 / Barde 6       
 **Race :**  Humain (h), CB  
 **Historique :** Acolyte  
 
@@ -43,7 +43,7 @@ Tirage de base : 8 14 13 12 10 15
 **Langues :** commun, infernal, +2  
 
 ##### [COMBAT]  
-**PV** 51/51  
+**PV** 57/57  
 **Initiative** +2 ; **Vitesse** 9m  
 **CA** 12 (sans armure, Dex +2), 14 Cuir clouté  
 
@@ -91,6 +91,16 @@ Lors des tests de Charisme (Persuasion ou Tromperie), 9 ou moins = 10
 
 **Mots dérangeants**
 [Bonus Action] : Dépenser une inspiration bardique pour donner ce malus au prochain jet de sauvegarde d'une créature à 18m 
+
+**Contre-charme**
+[Action] : Utiliser des mots de pouvoir pour interrompre des effets qui affectent la pensée d'une créature : jusqu'à la fin de mon prochain tour, moi et toute créature amicale dans un rayon de 9 mètres capable de m'entendre sont avantagés sur les jets de sauvegarde contre les effets terrorisé et charmé. Effet interrompu si neutralisé, réduit au silence ou fin volontaire (ne coûte pas d'action).
+
+**Inspration inarrêtable**
+Si échec lors de l'utilisation d'une Inspiration bardique, le dé n'est pas perdu.
+
+**Discours universel**
+[Action] Choisir une ou plusieurs (max 4 = Bonus CHA) créatures dans un rayon de 18m. Elles peuvent me comprendre pendant une heure.
+Récupération : epose long ou dépenser un spell slot quelconque.
 
 **Réceptacle du Génie**  
 Object magique, quand je le touche je peux :  
@@ -163,7 +173,7 @@ Vaughin Mireaubeau, l'Index (M). Jamais vu (un portrait de lui jeune).
 Cela fait quelques temps que je suis opposé à la doctrine, mais la bascule du côté de la rébellion est récente. 
 Je suis sur la liste des oposants, mais looooin tout en bas  
 
-Les dix grandes familles qui dirigent l'église :  
+Les dix grandes familles qui dirigent l'église :   
 Kerdobrum  
 Sheleste  
 Mireaubeau  
@@ -209,7 +219,7 @@ Négociation d'une trêve, échange de présents (j'offre un bracelet à Vian'Ey
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Emplacements de sorts :** 6/6 (Niv1) 3/3 (Niv2) 2/2 (Niv3)      
+**Emplacements de sorts :** 6/6 (Niv1) 3/3 (Niv2) 3/3 (Niv3)      
 Récupération par repos court : 1 (Niv1)  
 DD des jets de sauvegarde : 15  
 (Yes, you can cast more than one spell per turn/round. The only specific restriction is that if you cast a spell as a bonus action, you can't cast a non-cantrip spell during your turn)
@@ -237,10 +247,12 @@ DD des jets de sauvegarde : 15
 
 – [Fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement) VSM   
 – [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion) VM    
+– [Vent protecteur](https://www.aidedd.org/dnd/sorts.php?vf=vent-protecteur)
 
 ### Sorts de niveau 2  
 – [Clairvoyance](https://www.aidedd.org/dnd/sorts.php?vf=clairvoyance) VSM  
-– [Ennemis à foison](https://www.aidedd.org/dnd/sorts.php?vf=ennemis-a-foison) VS
+– [Ennemis à foison](https://www.aidedd.org/dnd/sorts.php?vf=ennemis-a-foison) VS  
+
 _____
 
 Divers :  
