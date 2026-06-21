@@ -2,7 +2,7 @@
 
 ![c:\Users\Emmental\Documents\git\JDR\_images\yuumei_hello.png](../_images/yuumei_hello.png)  
 
-**Classe :** Sorcier 2 / Barde 6       
+**Classe :** Sorcier 2 / Barde 7       
 **Race :**  Humain (h), CB  
 **Historique :** Acolyte  
 
@@ -11,31 +11,31 @@ Tirage de base : 8 14 13 12 10 15
 | ---  | --- | --- | --- | --- | --- | --- | 
 | Valeur | **8** (-1) | **14** (+2) | **14** (+2) | **12** (+1) | **10** (+0) |  **18** (+4) |
 |  |  |   |   |  | ☑ |  ☑ |
-|  Sauvegarde | -1 | +2 | +2 | +1 | +3 | +7 |
+|  Sauvegarde | -1 | +2 | +2 | +1 | +4 | +8 |
 
 **Bonus de maîtrise :** +3    
 
 **Compétences :** (Perception passive 10)  
 | Compétence | Carac | Maitrisée | Total |
 | --- | --- | --- | --- | 
-| Acrobaties | Dex | +1 | +3 |
-| Arcanes | Int | ☑☑ | +6 |
-| Athlétisme | For | +1 | +0 |
-| Discrétion | Dex | +1 | +3 |
-| Dressage | Sag | +1 | +1 |
-| Escamotage | Dex | +1 | +3 |
-| Histoire | Int | +1 | +2 |
-| Intimidation | Cha | +1 | +5 |
-| Intuition | Sag | +1 | +1 |
-| Investigation | Int | +1 | +2 |
-| Médecine | Sag | +1 | +1 |
-| Nature | Int | +1 | +2 |
-| Perception | Sag | ☑ | +3 |
-| Persuasion | Cha | ☑☑ | +10 |
-| Religion | Int | ☑ | +3 |
-| Représentation | Cha | ☑ | +7 |
-| Survie | Sag | +1 | +1 |
-| Tromperie | Cha | ☑ | +7 |
+| Acrobaties | Dex | +2 | +4 |
+| Arcanes | Int | ☑☑ | +10 |
+| Athlétisme | For | +2 | +1 |
+| Discrétion | Dex | +2 | +4 |
+| Dressage | Sag | +2 | +2 |
+| Escamotage | Dex | +2 | +4 |
+| Histoire | Int | +2 | +4 |
+| Intimidation | Cha | +2 | +6 |
+| Intuition | Sag | +2 | +2 |
+| Investigation | Int | +2 | +4 |
+| Médecine | Sag | +2 | +2 |
+| Nature | Int | +2 | +4 |
+| Perception | Sag | ☑ | +5 |
+| Persuasion | Cha | ☑☑ | +12 |
+| Religion | Int | ☑ | +6 |
+| Représentation | Cha | ☑ | +8 |
+| Survie | Sag | +2 | +2 |
+| Tromperie | Cha | ☑ | +8 |
 
 **Armes :** courantes   
 **Armures :** légères   
@@ -43,8 +43,8 @@ Tirage de base : 8 14 13 12 10 15
 **Langues :** commun, infernal, +2  
 
 ##### [COMBAT]  
-**PV** 57/57  
-**Initiative** +2 ; **Vitesse** 9m  
+**PV** 62/62  
+**Initiative** +4 ; **Vitesse** 9m  
 **CA** 12 (sans armure, Dex +2), 14 Cuir clouté  
 
 
@@ -62,6 +62,8 @@ Vous apprenez à déplacer des objets avec votre esprit, ce qui vous confère le
  – Augmentez votre valeur d'Intelligence, de Sagesse ou de Charisme de 1, jusqu'à un maximum de 20.  
  – Vous apprenez le sort main du mage. Vous pouvez le lancer sans composante verbale ou somatique, et pouvez rendre la main spectrale invisible. Si vous connaissez déjà ce sort, sa portée augmente de 9 mètres lorsque vous le lancez. Sa caractéristique d'incantation est la caractéristique augmentée par ce don.  
  – Par une action bonus, vous pouvez essayer de pousser par télékinésie une créature que vous pouvez voir à 9 mètres ou moins de vous. Dans ce cas, la cible doit réussir un jet de sauvegarde de Force (DD 8 + votre bonus de maîtrise + le modificateur de la caractéristique augmentée par ce don) ou être attirée ou repoussée de 1,50 mètre. Une créature peut volontairement rater ce jet de sauvegarde.
+
+**[Ailes de Paneb](https://5e.tools/feats.html#gift%20of%20the%20metallic%20dragon_ftd) (pour niveau suivant)**
 
 ##### [CAPACITÉS ET TRAITS]
 
@@ -219,9 +221,9 @@ Négociation d'une trêve, échange de présents (j'offre un bracelet à Vian'Ey
 
 [Liste sur AideDD](https://www.aidedd.org/dnd-filters/sorts.php)
 
-**Emplacements de sorts :** 6/6 (Niv1) 3/3 (Niv2) 3/3 (Niv3)      
+**Emplacements de sorts :** 6/6 (Niv1) 3/3 (Niv2) 3/3 (Niv3) 1/1 (Niv4)       
 Récupération par repos court : 1 (Niv1)  
-DD des jets de sauvegarde : 15  
+DD des jets de sauvegarde : 16  
 (Yes, you can cast more than one spell per turn/round. The only specific restriction is that if you cast a spell as a bonus action, you can't cast a non-cantrip spell during your turn)
 
 
@@ -249,10 +251,12 @@ DD des jets de sauvegarde : 15
 – [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion) VM    
 – [Vent protecteur](https://www.aidedd.org/dnd/sorts.php?vf=vent-protecteur)
 
-### Sorts de niveau 2  
+### Sorts de niveau 3  
 – [Clairvoyance](https://www.aidedd.org/dnd/sorts.php?vf=clairvoyance) VSM  
 – [Ennemis à foison](https://www.aidedd.org/dnd/sorts.php?vf=ennemis-a-foison) VS  
 
+### Sorts de niveau 4   
+– [Meurtrier fantômatique](https://5e.tools/spells.html#phantasmal%20killer_xphb) VSM 36m range    
 _____
 
 Divers :  
